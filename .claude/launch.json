@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "assets-preview",
+      "runtimeExecutable": "python3",
+      "runtimeArgs": ["-m", "http.server", "7821", "--directory", "weekly-briefs/2026-07-06_july-week1-proof-over-promises/assets"],
+      "port": 7821
+    }
+  ]
+}
