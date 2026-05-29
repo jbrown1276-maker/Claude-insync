@@ -41,7 +41,10 @@
       "Bash(grep -v \".md$\")",
       "Bash(find \"/Users/jeffbrown2023/CLAUDE CODE/proof-over-promises/week-1\" -maxdepth 1 -type f | sort && echo \"---DESKTOP---\" && ls \"/Users/jeffbrown2023/Desktop/LiveLearningFormula_WhitePaper.pdf\" 2>/dev/null && echo \"---DOWNLOADS---\" && ls \"/Users/jeffbrown2023/Downloads/LiveLearningFormula_WhitePaper_Draft5.docx\" 2>/dev/null && ls \"/Users/jeffbrown2023/Downloads/LiveLearningFormula_LM.docx\" 2>/dev/null)",
       "Bash(find \"/Users/jeffbrown2023/CLAUDE CODE/proof-over-promises\" -name \"*blog*\" -type f | sort && echo \"---\" && find \"/Users/jeffbrown2023/Downloads\" -name \"*blog*\" -o -name \"*Blog*\" 2>/dev/null | grep -i \"docx\\\\|md\\\\|pdf\" | head -20 && echo \"---\" && find \"/Users/jeffbrown2023/Documents/Campaign Orchestration System\" -name \"*blog*\" -type f | sort)",
-      "Bash(ls \"/Users/jeffbrown2023/Library/Application Support/Claude/local-agent-mode-sessions/skills-plugin/3b69d432-11e7-4c31-bef5-a15102a6817d/5c2caeb0-2079-4a65-87b7-6d6cdcc25b3c/skills/elena-creative-director/\")"
+      "Bash(ls \"/Users/jeffbrown2023/Library/Application Support/Claude/local-agent-mode-sessions/skills-plugin/3b69d432-11e7-4c31-bef5-a15102a6817d/5c2caeb0-2079-4a65-87b7-6d6cdcc25b3c/skills/elena-creative-director/\")",
+      "Bash(cat \"/Users/jeffbrown2023/Library/Application Support/Claude/local-agent-mode-sessions/skills-plugin/3b69d432-11e7-4c31-bef5-a15102a6817d/5c2caeb0-2079-4a65-87b7-6d6cdcc25b3c/skills/sarah-copywriter/SKILL.md\")",
+      "Bash(git -C \"/Users/jeffbrown2023/Documents/Campaign Orchestration System\" status)",
+      "Bash(git -C \"/Users/jeffbrown2023/Documents/Campaign Orchestration System\" log --oneline -3)"
     ]
   }
 }
