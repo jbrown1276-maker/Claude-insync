@@ -44,7 +44,17 @@
       "Bash(ls \"/Users/jeffbrown2023/Library/Application Support/Claude/local-agent-mode-sessions/skills-plugin/3b69d432-11e7-4c31-bef5-a15102a6817d/5c2caeb0-2079-4a65-87b7-6d6cdcc25b3c/skills/elena-creative-director/\")",
       "Bash(cat \"/Users/jeffbrown2023/Library/Application Support/Claude/local-agent-mode-sessions/skills-plugin/3b69d432-11e7-4c31-bef5-a15102a6817d/5c2caeb0-2079-4a65-87b7-6d6cdcc25b3c/skills/sarah-copywriter/SKILL.md\")",
       "Bash(git -C \"/Users/jeffbrown2023/Documents/Campaign Orchestration System\" status)",
-      "Bash(git -C \"/Users/jeffbrown2023/Documents/Campaign Orchestration System\" log --oneline -3)"
+      "Bash(git -C \"/Users/jeffbrown2023/Documents/Campaign Orchestration System\" log --oneline -3)",
+      "Bash(git commit -m ' *)",
+      "Bash(git remote *)",
+      "Bash(git push *)",
+      "Bash(gh auth *)",
+      "Bash(git -C \"/Users/jeffbrown2023/Documents/Campaign Orchestration System\" config credential.helper osxkeychain)",
+      "Bash(ssh-keyscan github.com)",
+      "Bash(ssh -T git@github.com)",
+      "Bash(git pull *)",
+      "WebFetch(domain:github.com)",
+      "Bash(git add *)"
     ]
   }
 }
