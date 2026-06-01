@@ -224,10 +224,34 @@ If you skip this step, you will lose track of source document locations, blog-to
 ## Agent Invocation — Critical Technical Notes
 
 **Use the `Agent` tool to invoke agents — NOT the `Skill` tool.**
-The Skill tool consistently hangs in this project. Always use:
+The Skill tool consistently hangs in this project. The Agent tool with `subagent_type: "anthropic-skills:*"` also fails ("agent type not found"). The only reliable method is:
+
 ```
-Agent(subagent_type: "[skill-name]", prompt: "[full context + inputs]")
+Agent(
+  subagent_type: "general-purpose",
+  description: "[short description]",
+  prompt: "[full SKILL.md content] + [all campaign inputs]"
+)
 ```
+
+**Invocation pattern — step by step:**
+1. Read the agent's SKILL.md from the local installation:
+   `/Users/jeffbrown2023/Library/Application Support/Claude/local-agent-mode-sessions/skills-plugin/3b69d432-11e7-4c31-bef5-a15102a6817d/5c2caeb0-2079-4a65-87b7-6d6cdcc25b3c/skills/[agent-name]/SKILL.md`
+2. Read all required input files for that stage
+3. Invoke `Agent(subagent_type: "general-purpose", prompt: "[SKILL.md content]\n\n---\n\n[all inputs clearly labeled]")`
+
+**Skill file paths (local installation):**
+| Agent | SKILL.md path |
+|-------|--------------|
+| Marcus | `skills/marcus-strategist/SKILL.md` |
+| Elena | `skills/elena-creative-director/SKILL.md` |
+| Devon | `skills/devon-art-director/SKILL.md` |
+| Sarah | `skills/sarah-copywriter/SKILL.md` |
+| Jamie | `skills/jamie-social-manager/SKILL.md` |
+| Alex | `skills/alex-ads-manager/SKILL.md` |
+| Casey | `skills/casey-production-manager/SKILL.md` |
+
+Base path: `/Users/jeffbrown2023/Library/Application Support/Claude/local-agent-mode-sessions/skills-plugin/3b69d432-11e7-4c31-bef5-a15102a6817d/5c2caeb0-2079-4a65-87b7-6d6cdcc25b3c/`
 
 **For parallel stages (3 and 4):** Send both Agent tool calls in a single message simultaneously. Do not wait for one to finish before starting the other.
 
