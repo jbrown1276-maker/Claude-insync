@@ -57,7 +57,8 @@
       "Bash(git add *)",
       "Bash(python3 -m http.server 7822)",
       "Bash(echo \"Server PID: $!\")",
-      "WebFetch(domain:raw.githubusercontent.com)"
+      "WebFetch(domain:raw.githubusercontent.com)",
+      "WebFetch(domain:wifitalents.com)"
     ]
   }
 }

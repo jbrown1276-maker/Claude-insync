@@ -56,21 +56,21 @@ Sarah must escalate the consultation CTA language week over week. Do NOT use "Bo
 | Jamie — Social Package | ✅ Approved | `04-jamie-social-package.md` |
 | Alex — Ads Brief | ✅ Approved | `04-alex-ads-brief.md` |
 | Casey — Production Plan | ✅ Approved (v2) | `05-casey-production-plan-v2.md` |
-| Morgan — Publishing | ⬜ Not yet run | Runs after Casey approval |
+| Morgan — Publishing | ✅ Complete | 8 .docx files delivered to ~/Downloads/July 2026 - Week 1 - Proof Over Promises/ |
 
 **Week 1 deliverables produced:**
-- Jennifer Hofmann Learning Leadership Series article: "When Live Learning Is Worth the Investment"
+- Karen Vieth Learning Leadership Series article: "What 25 Years in These Rooms Taught Me About Why Learning Sticks … or Doesn't" (Karen Vieth, CEO — final version approved by Karen)
 - Weekly newsletter: "Are you measuring what matters — or just what's easy?"
 - LinkedIn Newsletter Teaser: "The Measurement Gap No One Talks About in L&D"
 - LinkedIn Posts 1–3 (Tuesday–Thursday, 9:00 AM ET)
 - Email #1: "Is your learning data telling the whole story?" (Week 1 of 4-email arc, dual CTA)
-- 4 SVG design assets (PNG export pending): stat card, email header, article header (Hofmann), pull quote card
+- 4 SVG design assets (PNG export pending): stat card, email header, article header (Karen Vieth — headshot swap pending), pull quote card
 
 **Week 1 concept:** "The Incomplete Picture" — structured incompleteness visual motif, Golden Honey marks the gap.
 
 **What Week 1 established that Week 2 builds on:**
 - The measurement gap is named and validated — Weeks 2–4 can reference it as understood
-- Jennifer Hofmann's authority is introduced — later articles build on this foundation
+- Karen Vieth's authority is introduced as CEO — she is the Learning Leadership Series voice going forward
 - The White Paper is positioned as the credibility anchor
 - The consultation CTA is seeded ("Start the conversation") — Week 2 turns it up
 
@@ -134,7 +134,7 @@ These are unresolved from Week 1. Confirm status before starting Week 2:
 | 2 | Web team contact provided to Alex | Jeff | June 13 | Alex needs this for landing page audits for ALL weeks |
 | 3 | White Paper landing page audited + confirmed live | Alex | June 30 | Primary CTA for every week — blocking |
 | 4 | Consultation CTA UTM tags built | Alex | June 13 | Must be in all Week 2 copy as well |
-| 5 | Jennifer Hofmann article review and sign-off | Hofmann / Jeff | June 27 | If not resolved, Hofmann article is delayed. Week 2 should not reference a Week 1 article that is not yet live. |
+| 5 | Article header asset rebuild (Devon) | Devon | June 20 | Karen Vieth replaces Jennifer Hofmann as article author. Devon must rebuild article-header SVG with KV_bw.jpg headshot, name "Karen Vieth," title "CEO, InSync Training." |
 | 6 | Email list segmentation (leader vs. practitioner) | Jeff | June 27 | If unresolved, affects targeting for Week 2 email as well |
 
 ---
@@ -150,8 +150,8 @@ Do not name a specific InSync person as the host of anything unless Jeff confirm
 ### Statistics Verification Rule
 Before presenting Sarah's copy to Jeff, verify every stat she uses. Read the source document. If a stat cannot be verified, flag it. Do not present unverified stats as confirmed.
 
-### Jennifer Hofmann Bylined Content
-Any content with Jennifer Hofmann's byline must go to Jennifer for review before publish. Do not skip this gate.
+### Karen Vieth Bylined Content
+Karen Vieth is the CEO and the Learning Leadership Series author. Any article under her byline must be reviewed and approved by Karen before publish. The Week 1 article is already approved. Apply this gate to all future Karen Vieth articles.
 
 ### White Paper CTA
 All White Paper links must point to `insynctraining.com/why-go-live` and must be UTM-tagged per Alex's framework before publish.
@@ -217,7 +217,7 @@ Base: `/Users/jeffbrown2023/InSync Training LLC Dropbox/Marketing & Sales/2023 M
 - White bug/mark: `MARK/BUG_white.svg` — dark backgrounds, small placements
 - Note: Dropbox files may be online-only (0 bytes locally). Confirm before Devon uses them.
 
-**Jennifer Hofmann headshot:** `/Users/jeffbrown2023/Downloads/jennifer-dye-headshot-01_bw.jpg`
+**Karen Vieth headshot:** `/Users/jeffbrown2023/Downloads/KV_bw.jpg`
 
 ---
 
