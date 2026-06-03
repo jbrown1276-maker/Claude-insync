@@ -189,10 +189,13 @@ When asked for a status update, report:
 
 At the start of every session, before doing anything else, read these files:
 
-1. **`/memory/q3_source_documents.md`** — Complete map of all Q3 source documents: blog files, White Paper versions, logo paths, Jennifer Hofmann assets, weekly brief folder map, and pre-launch checklist. This is the authoritative reference for all InSync Training Q3 2026 campaign source material.
+1. **`/memory/q3_source_documents.md`** — Complete map of all Q3 source documents: blog files, White Paper versions, logo paths, Karen Vieth assets, weekly brief folder map, and pre-launch checklist.
 2. **`/memory/MEMORY.md`** — Memory index listing all persistent context files.
+3. **`/memory/voice-tone-reference.md`** — Living voice and tone guide built from approved campaign content. Karen Vieth's voice, Sarah's short-form register, key feedback that shaped the writing, sentence-level rules, and Q3 arc principles. Read this before invoking Sarah or Elena on any writing task.
+4. **Current week's `00-decisions-log.md`** — All mid-campaign decisions for the active week. Read this to understand what changed and why before invoking any agent.
+5. **Current week's `00-lessons-learned.md`** (if it exists) — What worked, what needed revision, what to brief differently. Feed this into Marcus's brief for the next week.
 
-If you skip this step, you will lose track of source document locations, blog-to-week assignments, and file paths that cannot be reconstructed without re-reading every document.
+If you skip this step, you will lose track of source document locations, voice calibration, and mid-campaign decisions that cannot be reconstructed without re-reading every document.
 
 ---
 
