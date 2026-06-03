@@ -1,147 +1,210 @@
 # Voice and Tone Reference — InSync Training
 **Maintained by:** Campaign Orchestrator — Addison & Clark
-**Source:** Approved campaign content + client/reviewer feedback
+**Source:** Approved campaign content + brand reference + client/reviewer feedback
 **Last updated:** 2026-06-01
 
-This is a living document. It grows from real approved content, not theory. Every week that produces strong writing or useful feedback, this file gets updated. Sarah, Elena, and all agents read this before writing.
+This is a living document. It grows from real approved content — not theory. Read it before invoking Sarah or Elena on any writing task. It does not replace the brand guidelines; it builds on them with specific examples from actual approved writing.
 
 ---
 
-## The Core Distinction
+## Foundation — Brand Voice and Messaging House
 
-InSync's voice is not a brand voice in the typical sense. It is a practitioner voice. The difference:
+**All writing must honor these.** The documents below are authoritative. This voice guide adds specificity on top of them, not instead of them.
 
-**Brand voice:** "InSync Training delivers proven live learning solutions that drive measurable outcomes."
+- **Brand voice:** `/brand-reference/brand-voice.md` — Human. Clear. Confident. Five voice principles. What InSync always and never sounds like.
+- **Messaging pillars:** `/brand-reference/messaging-pillars.md` — Four pillars. The positioning statement. Things we never say.
+- **Brand guidelines:** `/brand-reference/brand-guidelines.md` — Visual identity, colors, typography.
+
+**The non-negotiables from the brand house (memorize these):**
+- Never say: "best-in-class," "synergy," "leverage" (as verb), "value-add," "holistic solutions," "innovative" without specifics
+- Never sound like a vendor brochure
+- Always tie ideas to tangible outcomes
+- Specifics and proof points over superlatives
+- The Q3 primary pillar is **Pillar 03 — Human Connection That Delivers**: diagnostics, baselines, tying live learning to numbers leaders care about
+
+---
+
+## The Core Distinction — Brand Voice vs. InSync Practitioner Voice
+
+The brand house gives us the rules. The practitioner voice is how those rules sound when someone who has actually been in the room is speaking.
+
+**Generic brand voice:** "InSync Training delivers proven live learning solutions that drive measurable outcomes."
+
 **InSync practitioner voice:** "Most L&D teams are being asked to answer a question their current measurement approach wasn't designed to answer."
 
-The second sentence earns trust because it names the reader's situation precisely. The first sentence says nothing they haven't heard before.
+The second sentence earns trust because it names the reader's situation precisely. The first says nothing they haven't heard before.
 
-**The test for every sentence:** Does this sound like something the most respected person in the reader's professional network would say? If it sounds like a vendor, rewrite it.
+**The test for every sentence:** Does this sound like the most respected person in the reader's professional network? If it sounds like a vendor, rewrite it.
 
 ---
 
-## Karen Vieth — CEO Voice
+## The Four Blogs — Primary Voice Reference
 
-Karen is the Learning Leadership Series author. She writes as a practitioner-authority with 25 years of field experience. Her register is direct, calm, and specific. She draws on what she has *seen* — not on what she wants to *teach*.
+These are pre-written, pre-approved content pieces. They represent the authentic InSync voice by author and audience. Sarah reads these for tone calibration before writing any week's copy. They are not to be rewritten.
+
+---
+
+### Blog 1 — Jennifer Lindsey Finan (Practitioner register)
+**Title:** 5 Signs Your Learning Program Is Measuring the Wrong Things
+**File:** `/weekly-briefs/2026-07-06_july-week1-proof-over-promises/00-blog1-source.md`
+
+**How it opens (the model for practitioner-register hooks):**
+> "The session ended on time. The facilitator got through the deck. Attendance was high, the chat stayed active, and the completion report will look clean by Friday. But by the next morning, managers are still getting basic questions, learners are unsure how to use what they practiced, and the learning team is already hearing, 'Can we clarify that in the next cohort?'"
+
+**What makes this voice work:**
+- Drops into the practitioner's specific moment — no setup, no thesis
+- Uses operational language: "run-of-show," "breakout activity," "cohort," "application activity," "design intent"
+- Names what practitioners observe but can't yet report: "the facilitator notices learners are quiet during the application activity, but the post-session survey still comes back positive"
+- Addresses the reader directly as a peer: "you are asked to prove impact"
+- Contrast sentences that land cleanly: "Completion rates tell you what happened. Outcomes tell you whether it mattered."
+
+**Practitioner operational vocabulary (use these words — they signal credibility):**
+run-of-show · breakout activity · cohort · application activity · design intent · facilitator readiness · producer · delivery brief · learning continuity · scrap learning · readiness to perform
+
+---
+
+### Blog 2 — Karen Vieth (Leader register)
+**Title:** Completion Rates Are Lying to You — Here's What to Track Instead
+**File:** `/weekly-briefs/2026-07-13_july-week2-proof-over-promises/00-blog2-source.md`
+
+**How it opens (the model for leader-register hooks):**
+> "A learning report lands on the executive dashboard showing a 94% completion rate, strong attendance, and decent satisfaction scores. On paper, the program looks healthy. Then the business leader asks the question that changes the room: 'What improved?'"
+
+**What makes this voice work:**
+- Opens from the leader's vantage point — the dashboard, the executive room
+- Names the business consequence: "For leaders under pressure to defend budget and prove value, that gap is more than frustrating. It creates credibility risk."
+- Specific failure examples: "a sales team still struggles with discovery calls, a manager cohort still avoids feedback conversations, a compliance rollout still produces the same errors"
+- Strong contrast: "The report says the program happened. The workplace says the capability did not hold."
+- Addresses leaders on what to look for: three kinds of evidence — engagement quality, behavior change, performance outcomes
+
+**Leader vocabulary (use these words):**
+credibility risk · executive dashboard · defend budget · business outcomes · capability building · performance evidence · ROI · measurable capability
+
+---
+
+### Blog 3 — Jennifer Hofmann (Leader register, systems lens)
+**Title:** What a Strong Live Learning System Actually Looks Like
+**File:** `/weekly-briefs/2026-07-20_july-week3-proof-over-promises/00-blog3-source.md`
+
+**How it opens (the model for recognition-based hooks):**
+> "Most leaders can recognize a good live learning experience when they see one. The virtual classroom feels purposeful. The facilitator is not filling time. Learners are practicing something that resembles the work they need to do after the session ends. The harder question is whether that quality can happen again next month, in another region, with another facilitator, for a different cohort."
+
+**What makes this voice work:**
+- Opens with what leaders already know, then shifts to what they haven't asked
+- Frames quality as a systems question, not a talent question: "reliable outcomes do not come from isolated excellence. They come from a system"
+- Distinguishes repetition from scale: "Repetition means the same slides are used in Boston, London, and Singapore. Scale means the same standard of learner readiness."
+- Addresses the reader directly: "You see consistency without sameness."
+- Closes on what leaders should examine and ask — assigns the inquiry to them
+
+**Systems vocabulary (use these words when framing the Live Learning Formula):**
+delivery infrastructure · design intent survives the handoff · shared standards · preparation workflows · run-of-show clarity · feedback loops · observable quality
+
+---
+
+### Blog 4 — Cindy Foster (Practitioner register, facilitator focus)
+**Title:** The Question Every Virtual Facilitator Should Be Asking After Every Session
+**File:** `/weekly-briefs/2026-07-27_july-week4-proof-over-promises/00-blog4-source.md`
+
+**How it opens (the model for post-session practitioner voice):**
+> "The virtual classroom can go quiet fast. Participants log off, the producer closes the room, chat is saved somewhere, and the facilitator is already thinking about the next session on the calendar."
+
+**What makes this voice work:**
+- Opens in the practitioner's exact moment after delivery — not before, not during
+- The key question as a structural device: "What did we observe today that tells us learners are more ready to perform than they were when they arrived?"
+- Names specific observable evidence: "a participant uses the right language in a role play," "a breakout group catches its own mistake," "chat shifts from basic clarification to application questions"
+- Introduces the InQuire Engagement Framework practically: environmental, intellectual, emotional engagement — as a lens, not a form to complete
+- Positions facilitator observation as evidence: "facilitators often have valuable evidence in their heads that never makes it back into the learning system"
+
+**Facilitator vocabulary (use for practitioner content):**
+post-session reflection · learner readiness · engagement quality · producer-facilitator debrief · breakout room · chat observation · run-of-show · cohort variation
+
+---
+
+## Patterns Across All Four Blogs
+
+Every piece of approved InSync content does these things. Sarah should too:
+
+1. **Opens in a specific moment** — not with a thesis, not with a question, not with a stat. The reader is in the room before the argument begins.
+2. **Uses operational language** — words that signal the writer has been in the room: run-of-show, breakout, cohort, producer, design intent. These words separate practitioner writing from vendor writing.
+3. **Names what people observe but can't yet report** — this is the gap InSync owns. The facilitator who sees something but has no place to capture it. The leader whose dashboard is green while the business is not improving.
+4. **Addresses the reader directly** — "you" appears early. The reader is a participant, not an observer.
+5. **Contrast sentences carry weight** — "Completion rates tell you what happened. Outcomes tell you whether it mattered." Short. Parallel. Lands before the reader can argue.
+6. **Evidence supports observation — not the other way around** — The stat arrives after the reader has felt the problem. It validates, not introduces.
+7. **Closes on what the reader should do or ask** — not on what InSync offers.
+
+---
+
+## Karen Vieth — CEO Voice (Long-Form Articles)
+
+Karen is the Learning Leadership Series author. Her register is practitioner-authority — direct, calm, specific. 25 years of field experience. She draws on what she has *seen*, not on what she wants to *explain*.
 
 ### What Karen's voice sounds like
 
 **On naming the problem:**
 > "The organizations I've worked with that struggle to demonstrate the value of their live learning programs almost always share the same root condition: they are trying to measure outcomes that the learning system was never intentionally designed to produce."
 
-> "I've watched organizations spend six figures on a live learning program and then have nothing to say at the six-month review except 'people liked it.' That outcome was predictable, and it was set in motion by a leadership decision, not a design failure."
-
 **On assigning ownership to the leader:**
 > "The measurement conversation is not an evaluation problem. It is a design problem that belongs to you before the program is built."
-
-> "The leaders who close the gap between learning activity and business outcome are not the ones with better dashboards — they are the ones who asked what success looks like before anyone opened an authoring tool."
+> "That outcome was predictable, and it was set in motion by a leadership decision, not a design failure."
 
 **On introducing a framework:**
 > "What I've come to call the Live Learning Formula isn't a model I developed in the abstract. It's a description of what I kept seeing in the programs that worked."
 
-*(The framework feels earned — it arrives as a conclusion from field experience, not as a concept being presented.)*
+**On closing with accountability:**
+> "The leaders who close the gap between learning activity and business outcome are not the ones with better dashboards — they are the ones who asked what success looks like before anyone opened an authoring tool and built the conditions for it from the start."
 
-**On drawing a pattern:**
-> "After decades of watching programs succeed and fail at this, the signal I look for first isn't the evaluation instrument. It's what happened before the session was designed."
+### Leadership Series structural principles (from reviewer feedback)
+1. Address the reader as decision-maker, not observer. Use "you" early and specifically.
+2. Assign leadership ownership. Name failures as leadership decisions — not design failures.
+3. Close on accountability before the CTA. The White Paper earns its place after the insight lands.
+4. Section headers advance the argument: "The pattern I keep seeing" not "What the standard dashboard is actually measuring."
 
 ### What Karen's voice does NOT sound like
-
 - "In today's rapidly evolving L&D landscape..." — delete on sight
-- "Transform your measurement approach with proven methodologies..." — banned
 - "Here's a framework that will help you..." — do not introduce the formula this way
+- "Transform your measurement approach..." — banned
 - Any sentence that could appear in a vendor brochure
-
-### Karen's structural principles (from reviewer feedback)
-
-1. **Address the reader as decision-maker, not observer.** The reader should feel like a participant, not someone watching other organizations fail. Use "you" early and specifically.
-2. **Assign leadership ownership.** When organizations fail at measurement, name it as a leadership decision — not a design failure, not a team failure.
-3. **Close on accountability before the CTA.** The close should land the leader's responsibility first, then bring in the White Paper as the natural next step. The White Paper does not close the article — the insight does.
-4. **Section headers should advance the argument.** Not: "What the standard dashboard is actually measuring." Better: "The pattern I keep seeing." / "Why it's not where teams think it is."
 
 ---
 
-## Sarah — Copywriter Voice (Short-Form)
-
-Sarah writes for practitioners and leaders in the peer register. Short-form copy (LinkedIn posts, email, newsletter) follows these principles:
+## Sarah — Short-Form Copy Register
 
 ### What works — approved examples
 
-**LinkedIn Post 1 opener (practitioner recognition):**
-> "You've been in that meeting.
-> The program wrapped well. Participants were engaged. The facilitators were prepared. Energy in the session was real.
-> And then the evaluation report comes out, and someone asks the question you've been quietly dreading: What changed because of this?"
+**Practitioner hook (LinkedIn Post 1):**
+> "You've been in that meeting. The program wrapped well. Participants were engaged. The facilitators were prepared. Energy in the session was real. And then the evaluation report comes out, and someone asks the question you've been quietly dreading: What changed because of this?"
 
-*(Opens with the felt experience. No setup, no context-setting. The reader is in the room by sentence two.)*
+**Stat as solidarity (LinkedIn Post 2):**
+> "Seventy percent of L&D leaders are under increasing pressure to prove the impact of their programs. Only 48% measure anything beyond completion. That gap isn't a coincidence. It's a description of what most evaluation frameworks were built to do — and what they weren't."
 
-**Stat framing (evidence as solidarity, not sales):**
-> "Seventy percent of L&D leaders are under increasing pressure to prove the impact of their programs. Only 48% measure anything beyond completion.
-> That gap isn't a coincidence. It's a description of what most evaluation frameworks were built to do — and what they weren't."
+**Email opener:**
+> "There's a version of this you've probably lived through: the program ran well, the evaluation report was solid, and then someone in a leadership meeting asked a question the data couldn't answer. Not because the data was wrong. Because the measurement framework was built to track activity — completion, attendance, satisfaction — and the question being asked was about impact."
 
-*(The stat doesn't say "look at this problem." It says "you are not alone — and here's why.")*
-
-**Email #1 opener:**
-> "There's a version of this you've probably lived through: the program ran well, the evaluation report was solid, and then someone in a leadership meeting asked a question the data couldn't answer.
-> Not because the data was wrong. Because the measurement framework was built to track activity — completion, attendance, satisfaction — and the question being asked was about impact."
-
-*(Leads with recognition, not with InSync. The reader's situation comes first.)*
-
-**White Paper CTA (substance, not transaction):**
-> "The Why Go Live White Paper is worth reading before your next leadership conversation. It's not a quick tips list. It's the kind of document you share upward."
-
-**Consultation CTA Week 1 (low-pressure, peer offering):**
+**Consultation CTA Week 1:**
 > "If you'd rather talk through what this looks like in your program, we're available for that. A 30-minute conversation, no agenda other than your measurement questions."
-
-### What does not work
-
-- "Transform your learning measurement approach" — banned
-- "Download our free white paper today!" — wrong register entirely
-- "Join us for an exciting webinar" — "exciting" signals nothing substantive
-- "Are you measuring what matters in today's L&D environment?" — vague, generic
-- Opening with InSync's name or services — the reader's situation comes first, always
-
----
-
-## Feedback That Sharpened the Voice (Key Learnings)
-
-### Karen Vieth (CEO) on the original article (June 2026):
-> "Frameworks demonstrate knowledge, but stories, observations, and real-world experiences demonstrate understanding. Buyers aren't looking for another framework. They're looking for someone who understands their situation and can help them solve it."
-
-**What this means for writing:** Lead with what you've *seen*, not with what you want to *explain*. The framework is the conclusion — not the premise.
-
-### Reviewer feedback on the Leadership Series article (June 2026):
-> "This one positions the reader as an observer of other organizations' failures. The first two articles speak directly to the leader as the decision-maker."
-
-**What this means for writing:** In the Leadership Series, the reader is always in the frame as the decision-maker. The article addresses *them* — not organizations they're observing. "You" matters. Ownership matters.
 
 ---
 
 ## Sentence-Level Rules
 
-- **No em dashes in Sarah's copy.** Use short declarative sentences instead. Exception: Karen Vieth's own edits may include em dashes — use them as written.
-- **No all-caps headlines.** Sentence case throughout.
+- **No em dashes in Sarah's copy.** Short declarative sentences instead. Exception: Karen Vieth's own edits may include em dashes.
+- **Sentence case throughout.** No all-caps headlines.
 - **Source attribution on every stat.** Never present a number without its source.
-- **Short paragraphs in email and social.** One idea per paragraph. If a paragraph runs more than three sentences in email copy, consider breaking it.
-- **The hook earns everything that follows.** If the first sentence could apply to any campaign, it has failed.
+- **Short paragraphs in email and social.** One idea per paragraph. Three sentences maximum in email before a break.
+- **The hook earns everything.** If the first sentence could apply to any campaign, it has failed.
+- **Never say:** best-in-class · synergy · leverage (as verb) · value-add · holistic · innovative (without specifics) · transform · world-class · exciting · game-changing
 
 ---
 
-## Arc Principles (Q3 2026 — Proof Over Promises)
+## Q3 Arc — Voice Shifts Week to Week
 
-Each week builds. Each piece of copy should feel like the next chapter, not a repeat:
-
-| Week | Emotional territory | Voice register |
-|------|--------------------|--------------------|
-| Week 1 | Recognition — "This is us" | Named gap, solidarity, peer |
-| Week 2 | Contrast — "Here's what different looks like" | Evidence, comparison, specificity |
-| Week 3 | Proof — "Here's how we know it works" | Case study, credibility, precision |
-| Week 4 | Invitation — "Let's look at your program" | Direct, warm, specific ask |
-
-The consultation CTA language escalates to match:
-- Week 1: "Start the conversation"
-- Week 2: "Let's talk about your program"
-- Week 3: "Talk with our team this week"
-- Week 4: "Book a consultation today"
+| Week | Emotional territory | Voice register | Consultation CTA |
+|------|--------------------|--------------------|-----------------|
+| Week 1 | Recognition — "This is us" | Named gap, solidarity, peer | "Start the conversation" |
+| Week 2 | Contrast — "Here's what different looks like" | Evidence, comparison, specificity | "Let's talk about your program" |
+| Week 3 | Proof — "Here's how we know it works" | Case study, credibility, precision | "Talk with our team this week" |
+| Week 4 | Invitation — "Let's look at your program together" | Direct, warm, specific ask | "Book a consultation today" |
 
 ---
 
-*This document is updated at the close of each week. Add approved examples that demonstrate the voice working well. Add feedback that clarified what the voice is not. Over time this becomes the most accurate voice guide InSync has.*
+*Updated at the close of each week. Add the strongest approved sentences. Add feedback that clarified what the voice is not. Over time this becomes the most accurate voice guide InSync has — built from what actually worked.*
