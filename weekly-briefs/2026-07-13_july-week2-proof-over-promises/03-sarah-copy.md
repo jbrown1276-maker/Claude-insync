@@ -1,225 +1,423 @@
-# July 2026 · Week 2 — All Copy Deliverables
-**Prepared by:** Sarah, Copywriter
-**For:** Jeff Brown and Campaign Team
-**Campaign:** Proof Over Promises · Client: InSync Training · Week of July 13–17, 2026
+# Week 2 Copy Package
+**Campaign:** Proof Over Promises — Q3 2026
+**Client:** InSync Training
+**Week:** July 13, 2026 (Week 2)
+**Prepared by Sarah, Copywriter.**
 
 ---
 
-## DELIVERABLE 1: Weekly Newsletter
+## 1. NEWSLETTER
 
-**Subject line:** What if your metrics are measuring the wrong things?
-
-**Preheader:** Most measurement frameworks were built for a different question.
+### VERSION A — VIDEO
 
 ---
 
-What if your metrics are measuring the wrong things?
+**Subject Lines**
 
-It is a question most of us in L&D have asked quietly, usually after a budget meeting where the numbers on the slide did not do the job we needed them to do.
+1. **Cost-framed:** Your completion rates are costing you the budget conversation
+2. **Practitioner-recognition:** You've been measuring the right programs with the wrong tool
+3. **Reframe statement:** The metric isn't broken. It was just built for a different job.
 
-Last week, we named that gap. This week, the argument gets sharper. The measurement approach most L&D teams rely on does not just fall short of proving performance. It produces the appearance of it. A 94% completion rate on a program that changed nothing looks, on a dashboard, exactly like success. That is not a neutral deficiency. The LMS was built to track compliance, not capability. It does that job well. It just was not built to answer what the CFO is asking.
-
-There are three things that actually tell you whether a learning program worked. Not whether it ran. Whether it worked. Engagement quality: did learners participate in ways that revealed thinking, not just attendance? Behavior change: are participants doing something differently on the job? Performance outcomes: did the business indicators the program was designed to move actually move? Those are the measures. They are harder to capture than a completion rate. They are also the only ones that answer the question being asked.
-
-This week, two things worth reading.
-
-**For the practitioner conversation:**
-Karen Vieth's piece — *Completion Rates Are Lying to You: Here's What to Track Instead* — names the problem directly and introduces a practical framework for measuring what actually matters. If you have ever presented strong completion numbers to a room that stayed unconvinced, this one is for you.
-
-**For the full framework:**
-The *Why Go Live White Paper* lays out the complete measurement approach. The evidence base. The case studies. The before and after. It is the kind of document worth sharing with your CLO before the next budget conversation, not after.
-
-[Read the White Paper]
-
-Until next week,
-[Sign-off / Author name]
-
-**Word count:** 298
+**Preview Text (matching):**
+1. The metric executives actually want to see. Why most L&D teams aren't tracking it yet.
+2. 40% of talent development professionals rate themselves proficient at measuring impact. That number deserves a harder look.
+3. Karen Vieth didn't set out to critique L&D measurement. She set out to change the executive conversation.
 
 ---
 
-## DELIVERABLE 2: LinkedIn Newsletter Teaser
+**Body Copy**
 
-**Title:** The Three Things L&D Teams Should Be Measuring Instead
+Karen Vieth and Jennifer Hofmann didn't set out to critique L&D measurement. They set out to have a different conversation with executives. What they found is that the metrics most teams are carrying into those rooms were never built for the questions those executives are asking.
 
----
+Completion rates were designed for compliance reporting. That's it. A 94% completion rate tells you that people showed up and clicked through. It does not tell you whether live learning built capability, changed behavior, or helped anyone perform differently on the job.
 
-Most measurement frameworks were built to prove that training happened. Not to prove that it worked. That is not a design flaw in any one team's approach. It is a design flaw in the tools most teams were given.
+The report says the program happened. The workplace says the capability did not hold.
 
-The three measures that actually answer whether a learning program worked are engagement quality, behavior change, and performance outcomes. Engagement quality: whether learners participated in ways that revealed thinking, not just attendance. Behavior change: whether participants are doing something differently on the job. Performance outcomes: whether the business indicators the program was designed to influence moved.
+Here's the number that reframes the whole conversation: only 40% of talent development professionals rate themselves as proficient at evaluating impact. (ATD, 2025.) Read that again. Not 40% of under-resourced teams. Not 40% of early-career practitioners. Forty percent across the field. This is not a knowledge gap. This is a measurement infrastructure problem. Most L&D teams are working hard with instruments that were never calibrated for what their business needs to see.
 
-This week's newsletter goes deeper on why these three measures matter and what it looks like to track them. The Karen Vieth piece is the one worth passing to your team.
+Karen and Jennifer walk through exactly this in this week's video. Watch it here. [VIDEO EMBED]
 
-[Read the full newsletter →]
+They're not selling a new methodology. They're naming the gap and showing what it costs when the wrong ruler gets used in the wrong conversation.
 
-**Word count:** 119
+What they and the InSync team measure instead: engagement quality, behavior change, and performance outcomes. Named specifically. Tracked intentionally. Not as nice-to-haves. As the structural case for continued investment.
 
----
+The full argument is made in the Why Go Live White Paper. If you are heading into a budget or program review conversation, this is the brief you want in your back pocket before that meeting.
 
-## DELIVERABLE 3: LinkedIn Post 1 — Tuesday, July 15
+Download the Why Go Live White Paper → insynctraining.com/why-go-live
 
-**No link. No CTA. No first comment.**
+If you are ready to look at what your current measurement infrastructure is actually capturing, we are worth a conversation.
 
----
+Let's talk about your program → https://info.insynctraining.com/insync-training
 
-There is a particular kind of meeting that stays with you.
+—
 
-The program ran well. Completion was high. The evaluation scores were solid. You walked in with data that looked, by every conventional measure, like a success story.
+*The InSync Training Team*
 
-And then someone asked the question you had been quietly hoping would not come up: what changed because of this?
-
-The number you had did not answer that question. Not because it was wrong. Because it was built to answer a different question. Completion data tells you that training happened. It does not tell you whether the learning changed anything.
-
-That is not a failure of execution. It is a structural mismatch between the question being asked and the tool available to answer it. The LMS tracked what it was designed to track. It was designed to track compliance, not capability.
-
-What is the one piece of evidence you wish you had walked into that room with?
-
-#LDLeadership #LearningMeasurement #TrainingImpact
-
-**Word count:** 152
+**Word count:** 318
 
 ---
 
-## DELIVERABLE 4: LinkedIn Post 2 — Wednesday, July 16
-
-**PRIORITY ASSET — link in first comment only, post within 60 seconds of publishing**
+### VERSION B — NON-VIDEO
 
 ---
 
-Most training dashboards track three things: completion, attendance, and satisfaction.
+**Subject Lines**
 
-InSync tracks three different things: engagement quality, behavior change, and performance outcomes.
+1. **Cost-framed:** Your completion rates are costing you the budget conversation
+2. **Practitioner-recognition:** You've been measuring the right programs with the wrong tool
+3. **Reframe statement:** The metric isn't broken. It was just built for a different job.
 
-Neither set of numbers is wrong. One set answers whether training happened. The other answers whether it worked. That is the distance between a report that satisfies a compliance requirement and evidence that holds up in an executive conversation.
-
-The card below is worth keeping as a reference.
-
-(Source: Why Go Live White Paper — InSync Training)
-
-#LDLeadership #TrainingImpact #LearningMeasurement
-
-**Word count:** 82
-
-**First comment copy (post within 60 seconds of publishing):**
-The Why Go Live White Paper is the full framework for why these three measures tell a different story than completion data. Worth reading before the next leadership conversation: insynctraining.com/why-go-live?utm_source=linkedin&utm_medium=social&utm_campaign=july-week2&utm_content=post2
+**Preview Text (matching):**
+1. The metric executives actually want to see. Why most L&D teams aren't tracking it yet.
+2. 40% of talent development professionals rate themselves proficient at measuring impact. That number deserves a harder look.
+3. The Why Go Live White Paper doesn't open with a solution. It opens with a number worth sitting with.
 
 ---
 
-## DELIVERABLE 5: LinkedIn Post 3 — Thursday, July 17
+**Body Copy**
 
-**Link in first comment. Tag Jennifer Hofmann if handle is confirmed.**
+The Why Go Live White Paper doesn't open with a solution. It opens with a number: 40% of talent development professionals rate themselves as proficient at evaluating impact. That's not a knowledge gap. That is a measurement infrastructure problem. The paper makes the case for what the infrastructure should look like instead.
+
+Completion rates were designed for compliance reporting. That's it. A 94% completion rate tells you that people showed up and clicked through. It does not tell you whether live learning built capability, changed behavior, or helped anyone perform differently on the job.
+
+The report says the program happened. The workplace says the capability did not hold.
+
+This is the conversation Karen Vieth names directly in this week's blog post. She is not diagnosing a competence failure in the field. She is naming a structural mismatch between the tools most L&D teams are using and the questions executives are asking. What improved. What changed. What did they actually get. Those questions require a different kind of evidence.
+
+What that evidence looks like: engagement quality, behavior change, and performance outcomes. Named specifically. Tracked intentionally. These three measures connect what happened in the room to what happened on the job. That is the case worth making to a budget holder.
+
+The White Paper builds that case in full. If you are heading into a program review or budget conversation, this is the brief worth having before that meeting.
+
+Download the Why Go Live White Paper → insynctraining.com/why-go-live
+
+If you are ready to look at what your measurement infrastructure is actually capturing, we are worth a conversation.
+
+Let's talk about your program → https://info.insynctraining.com/insync-training
+
+—
+
+*The InSync Training Team*
+
+**Word count:** 285
 
 ---
 
-If the completion data has never quite satisfied the CFO, there is a reason. The measurement approach most L&D teams use was designed to prove compliance, not performance. Knowing that changes what you look for next.
+## 2. LINKEDIN POST — TUESDAY (Discovery/Hook)
 
-Jennifer Hofmann has spent decades working with organizations on exactly this problem. Her framing in the Why Go Live White Paper is the clearest articulation of what a different measurement approach looks like in practice. Case study evidence from Cisco, Mars, and Kohler. A practical framework for designing live learning that produces outcomes you can point to.
+*Same for both versions.*
 
-It is the kind of document worth sharing with your CLO before the next budget conversation.
+---
 
-[Jennifer Hofmann] — worth reading what you built.
+**Post Copy**
 
-#LDLeadership #LearningDesign #LiveLearning
+Completion rates were designed for compliance reporting. That's it.
+
+They were never meant to tell you whether learning changed performance. They were built to track whether someone was present and checked the box. That is a different question entirely.
+
+The problem isn't that L&D teams chose the wrong metric on purpose. It's that the metric was handed down, built into the LMS, and never interrogated. It became the default. Defaults are invisible until an executive asks a question the default can't answer.
+
+This week we're looking at what the right ruler actually measures. And why it changes the conversation with business leaders entirely.
+
+[Link in first comment]
+
+**CTA placement note:** No direct CTA in post body. Link to newsletter in first comment.
+
+**Hashtags:** #LearningAndDevelopment #TrainingROI #TalentDevelopment
 
 **Word count:** 118
 
-**First comment copy:**
-The Why Go Live White Paper is here: insynctraining.com/why-go-live?utm_source=linkedin&utm_medium=social&utm_campaign=july-week2&utm_content=post3
-
-Also worth noting: our July 30th session continues this conversation. Register here: [webinar registration URL — confirm before posting]
-
----
-
-## DELIVERABLE 6: Email #2
-
-**Subject line:** What your completion data isn't telling you
-
-**Preheader:** It's not just incomplete. It was built to answer a different question.
+**First Comment:**
+This week's newsletter walks through the measurement gap Karen Vieth names in her latest piece, and what engagement quality, behavior change, and performance outcomes look like as evidence. Worth reading before your next budget conversation.
+[Newsletter link]
 
 ---
 
-Most L&D measurement systems were not designed to prove performance. They were designed to prove compliance. That training happened. That people attended. That the box was checked. They do that job well. They were not built for the question being asked of them now.
+## 3. LINKEDIN POST — WEDNESDAY (Deepening/Reframe)
 
-Three measures actually tell you whether a learning program worked. Engagement quality: whether learners participated in ways that revealed thinking, not just attendance. Behavior change: whether participants are doing something differently on the job in the weeks after the program ended. Performance outcomes: whether the business indicators the program was designed to influence moved. Companies that track these measures are 52% more likely to see their learning budgets increase. That is not a coincidence. It is what happens when measurement is built for performance evidence rather than compliance reporting.
-
-The Why Go Live White Paper lays out the complete framework. Evidence from Cisco, Mars, and Kohler. A practical model for designing live learning that produces outcomes you can take into an executive conversation. It is the kind of document worth sharing upward.
-
-**[Read the White Paper]**
-
-*P.S. If you are working through this question in your organization right now, our July 30th session is the conversation to be in. One hour. The proof gap and what to do about it. [Register here.]*
-
-**CTA button label:** "Read the White Paper"
-*Reasoning: Consistent with Week 1. "Read" signals substance. "Download" signals a transaction. The White Paper is positioned as something worth the reader's time, not a form to fill out.*
-
-**Word count:** 221 (body copy, excluding subject, preheader, and CTA label)
+*Same for both versions.*
 
 ---
 
-## DELIVERABLE 7: Video Script (30-sec)
+**Post Copy**
+
+Only 40% of talent development professionals rate themselves as proficient at evaluating impact. (ATD, 2025.)
+
+Take a moment with that number.
+
+Not 40% of teams who are under-resourced or under-supported. Not 40% who are new to the field. Forty percent across the profession. And the ones who are not in that 40% are not failing at their jobs. They are working with a measurement infrastructure that was never built to answer the question executives are asking.
+
+This is not a competence problem. It is a calibration problem. The instruments do not match the questions. That is fixable. But only if you name it correctly first.
+
+[Link in first comment]
+
+**CTA placement note:** No direct CTA in post body. Drive to video (Video version) or White Paper (Non-Video version) in first comment.
+
+**Hashtags:** #LearningImpact #TalentDevelopment #LearningAndDevelopment
+
+**Word count:** 127
+
+**First Comment (Video version):**
+Karen Vieth and Jennifer Hofmann walk through exactly this gap in this week's video, and what measuring engagement quality, behavior change, and performance outcomes actually looks like in practice.
+[Video link]
+
+**First Comment (Non-Video version):**
+Karen Vieth names this gap in her latest piece, and the Why Go Live White Paper builds the measurement case from there. Worth reading before your next program review.
+insynctraining.com/why-go-live
 
 ---
 
-If your learning report says 94% completion — but nothing changed — what did you actually prove?
+## 4. LINKEDIN POST — THURSDAY (Conversion)
 
-Completion data was built to track compliance. That people attended. That training happened. It was never designed to tell you whether the learning changed anything.
-
-There are three measures that do. Engagement quality. Behavior change. Performance outcomes.
-
-The Why Go Live White Paper makes the case for what measurement looks like when it is built for the right question. It is worth reading before your next budget conversation.
-
-[insynctraining.com/why-go-live]
-
-**Word count:** 83 spoken
-
-*Read this aloud before production. The rhythm matters. Pause after "what did you actually prove?" Let it sit for a beat before the explanation begins.*
+### VERSION A — VIDEO
 
 ---
 
----
+**Post Copy**
 
-## MODULAR VIDEO BLURBS — Insert only if Leadership Video becomes available
+There are three kinds of evidence that tell you whether live learning actually worked.
 
-*These three blocks are self-contained inserts. If the Karen Vieth and Jennifer Hofmann Leadership Video is produced and hosted before launch, drop each block into the designated placement. Nothing else in the approved copy changes.*
+Engagement quality: not just whether people showed up, but whether they were in it. Asking questions, working problems, contributing in the room.
 
----
+Behavior change: what they did differently after. Not what they reported. What they did.
 
-### Placement A — Email #2
-**Insert location:** After the second paragraph (after the three metrics and the 52% stat), before the White Paper CTA paragraph.
+Performance outcomes: what moved in the business because of what changed in the people.
 
-Karen Vieth and Jennifer Hofmann sat down to talk about why most L&D teams cannot prove impact — and what the path forward looks like. The conversation is candid, direct, and worth watching before your next leadership conversation.
+These are not abstract ideals. They are measurable. Karen Vieth and Jennifer Hofmann walk through how to build the evidence chain in this week's video. If you are heading into a budget or program review, this is thirty minutes worth clearing.
 
-[Watch the Leadership Video]
+[Video link in first comment]
 
----
+**CTA placement note:** Drive to video. Consultation secondary.
 
-### Placement B — Weekly Newsletter
-**Insert location:** After the second paragraph (after the false confidence claim), before the "two things worth reading" section.
+**Hashtags:** #LiveLearning #LearningImpact #TalentDevelopment
 
-This week's anchor asset is a short video: Karen Vieth and Jennifer Hofmann on why most L&D teams cannot prove impact, and what better measurement actually looks like. Candid, direct, under five minutes. [Watch now.]
+**Word count:** 121
 
----
+**First Comment:**
+Watch the video here: [Video link]
 
-### Placement C — LinkedIn Post 3
-**Insert location:** Replace the first paragraph of Post 3 only. The rest of the post follows unchanged.
-
-Karen Vieth and Jennifer Hofmann sat down to talk about why most L&D teams cannot prove impact. It is worth watching.
+If you are ready to look at what your program is actually measuring and what it should be. Let's talk.
+https://info.insynctraining.com/insync-training
 
 ---
+
+### VERSION B — NON-VIDEO
+
+---
+
+**Post Copy**
+
+There are three kinds of evidence that tell you whether live learning actually worked.
+
+Engagement quality: not just whether people showed up, but whether they were in it. Asking questions, working problems, contributing in the room.
+
+Behavior change: what they did differently after. Not what they reported. What they did.
+
+Performance outcomes: what moved in the business because of what changed in the people.
+
+These are not abstract ideals. They are measurable. The Why Go Live White Paper builds the evidence framework in full. It makes the case for why this level of measurement is the difference between programs that survive budget reviews and programs that do not.
+
+[Link in first comment]
+
+**CTA placement note:** Drive to White Paper. Consultation secondary.
+
+**Hashtags:** #LiveLearning #LearningImpact #TalentDevelopment
+
+**Word count:** 122
+
+**First Comment:**
+Download the Why Go Live White Paper here: insynctraining.com/why-go-live
+
+If you are ready to look at what your program is actually measuring and what it should be. Let's talk.
+https://info.insynctraining.com/insync-training
+
+---
+
+## 5. EMAIL #2
+
+### VERSION A — VIDEO
+
+---
+
+**Subject Lines**
+
+1. **Cost line:** The metric that costs you the executive conversation
+2. **Recognition line:** You've been measuring correctly. With the wrong ruler.
+3. **Reframe line:** Completion rates were never built to answer this question.
+
+**Preview Text (matching):**
+1. Karen and Jennifer walk through what the right measurement looks like. And why it changes the budget conversation.
+2. 40% of talent development professionals rate themselves proficient at measuring impact. Here's what that number actually means.
+3. The metric isn't failing you. It was designed for something else entirely.
+
+---
+
+**Body Copy**
+
+Last week we named the gap. This week: what's actually causing it.
+
+The problem isn't that L&D teams don't care about outcomes. It's that the metrics they're using were built for a different job. Completion rates were designed for compliance tracking. They tell you who showed up. They were never calibrated to tell you whether performance changed.
+
+Here's the number that puts it in context: only 40% of talent development professionals rate themselves as proficient at evaluating impact. (ATD, 2025.) This is not a field-wide competence failure. This is what happens when people are working with instruments that were never meant for the questions being asked.
+
+Karen Vieth and Jennifer Hofmann walk through the measurement gap directly in this week's video. They're not selling a new methodology. They are naming the calibration problem and showing what it costs in the executive conversation.
+
+What the right measurement tracks: engagement quality, behavior change, and performance outcomes. In sequence. On purpose.
+
+The Why Go Live White Paper builds the full case. Download it before your next program review.
+
+Download the White Paper → insynctraining.com/why-go-live
+
+Ready to talk through what your program is actually capturing?
+
+Let's talk about your program → https://info.insynctraining.com/insync-training
+
+—
+
+*The InSync Training Team*
+
+**Word count:** 218
+
+---
+
+### VERSION B — NON-VIDEO
+
+---
+
+**Subject Lines**
+
+1. **Cost line:** The metric that costs you the executive conversation
+2. **Recognition line:** You've been measuring correctly. With the wrong ruler.
+3. **Reframe line:** Completion rates were never built to answer this question.
+
+**Preview Text (matching):**
+1. The Why Go Live White Paper names what the right measurement looks like. And why it changes the budget conversation.
+2. 40% of talent development professionals rate themselves proficient at measuring impact. Here's what that number actually means.
+3. The metric isn't failing you. It was designed for something else entirely.
+
+---
+
+**Body Copy**
+
+Last week we named the gap. This week: what's actually causing it.
+
+The problem isn't that L&D teams don't care about outcomes. It's that the metrics they're using were built for a different job. Completion rates were designed for compliance tracking. They tell you who showed up. They were never calibrated to tell you whether performance changed.
+
+Here's the number that puts it in context: only 40% of talent development professionals rate themselves as proficient at evaluating impact. (ATD, 2025.) This is not a field-wide competence failure. This is what happens when people are working with instruments that were never meant for the questions being asked.
+
+Karen Vieth names this directly in this week's blog. The measurement gap is not a skills gap. It is an infrastructure gap. And the Why Go Live White Paper makes the case for what the infrastructure should look like instead.
+
+What the right measurement tracks: engagement quality, behavior change, and performance outcomes. In sequence. On purpose.
+
+The White Paper builds that case in full. Download it before your next program review.
+
+Download the White Paper → insynctraining.com/why-go-live
+
+Ready to talk through what your program is actually capturing?
+
+Let's talk about your program → https://info.insynctraining.com/insync-training
+
+—
+
+*The InSync Training Team*
+
+**Word count:** 215
+
+---
+
+## 6. LINKEDIN NEWSLETTER TEASER
+
+### VERSION A — VIDEO
+
+---
+
+**Teaser Copy**
+
+Most L&D teams walk into executive conversations carrying metrics that were never designed to answer executive questions. Completion rates tell you who showed up. They do not tell you what changed.
+
+Karen Vieth and Jennifer Hofmann call it the wrong ruler problem. The instrument isn't broken. It was just built for a different job. This week's newsletter shows what the right ruler measures, and why engagement quality, behavior change, and performance outcomes are the three things worth tracking.
+
+If you have a program review or budget conversation coming up, this one is worth your time.
+
+[Newsletter link]
+
+**Word count:** 100
+
+---
+
+### VERSION B — NON-VIDEO
+
+---
+
+**Teaser Copy**
+
+Only 40% of talent development professionals rate themselves as proficient at evaluating impact. (ATD, 2025.) That number is not an indictment. It is a structural diagnosis.
+
+Most L&D teams are not under-skilled. They are working with a measurement infrastructure that was built for compliance, not for the questions executives are asking. This week's newsletter names what the right infrastructure tracks: engagement quality, behavior change, performance outcomes.
+
+The Why Go Live White Paper builds that case in full. This week's newsletter is the way in.
+
+[Newsletter link]
+
+**Word count:** 89
+
+---
+
+## 7. VIDEO SCRIPT — 30 SECONDS (Video Version Only)
+
+---
+
+**Full Script with Timing Marks**
+
+**[0:00–0:05]**
+*On screen: "Completion rates tell you who showed up."*
+Completion rates tell you who showed up. That's it.
+
+**[0:05–0:12]**
+*On screen: "They don't tell you whether performance changed."*
+They were designed for compliance tracking. Not for the question your business leader is actually asking.
+
+**[0:12–0:22]**
+*On screen: Three lines appearing in sequence: "Engagement quality." / "Behavior change." / "Performance outcomes."*
+Three things worth measuring: engagement quality. Behavior change. Performance outcomes. In that order. On purpose.
+
+**[0:22–0:28]**
+*On screen: "Karen Vieth + Jennifer Hofmann | This week's conversation"*
+Karen Vieth and Jennifer Hofmann walk through the full case this week. Worth watching before your next program review.
+
+**[0:28–0:30]**
+*On screen: InSync logo + "Link in comments"*
+Link in comments.
+
+---
+
+**On-Screen Text Notes**
+- Opening stat card uses Week 2 visual language (no Golden Honey per arc rules)
+- Three measures appear as sequential text reveals, not simultaneous
+- InSync logo holds final frame. No voiced brand call.
+
+**Production Notes**
+- Logo carries the brand identification. No voiced "InSync" in script.
+- The three-measure sequence is intentional and must appear in order: engagement quality, then behavior change, then performance outcomes. Do not rearrange for visual balance.
+- "Link in comments" is the sole CTA. No URL on screen.
 
 ---
 
 ## PRODUCTION NOTES
 
-**Post 1 — No link, no CTA, no first comment:** This is intentional. Post 1 is in the recognition-escalation register. Its job is to name the structural mismatch and invite a specific response. Adding a CTA at this stage would convert a trust-building post into a conversion post. The question close is the engagement mechanic.
+**No em dashes:** All copy was reviewed and cleaned. Em dashes found in the initial draft were replaced with periods, commas, or sentence breaks. Zero em dashes remain in body copy. Section header labels (VERSION A — VIDEO, etc.) use em dash as a structural separator only, not as copy.
 
-**Post 2 — Caption earns the card, card carries the argument:** The caption does not re-explain what the differentiator card shows. It frames the contrast and signals that the card is worth keeping. The card does the visual work.
+**Two-version discipline:** Non-Video versions are not stripped Video versions. Each is written as a complete entry point. The Non-Video newsletter anchors to the White Paper and Karen's blog. The Non-Video email anchors to the blog and White Paper. They stand independently.
 
-**Post 3 — Jennifer Hofmann tag:** If her LinkedIn handle is not confirmed before July 17, remove the "[Jennifer Hofmann]" tag reference and replace with "Jennifer Hofmann" as plain text. Do not hold the post for the tag.
+**CTA sequencing:** Tuesday LinkedIn has no CTA. Wednesday LinkedIn has no CTA. Thursday LinkedIn earns the consultation secondary only after establishing the three-measure framework. Emails earn consultation only after the culprit, stat, and framework have been established.
 
-**Email #2 — 52% statistic attribution:** The 52% figure (companies tracking training ROI are 52% more likely to see budgets increase) comes from Karen Vieth's Blog 2. It should be source-checked against the original blog before the email deploys. If the original source is not cited in the blog, flag to Casey before the email goes live.
+**Consultation CTA escalation:** Week 1 used "Start the conversation." Week 2 uses "Let's talk about your program." Week 4 CTA ("Book a consultation today") is reserved.
 
-**Video script — pause direction:** The pause after "what did you actually prove?" is structural, not optional. The question must land before the explanation begins. If the production team is timing the script, that beat is approximately 1.5 seconds.
+**Stat attribution:** All five verified stats were available. Two were used directly: 40% proficiency (ATD 2025) anchors all channels. The Learning Pyramid and income-per-employee stats were not needed to support the Week 2 argument and were held. WifiTalents stat was not used (single source, supporting color only, not warranted here). No stats were invented or paraphrased from memory.
 
-**Webinar P.S. line in Email #2:** The webinar registration URL placeholder must be replaced with the confirmed live URL before the email deploys. If the URL is not live, remove the P.S. line entirely rather than including a dead link.
+**Three measures:** "Engagement quality, behavior change, and performance outcomes" appears in Newsletter A, Newsletter B, both LinkedIn Thursday posts, both emails, LinkedIn Teaser A, and the video script. Always in sequence. Never paraphrased.
 
-**Em dash usage:** Minimized throughout per client direction. Where a thought required connecting two ideas, short declarative sentences are used instead. Review any remaining em dashes before production and confirm they are load-bearing.
+**Webinar:** Not referenced anywhere.
+
+**InQuire Engagement Framework:** Not named. Week 3 asset.
+
+**Jennifer Hofmann:** Referenced as author/thought leader in partnership with Karen Vieth (video content). Not named as webinar host anywhere.

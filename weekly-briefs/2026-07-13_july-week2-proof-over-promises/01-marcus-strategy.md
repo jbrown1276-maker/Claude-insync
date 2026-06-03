@@ -2,390 +2,267 @@
 
 **Campaign:** July 2026 · Week 2 — Proof Over Promises
 **Client:** InSync Training
-**Week / Date:** Week of July 13, 2026 (Q3 — Awareness Month, Week 2)
+**Week/Date:** July 13, 2026
 **Prepared by:** Marcus, Senior Marketing Strategist
 **For:** Elena (Creative Direction) and Campaign Team
-
-> **⚠️ Production Note — Approved by Jeff Brown, 2026-05-28**
-> The Leadership Video (Karen Vieth & Jennifer Hofmann) is flagged as **optional/uncertain**. The strategy is written assuming the video is available, but Email #2 and LinkedIn Post 3 may need to be restructured if the video is not ready by launch. Elena and Sarah should plan for a video-present and video-absent version of any deliverables that depend on it.
 
 ---
 
 ## 1. Campaign Objective and Success Metrics
 
-### Strategic Statement
+**Strategic Objective**
 
-Week 1 earned recognition. Week 2 must convert that recognition into conviction. The audience who nodded along last week — who felt the measurement problem described accurately — now needs to understand something sharper: the metrics they are currently using are not just incomplete. They are structurally incapable of answering the questions they are being asked to answer. Completion rates were never designed to prove performance. They were designed to prove compliance. That distinction is the engine of Week 2.
+Week 2 converts Week 1 recognition into conviction. The audience felt the measurement gap last week — this week they learn that the metrics they currently use are not just incomplete, they are actively misleading. The Karen Vieth & Jennifer Hofmann Leadership Video is the primary escalation mechanism in the Video version: a credible, buyer-facing conversation that elevates the authority argument from data point to human proof. The White Paper anchors both versions as the definitive evidence resource.
 
-The week's anchor asset is the Karen Vieth and Jennifer Hofmann Leadership Video — a candid, co-presented conversation that operates at the executive register. Its role is not to introduce new information but to embody the argument with the authority and warmth that written content alone cannot deliver. Karen brings the organizational perspective; Jennifer brings the measurement framework. Together, they make the case feel personal, experienced, and real — which is exactly what the White Paper download decision requires at the moment the buyer is deciding whether this resource is worth sharing upward.
+The week ends with the audience holding a sharper version of the problem and a clear path to the solution InSync offers — with CTA language that moves one step closer to a real conversation.
 
-The strategic objective: move the audience from "I recognize this problem" to "I now understand why my current measurement approach cannot solve it — and I need to know what will." White Paper downloads are the measurable signal that this shift occurred. Webinar registrations are the secondary signal that the audience is willing to invest time to go deeper.
+**KPIs with Rationale**
 
----
+| Metric | Target | Rationale |
+|--------|--------|-----------|
+| White Paper downloads | +20% over Week 1 baseline | Week 2 provides stronger proof-layer argument; audience is warmed |
+| Email open rate | 28–32% | List is now in week 2 of arc; subject line should reward curiosity built in Week 1 |
+| Email click-through rate | 4.5–6% | Two clear CTAs (White Paper + consultation) with escalating language |
+| LinkedIn post engagement rate | 3–5% | Proof/differentiator content performs above average with L&D leadership |
+| Video view rate (Video version) | 40%+ of impressions reaching :30 | Leadership video must earn attention; benchmark is credibility, not entertainment |
+| Consultation page visits | Track separately from White Paper | Second CTA is warming, not converting — volume signal only at this stage |
 
-### KPIs
-
-**Primary KPI — White Paper Downloads**
-Target: 100–140 downloads by end of Week 2.
-Rationale: Week 2 starts with a warm audience — everyone who opened Week 1's email, engaged with the LinkedIn posts, or read the Jennifer Hofmann article is primed. The download target should be 25–40% higher than Week 1's 75–100 target, reflecting both audience warming and the emotional escalation of the "actively misleading" argument. The Leadership Video is a stronger conversion asset than a written article for the leadership segment — video conveys credibility in a register that written content cannot replicate.
-
-**Secondary KPI — Webinar Registrations (Cumulative Week 2 Contribution)**
-Target: 60–90 cumulative registrations by end of Week 2 (adding 20–30 new registrations this week on top of Week 1's 40–60).
-Rationale: The 21-day email (sent this week) is the strongest single webinar registration driver in the sequence. The topic has now been seeded for two weeks. The urgency frame ("three weeks away") is legitimate and should move fence-sitters from Week 1.
-
-**Email #2 Performance**
-- Open Rate Target: 30–35%
-- Click-Through Rate Target: 5–8%
-Rationale: Week 1 email performance sets the baseline. If Week 1 hit the 28–32% open rate target, Week 2's warmer audience and sharper subject line ("What your completion data isn't telling you") should sustain or improve it. The CTR target rises because the Leadership Video is a higher-engagement asset than a text-only White Paper CTA — video thumbnails and "watch now" CTAs consistently outperform static document CTAs in B2B email.
-
-**LinkedIn Engagement (Week 2)**
-- Impressions across 3 posts: 4,000–7,000 (organic)
-- Engagement rate: 4–6% (reactions + comments + shares)
-- Post 2 (differentiator card) shares target: 15–25 shares specifically — this is the week's amplification asset
-Rationale: Post 2's differentiator card — what most teams measure versus what InSync measures — is designed to be saved and shared. It should outperform Week 1's posts in saves and shares because it is a reference asset, not just a thought leadership post.
-
-**Leadership Video (if available)**
-- View target: 200–400 views in Week 2 (across all distribution channels)
-- Completion rate target: 50%+ (3–5 min video)
-Rationale: A completion rate above 50% on a 3–5 minute video signals strong message-audience fit. Below 40% signals a hook or opening problem that requires attention before Week 3.
-
-**21-Day Webinar Email**
-- Open Rate Target: 32–38%
-- Registration Click Target: 10–15% of openers
-Rationale: The 21-day send is the first email in the sequence that should introduce urgency framing without manufacturing false pressure. The topic is now familiar, the speakers have been introduced, and the date is close enough to feel real.
-
----
-
-### Missing Metrics to Track
-
-The following should be confirmed before Week 2 launches, building on Week 1's open questions:
-
-- **Week 1 actual performance data** — White Paper downloads, email open rate, LinkedIn engagement, and webinar registrations from Week 1 should be captured before Week 2 launches. These numbers recalibrate the Week 2 targets above and provide the baseline for Q3 reporting.
-- **Leadership Video production status** — The video is the week's anchor asset if available. If it is not produced and hosted before Monday, Email #2 and LinkedIn Post 3 must be restructured.
-- **Karen Vieth availability and video hosting URL** — Required for Email #2 copy, LinkedIn Post 3, and newsletter if video is used.
-- **21-day webinar email registration page URL** — Required before the webinar email can be written.
+**Flags:** Brief does not specify current email list size, Week 1 open/click benchmarks, or LinkedIn audience size. Marcus recommends Casey establish these baselines before Week 2 launches so Week 3 targeting can adjust.
 
 ---
 
 ## 2. Target Audience Analysis
 
-### Primary Activation Target — L&D Leadership
+**Segment 1 — L&D Leadership (Primary Activation Target)**
 
-**Strategic Note on Week 2 Shift:** This audience is no longer a cold audience. Week 1 identified and validated their frustration. Week 2 addresses them as people who have already heard the argument once and are now being asked to go one level deeper. The register should shift slightly — less "let me explain the problem" and more "here is why the tools you have cannot solve it." This is a more challenging claim, and it requires a more credible source. The Leadership Video is the right vehicle precisely because Karen Vieth brings organizational authority that validates the claim from the outside.
+Roles: CLO, VP of L&D, Director of Learning, HR Leadership with learning oversight.
 
-**What has changed since Week 1:** The audience has been primed. Those who engaged last week are now thinking about measurement differently. Those who did not engage are seeing the argument for the first time and need the same Week 1 recognition before the conviction argument can land. The content plan must serve both groups simultaneously — which means every Week 2 piece should briefly re-anchor the problem before escalating the argument. Two sentences of recognition before the conviction pivot.
+Psychographic depth: These buyers have been in rooms where executives questioned the value of learning investment. They have answered with completion percentages and satisfaction scores and watched the skepticism in the room fail to dissolve. They are not ignorant of the gap — they are uncomfortable with it and quietly looking for a better argument. They are exhausted by vendors who promise transformation without showing how it gets measured. What they want is a credible peer telling them what better measurement actually looks like, not a consultant telling them they're doing it wrong.
 
-**What Will Resonate:**
-- The "false confidence" framing — the idea that completion data does not just undercount impact, it actively suggests impact where none exists. This is sharper than Week 1's "incomplete" framing and will resonate with leaders who have cited completion rates in executive meetings and watched the CFO remain unconvinced.
-- Karen Vieth as a co-presenter. She brings organizational credibility that Jennifer alone does not — a second voice, from inside the organizational dynamics problem, confirms that this is not just a measurement theory question. It is a structural organizational problem.
-- The differentiator card (Post 2) as a shareable reference tool. Leadership will save this, share it with their teams, and potentially use it in internal conversations. It is the week's most practical deliverable.
-- The White Paper positioned explicitly as a document worth taking into the next executive conversation — not just reading, but deploying.
+What will resonate: Validation that the problem is structural, not a personal failure. Peer-level authority (Karen Vieth, Jennifer Hofmann) speaking directly to the executive conversation. Specific, named measurement alternatives to completion rates. Evidence that a methodology exists and has been proven.
 
-**What Will NOT Resonate:**
-- Any implication that Week 1's message was insufficient and needs repeating in full. Do not re-explain the measurement gap from scratch. Acknowledge it, sharpen it, escalate it.
-- The Leadership Video positioned as a webinar preview or promotional asset. It must feel like a standalone, substantive conversation — not a trailer for something else.
-- Aggressive urgency framing on the webinar. Three weeks is enough lead time that "register now before it's too late" reads as false. The urgency should be topical ("this question is not going away") rather than temporal.
+What will not resonate: Abstract frameworks without application. Lecturing tone. "Here's everything you need to change" energy. Stats without context. Anything that sounds like a sales pitch.
 
----
+**Segment 2 — L&D Practitioners (Secondary Amplification Target)**
 
-### Secondary Amplification Target — Practitioners
+Roles: Facilitators, Instructional Designers, Learning Analysts, Training Managers.
 
-**Strategic Note on Week 2 Shift:** Blog 2 is the practitioner's primary entry point this week. The title — "Completion Rates Are Lying to You" — is sharp enough to earn organic shares and comments. Practitioners will respond to its directness and will amplify it within peer networks. Their role this week is primarily amplification via Blog 2 shares and LinkedIn Post 2 saves — not direct conversion to White Paper downloads or webinar registration.
+Psychographic depth: Practitioners are closer to the delivery problem and often the ones being asked to produce measurement data their systems were never designed to capture. They share the frustration but from a different angle — they can see what is wrong but don't have the authority or the methodology to fix it. They engage with content that gives them vocabulary and frameworks they can bring upward.
 
-**What Will Resonate:**
-- The 94% completion rate scenario that opened the blog brief. Every practitioner has delivered a program with high completion that changed nothing. Naming that specific scenario creates instant recognition.
-- The three-metric framework (engagement quality, behavior change, performance outcomes) as actionable vocabulary they can take into their next design conversation.
-- The differentiator card as a shareable artifact — practitioners share reference tools more readily than leadership does.
+What will resonate: Practical framing of the three-measure differentiator. Before/after contrast that names what bad measurement looks like versus what good measurement produces. Content they can share with their CLO as evidence.
 
-**What Will NOT Resonate:**
-- Hard CTA pressure. Practitioners engage and share organically. Pushing hard on White Paper downloads in practitioner-facing content adds friction.
-- Executive framing in practitioner-facing copy. Blog 2 should speak directly to the practitioner's experience, not the CLO's budget conversation.
+What will not resonate: Executive positioning that doesn't speak to their daily work. High-level strategy without application.
 
----
-
-### Segment Prioritization
-
-**Primary: L&D Leadership.** They own the White Paper download and webinar registration decisions. All primary CTAs map to their needs. The Leadership Video (if available), Email #2, and LinkedIn Post 3 are built for them.
-
-**Secondary: Practitioners.** Blog 2 and LinkedIn Posts 1 and 2 serve them. They amplify reach. They are not conversion targets this week.
+**Prioritization:** L&D Leadership is the activation target for White Paper downloads and consultation CTAs. Practitioners amplify through LinkedIn sharing and expand reach to leadership audiences. Week 2 should weight messaging toward L&D Leadership given the video asset's executive tone.
 
 ---
 
 ## 3. Messaging Pillars and Hierarchy
 
-### The One Thing
+**The One Thing (Week 2)**
+The metrics most L&D teams rely on were never designed to prove performance — and InSync measures what actually matters.
 
-**Your measurement tools were built for compliance, not performance. That is not a gap in your strategy. It is a design flaw in the tools.**
+This advances Week 1's "the measurement gap is real" into "the tools you're using are the wrong tools" — a sharper, more actionable indictment that points toward a solution.
 
-This sentence advances Week 1's recognition claim into conviction territory. Week 1 said: you have a gap. Week 2 says: the gap is structural, and the tools most teams use cannot bridge it. Every piece of content this week should be traceable to this idea.
+**Tier 1 — The Provocation (Lead message — all channels)**
+Completion rates tell you what happened. They don't tell you whether it mattered.
 
----
+*Strategic function:* Arrive with the Week 1 frame still active in the audience's mind and escalate it immediately. Week 1 said the gap exists. Week 2 names the culprit: the metrics themselves.
 
-### Tier 1 — The Escalated Claim (Strategic Function: Convert Recognition to Conviction)
+**Tier 2 — The Evidence Layer (Body of all long-form content)**
+Only 40% of talent development professionals rate themselves as proficient at evaluating impact. The industry-wide gap between intention and practice is not a knowledge failure — it is a measurement infrastructure failure.
 
-*Completion rates do not just undercount impact. They produce false confidence — the appearance of learning effectiveness where none has been measured.*
+*Strategic function:* Validate that the audience's frustration is shared and documented. Remove the shame of "we should know better." Create the opening for InSync's alternative.
 
-This is the sharpest claim InSync will make in the campaign so far. It moves from "your data is incomplete" to "your data is actively misleading." The risk is that it feels accusatory. The safeguard: locate the flaw in the tool, not in the person using it. "The LMS was designed to track completion for regulatory compliance purposes" is factually accurate and removes blame from the individual.
+**Tier 3 — The InSync Differentiator (Mid-funnel, not lead)**
+InSync doesn't measure activity. It measures engagement quality, behavior change, and performance outcomes — the three measures that produce evidence executives can act on.
 
----
+*Strategic function:* Introduce the three-measure framework specifically for the first time. Week 1 named these in passing. Week 2 defines them as a named differentiator. Do not lead with this — earn it through the provocation and evidence first.
 
-### Tier 2 — The Credibility Source (Strategic Function: Validate the Claim Through Authority)
+**Tier 4 — The Path Forward (CTA layer)**
+The Why Go Live White Paper makes the case for what better measurement actually looks like. Start with the evidence.
 
-*Karen Vieth and Jennifer Hofmann have worked inside this problem at the organizational level. This is not a research finding. It is observed pattern.*
+*Strategic function:* Position the White Paper as the logical next step, not a gated asset. The consultation CTA follows as the escalation for those ready to move from conviction to conversation.
 
-The Leadership Video's primary strategic function is to put human faces and real-world experience behind the Tier 1 claim. Statistics validate scale. Personal authority validates truth. The Leadership Video does the second job. If the video is unavailable, this tier must be carried by Jennifer Hofmann's continued bylined presence and the ATD/LEO Learning data.
+**Message to Avoid This Week**
+Do not introduce the InQuire Engagement Framework by name. It is a Week 3+ asset. Naming it now fragments attention before the audience is ready. Week 2 introduces the three measures (engagement quality, behavior change, performance outcomes) as InSync's differentiator — the InQuire name comes later when the audience is asking "how do you actually do this?"
 
----
-
-### Tier 3 — The Alternative (Strategic Function: Introduce the Better Measurement Framework)
-
-*Engagement quality, behavior change, and performance outcomes. Three measures that tell you whether the learning worked — not whether the session ran.*
-
-This tier was introduced in Week 1 but not fully developed. Week 2 should begin to make it concrete. Blog 2's differentiator table is the most explicit articulation of this tier — it puts the three InSync measures in direct contrast with what most teams track. This tier is the intellectual substance the White Paper delivers in full.
-
----
-
-### Tier 4 — The Next Step (Strategic Function: Drive White Paper Download and Webinar Registration)
-
-*The Why Go Live White Paper makes the complete case — with evidence, framework, and language you can take into your next executive conversation.*
-
-The White Paper is positioned not as a resource to consume but as a tool to deploy. This distinction matters to L&D leadership, who are always thinking about how to make the case upward. Framing the White Paper as something to share with the CFO or CHRO is more motivating than framing it as something to read.
-
----
-
-### What to AVOID This Week — Specific
-
-**Do not repeat Week 1's recognition work at length.** Week 2 content should acknowledge the problem in one to two sentences and then escalate. Any content piece that spends its first third re-establishing the measurement gap is wasting its Week 2 audience — and boring the Week 1 audience that already converted.
-
-**Do not over-promote the Leadership Video.** Let the framing — who it features, what question it addresses — do the work. Over-selling a video makes the audience skeptical before they press play.
-
-**Do not introduce InSync's service offerings.** Week 2 is still conviction-building, not conversion to client. The differentiator ("we measure engagement quality, behavior change, and performance outcomes") is a contrast, not a service pitch.
+Do not use "most training doesn't work" framing. The audience is L&D professionals. That language implicates them personally rather than indicting the measurement system. The target is the tools, not the people.
 
 ---
 
 ## 4. Channel Priorities and Rationale
 
-### Priority 1 — Leadership Video (if available — Hosted Asset)
+### Video Version — Channel Priority Order
 
-**Strategic Role:** The week's anchor asset if available. It operates at the executive register, delivers the conviction argument through credible human authority, and serves as the primary CTA destination for Email #2, LinkedIn Post 3, and the newsletter. Every other channel this week has one job: drive qualified traffic to this video and then to the White Paper.
+**1. Leadership Video (Anchor Asset)**
+Strategic role: Elevates the argument from data to human authority. Karen Vieth and Jennifer Hofmann make the case at the executive level — credible, direct, and warm. This is the Week 2 proof point.
+Primary audience: L&D Leadership.
+Must accomplish: Deliver the "metrics were designed for compliance, not performance" argument through peer-level voices. End with a clear pull toward the White Paper.
+Format: 3–5 minutes, co-presented, embedded in newsletter and featured in LinkedIn Post 3 and Email #2.
 
-**Production Dependency (flagged as optional):** The video must be produced, edited, hosted, and linked before Monday if it is to anchor the week. If it is not ready, Email #2 and LinkedIn Post 3 must be restructured — the White Paper becomes the primary featured asset in Email #2, and Post 3 pivots to a direct White Paper authority frame without the video introduction.
+**2. Email #2**
+Strategic role: Highest-intent channel. The list opened Week 1 — they are warm. Email #2 should reward that attention with a sharper argument and the video as the payoff.
+Primary audience: L&D Leadership (decision authority, direct inbox).
+Must accomplish: Open with the provocation (completion rates), deliver the evidence layer, feature the Leadership Video as the week's signal asset, drive to White Paper with consultation as secondary CTA.
+Format: Conversational, single-column, one primary CTA button above fold (White Paper), video thumbnail mid-email, consultation text link at close. Subject line must escalate from Week 1 without repeating its language.
 
-**Placement Notes:** The hosted URL must be available before Email #2, LinkedIn Post 3, and the newsletter are written. A video thumbnail with a play button in Email #2 is strongly recommended if the video is available — it consistently increases CTR by 20–30% in B2B email against a text-only link.
+**3. LinkedIn Posts (T/W/TH)**
+Strategic role: Amplification and reach expansion. Week 1 posts built the "measurement gap" frame. Week 2 posts escalate to "the tools are wrong" and introduce InSync's three measures.
+Primary audience: L&D Leadership (reach); Practitioners (amplification/sharing).
+Must accomplish: Post 1 (Tue) — emotional resonance with the frustration of defending programs to executives. Post 2 (Wed) — proof/differentiator card naming the three measures explicitly. Post 3 (Thu) — Video version leads with Leadership Video embed and drives to White Paper.
+Format: Post 1 and 2 are text-forward with strong first line hooks (no link in post, link in comments). Post 3 includes native video or video thumbnail with link.
 
----
+**4. Weekly Newsletter**
+Strategic role: Comprehensive weekly content hub. Audience expects depth here.
+Primary audience: Existing list — mix of Leadership and Practitioners.
+Must accomplish: Contextualize the week's content arc (Blog 2 + Video + White Paper), deliver the three-measure differentiator clearly, drive to White Paper download and consultation.
+Format: Lead with Leadership Video, then Blog 2 pull quote, then White Paper CTA. Keep editorial tight — one clear argument, not a content dump.
 
-### Priority 2 — Email #2
+**5. LinkedIn Newsletter Teaser**
+Strategic role: Re-engagement of LinkedIn subscribers who may not be on the email list.
+Primary audience: LinkedIn audience — heavier practitioner mix than email.
+Must accomplish: Drive watch/read behavior for the Leadership Video.
+CTA: "Watch the Leadership Video — [link]"
 
-**Strategic Role:** Direct outreach to the highest-value segment. Email #2 should feel like a natural continuation of Email #1's conversation — the same trusted sender, a deeper argument, a more specific ask.
+**6. Blog 2**
+Strategic role: SEO and organic search surface for "completion rates" and "L&D measurement" queries. Secondary role: gives practitioners and leadership a shareable, long-form argument.
+Primary audience: Organic search; content sharers.
+Must accomplish: Deliver the "completion rates are lying to you" argument fully. Karen Vieth's voice — do not rewrite. Pre-publish edit: replace final-line webinar reference with consultation CTA.
+Format: Pre-written. Tone calibration only. Web team edit required before publish.
 
-**Primary Audience:** L&D Leadership — CLOs, VPs, Directors.
-
-**Must-Accomplish:** The subject line ("What your completion data isn't telling you") should open the email's argument before the first sentence. If the Leadership Video is available, it is the featured asset with a video thumbnail above the fold and "Watch the Leadership Video" as the primary CTA, with the White Paper as a secondary CTA below the fold. If the video is not available, the White Paper becomes the primary CTA and the email leads with the "false confidence" conviction argument directly.
-
-**Format Notes:** Short. Single-column. 250 words maximum body copy. One primary CTA. One P.S. line for webinar registration if the send list supports it.
-
----
-
-### Priority 3 — 21-Day Webinar Email
-
-**Strategic Role:** The highest-leverage webinar registration send in the sequence. At 21 days out, the topic is warm, the urgency is real, and the audience's attention has been earned by two weeks of consistent content.
-
-**Primary Audience:** Mixed — leadership segment for topic depth; practitioners for peer-learning appeal.
-
-**Must-Accomplish:** Connect the webinar topic explicitly to the Week 2 conviction argument. The webinar title ("The Proof Gap: Why Most L&D Teams Struggle to Demonstrate Outcomes") does significant work. The email's job is to make July 30 feel like the natural next moment in this conversation.
-
-**Format Notes:** 175–225 words. Clean, low-friction registration CTA. One value statement specific to what attendees will leave with. Date and time prominent. No competing CTAs.
-
----
-
-### Priority 4 — LinkedIn Posts (3 — T/W/TH)
-
-**Post 1 (Tuesday) — Emotional Resonance**
-Strategic Role: Opens the week on LinkedIn with the quiet discomfort register. No link, no CTA, pure recognition — but the emotional territory shifts from "you have a gap" to "you've been presenting data that couldn't answer the question, and you knew it."
-Format: 150–200 words, question close, 2–3 hashtags maximum. No link.
-
-**Post 2 (Wednesday) — Differentiator Card**
-Strategic Role: The week's highest-amplification asset. The differentiator card is a shareable reference tool designed for saving and reposting. Frame it as a resource, not a sales claim.
-Format: 100–150 words, image card, link to White Paper in first comment.
-
-**Post 3 (Friday) — Authority + CTA**
-Strategic Role: If the Leadership Video is available, this post introduces it — name Karen and Jennifer, frame the specific question they address. If the video is not available, this post makes the direct authority case for the White Paper as the definitive resource.
-Format: 100–150 words. Link in first comment. Clean, no promotional register.
+**7. Video Script (30-sec)**
+Strategic role: Social-native short-form cut of the Leadership Video argument for LinkedIn and potential paid distribution.
+Must accomplish: Compress the week's core argument into a punchy, shareable format. Drive to full video or White Paper.
 
 ---
 
-### Priority 5 — Blog 2
+### Non-Video Version — Channel Priority Shift
 
-**Strategic Role:** Practitioner-facing organic entry point and long-form argument vehicle. Blog 2 is the most explicit treatment of the "completion rates are misleading" claim — and the differentiator table is its most shareable element.
+In the Non-Video version, the Leadership Video is removed from all deliverables. The channel priority shifts as follows:
 
-**Primary Audience:** Practitioners — Training Managers, IDs, Facilitators.
+**White Paper becomes the sole anchor asset.** All channels route directly to the White Paper download as the primary proof point. The three-measure differentiator is introduced through Blog 2 and the newsletter editorial rather than through the video.
 
-**Must-Accomplish:** The 94% completion scenario in the opening should be specific enough that every practitioner has lived it. The three-metric framework must be concrete. The differentiator table should be designed to be screenshot-shared. White Paper CTA at close, framed as the full framework.
+**Email #2 (Non-Video):** Lead with Blog 2 as the hook. Deliver the three-measure differentiator in email body. White Paper CTA is the primary action. Consultation secondary. No video thumbnail.
 
-**Format Notes:** 800–1,200 words. Headers every 200–300 words. Differentiator table or callout box visually prominent. White Paper CTA in-body and at close. UTM tags on all White Paper links.
+**LinkedIn Post 3 (Non-Video):** Replace video with a White Paper-focused post. Frame: "The argument is in the data — here's where it lives." Drive to White Paper download.
 
----
+**Newsletter (Non-Video):** Lead with Blog 2 excerpt and pull quote. White Paper featured prominently as the evidence resource. No video section.
 
-### Priority 6 — Weekly Newsletter
+**LinkedIn Newsletter Teaser (Non-Video):** CTA shifts from "Watch the Leadership Video" to "Download the Why Go Live White Paper."
 
-**Strategic Role:** Consolidation and retention for the existing subscriber audience. Not a conversion vehicle — a credibility and continuity vehicle.
-
-**Primary Audience:** Existing InSync email subscribers — mixed leadership and practitioners.
-
-**Must-Accomplish:** The anchor line ("What if your metrics are measuring the wrong things?") should be the subject line or opening sentence. If the Leadership Video is available, it is the featured element. If not, Blog 2 leads. Two CTAs maximum, clearly separated. Editorial register throughout — not promotional.
-
-**Format Notes:** 350–500 words. Two CTAs maximum.
-
----
-
-### Priority 7 — LinkedIn Newsletter Teaser
-
-**Strategic Role:** Drives newsletter subscribers toward the full LinkedIn Newsletter article expanding on the three-measure differentiator framework.
-
-**Primary Audience:** L&D Leadership and senior practitioners on LinkedIn.
-
-**Must-Accomplish:** Preview the problem without delivering the three measures. The full article delivers them. CTA drives explicitly to the LinkedIn Newsletter article.
-
-**Format Notes:** 80–120 words. Strong first line. Clear, specific CTA. Must not duplicate Posts 2 or 3 verbatim.
-
----
-
-### Priority 8 — Video Script (30-sec)
-
-**Strategic Role:** Short-form promotional asset for the conviction argument. Hook: "If your learning report says 94% completion — but nothing changed — what did you actually prove?"
-
-**Must-Accomplish:** Three beats: name the false confidence problem, introduce the three better measures briefly, direct to the White Paper. Warm, direct, not preachy.
-
-**Format Notes:** 75–90 words spoken. No jargon. No exclamation marks. One CTA: White Paper download.
-
----
-
-### Prioritization Note for Resource Constraints
-
-If production resources require prioritization: Email #2 → 21-Day Webinar Email → LinkedIn Post 2 (differentiator card design) → Blog 2 → LinkedIn Posts 1 and 3 → Newsletter → LinkedIn Teaser → Video Script. Leadership Video confirmation gates Email #2 and Post 3 final copy.
+**Strategic note for Elena:** The Non-Video version is not a lesser version — it is a different entry point. The White Paper carries the authority argument that the video would have carried. Elena should design these as two distinct content experiences, not a video version with things removed.
 
 ---
 
 ## 5. Tone and Positioning Guardrails
 
-### What This Week Must Sound Like
+**What this campaign must sound like**
 
-**More direct than Week 1.** The argument is more provocative — "your tools are giving you false confidence" requires more confidence to deliver than "you have a gap." The tone should reflect that confidence without tipping into condescension.
+Peer-level. Karen Vieth and Jennifer Hofmann are the tone model for Week 2 — experienced, direct, warm, and unafraid to name the problem clearly. The written copy should match the register of a respected colleague sharing something they know to be true, not a vendor making a pitch.
 
-**Evidence-grounded conviction, not opinion.** The false confidence claim is only credible if it is supported by structural reasoning — the LMS was designed for compliance tracking, not performance evidence.
+Concrete and specific. "Completion rates were designed for compliance reporting" is a specific claim. "Better measurement leads to better outcomes" is not. Every copy beat should be as specific as the first example.
 
-**Concrete example of the correct register for Week 2:**
-"A 94% completion rate looks like a win. But it tells you who finished — not who changed. And it tells you nothing about whether the change stuck. That is the difference between a number that satisfies the LMS and evidence that satisfies the CFO."
+Evidence-led but not lecture-y. The stats are in service of validation, not education. The audience knows L&D measurement is broken. Stats confirm what they already suspect — they don't teach them something new.
 
----
+Quietly confident about InSync's differentiation. The three measures (engagement quality, behavior change, performance outcomes) are introduced as a named differentiator this week. State them clearly, don't oversell them.
 
-### What to Avoid
+**What to avoid**
 
-- **"False confidence" as an accusation rather than a diagnostic observation.**
-- **Over-promotion of the Leadership Video** — let the framing do the work.
-- **Repetition of Week 1's recognition opening at length** — acknowledge in one to two sentences, then advance.
-- **The same phrases Week 1 banned:** "transformative," "holistic," "end-to-end," "world-class."
-- **Any pivot to InSync's services.**
+"Here's what you should be doing" tone. The audience has heard this from every vendor. InSync's angle is "here's what we do and why it produces visible outcomes" — not prescriptive advice.
+
+Buzzword stacking. No "holistic," "robust," "leverage," "value-add," "best-in-class." Especially not "innovative measurement solutions."
+
+Executive distance. The Leadership Video earns trust through human directness. Written copy that sounds like a press release will undermine that tone.
+
+Specific phrases to avoid in Week 2:
+- "Most training doesn't work" — implicates the audience
+- "Finally, a solution..." — sounds like an ad
+- "We are the only company..." — unverifiable
+- "Book a consultation today" — reserved for Week 4
+- Any webinar reference — the July webinar is canceled
 
 ---
 
 ## 6. Competitive Landscape Summary
 
-### Who Is In This Space
+**Who is in this space**
 
-The competitive landscape is unchanged from Week 1, with one Week 2-specific note: **Learning technology platforms** will be the most direct competition for the White Paper this week. Their argument — "better dashboards produce better measurement" — is a surface-level answer to the false confidence problem. InSync's Week 2 content should preempt this: the issue is not data infrastructure. The issue is that completion data, no matter how well-visualized, cannot measure what it was not designed to measure.
+The L&D measurement conversation is occupied by several categories of competitor: LMS vendors with built-in analytics features (Cornerstone, Degreed, LinkedIn Learning), measurement framework providers (Kirkpatrick, Phillips ROI methodology), and general L&D consultancies positioning around "learning effectiveness."
 
----
+**What argument they are making**
 
-### InSync's Differentiated Angle This Week
+Most LMS vendors are arguing that better dashboards solve the measurement problem — more data, better reporting, smarter analytics. The Kirkpatrick/Phillips framework conversation positions measurement as a post-program evaluation discipline. General consultancies argue that their custom approach is the answer.
 
-The Leadership Video (if available) is a competitive asset that no LMS platform or advisory firm can replicate. Two experienced practitioners speaking candidly about the organizational dynamics problem is a category of content technology vendors and research reports cannot produce. If the video is unavailable, InSync's differentiation rests on the specificity of the three-measure framework and Jennifer Hofmann's continued bylined authority.
+**InSync's differentiated angle**
 
----
+InSync's position is that measurement failure is a design problem, not a reporting problem. The metrics most teams track were built into their LMS for compliance purposes, not performance evidence. InSync measures differently at the point of delivery — engagement quality during sessions, behavior change after programs, performance outcomes tied to business metrics. This is not a reporting layer on top of the same activity data. It is a different set of inputs.
 
-### Competitive Risks to Flag
+This angle is differentiated because it indicts the system, not the team — and positions InSync's methodology as architectural, not cosmetic.
 
-- **The "false confidence" claim invites pushback from LMS vendors** who will argue their platforms have evolved to include more sophisticated analytics. InSync's response: analytics sophistication is not the same as measuring the right things.
-- **Saturation risk escalates in Week 2.** Week 2 differentiates by making the argument more specific and more personal — the 94% scenario is lived experience, not a research finding.
+**Competitive risks**
+
+The "completion rates are lying to you" argument is provocative and true — but it could invite defensive responses from audiences who have built their measurement infrastructure around exactly these metrics. Copy must honor the structural framing (the system failed them, not the other way around) to avoid triggering defensiveness.
+
+LMS vendors will likely increase measurement-focused marketing through 2026. InSync's advantage is the Leadership Video and the White Paper — human authority and documented methodology are harder to replicate than a campaign.
 
 ---
 
 ## 7. Risks, Gaps, and Open Questions
 
-### Risks
+**Risks**
 
-1. **Leadership Video production is unconfirmed (flagged optional).** If the video is not ready before the week begins, Email #2 and LinkedIn Post 3 must be restructured around the White Paper as the primary featured asset.
+1. **Blog 2 pre-publish edit is a blocking dependency.** The final line references the July webinar, which is canceled. The web team edit must be confirmed complete before Monday publish. If it publishes with the webinar reference, it contradicts the campaign and the CTA routes nowhere.
 
-2. **The "false confidence" framing tips into accusation.** The line between "your data cannot answer the question" (diagnostic) and "your data has been deceiving your leadership" (accusatory) is narrow. Content that crosses into accusation will cause the primary segment to disengage.
+2. **Two-version execution complexity.** Managing Video and Non-Video versions across seven deliverable types creates meaningful QA risk. Casey should build a version-check step into the production plan — confirm every deliverable has been produced and reviewed in both versions before any single channel goes live.
 
-3. **Audience fatigue on the measurement message.** For audience members who engaged heavily with Week 1, the risk is that Week 2 feels repetitive. Safeguard: every piece must introduce new information or the new register within the first two sentences.
+3. **Leadership Video production status is unconfirmed in the brief.** The brief lists the video as a deliverable but does not confirm it is filmed, edited, and ready. If the video is not ready by Tuesday (LinkedIn Post 3 and Email #2 launch), the Video version cannot go live on schedule. Marcus recommends Casey flag this as a blocking dependency immediately.
 
-4. **The differentiator card (Post 2) is the week's highest amplification opportunity — and the highest design risk.** If the card is too dense or not visually shareable, it will underperform. Devon needs to know this is the priority design asset this week.
+4. **Consultation URL reliability.** The secondary CTA routes to `https://info.insynctraining.com/insync-training`. This URL should be confirmed live, functional, and UTM-tagged before any deliverable publishes.
 
----
+5. **CTA escalation coherence.** Week 1 used "Start the conversation." Week 2 must escalate without overshooting — "Let's talk about your program" or "Talk with our team this week" are the right register. If copy drifts toward "Book a consultation today," it burns the Week 4 CTA reserve early.
 
-### Gaps
+**Gaps**
 
-- **Leadership Video production status is unconfirmed.**
-- **Week 1 actual performance data is not yet available** — KPI targets above are calibrated against Week 1 targets, not actuals.
-- **Karen Vieth's biography and LinkedIn presence are not specified.**
-- **Video hosting platform is not specified.**
+- Week 1 performance data is not included in the brief. Marcus cannot set Week 2 KPI targets with precision without knowing Week 1 email open rates, CTR, and White Paper download volume. Casey should pull and share this before Week 2 launches.
+- White Paper UTM tagging framework should be confirmed applied to all `insynctraining.com/why-go-live` links before publish.
+- Devon's PNG export status for Week 2 visual assets is not confirmed. SVG source files cannot be uploaded to LinkedIn or email platforms — PNG exports must exist before Jamie and Casey schedule assets.
 
----
+**Open Questions for Jeff**
 
-### Open Questions for the Client
-
-1. Is the Leadership Video produced, edited, and hosted as of Week 2 launch? If not, what is the confirmed production timeline?
-2. What is Karen Vieth's title and organizational context for the video?
-3. Where will the Leadership Video be hosted — and does the hosting page include a White Paper download CTA?
-4. What were the actual Week 1 performance numbers so KPI targets for Week 2 can be recalibrated?
-5. Is the 21-day webinar email sending to the same list as Email #2, or a separate promotional list?
+1. Is the Leadership Video filmed, edited, and ready for embedding? If not, what is the confirmed ready date?
+2. Has the Blog 2 web team edit been assigned and scheduled? Who is responsible for removing the webinar reference before Monday publish?
+3. What were Week 1 email open rate, CTR, and White Paper download totals? These are needed to calibrate Week 2 targets.
+4. Is `https://info.insynctraining.com/insync-training` live and UTM-tagged for Week 2 tracking?
+5. Who reviews Jennifer Hofmann bylined content before it publishes? Confirm this gate is in place for any Week 2 deliverable carrying her byline.
 
 ---
 
-## 8. Recommended Creative Direction Starting Points for Elena
+## 8. Recommended Creative Direction Starting Points
 
-*These are strategic springboards — not creative concepts. They identify the opportunity and the emotional register Elena should reach.*
+*These are strategic springboards for Elena. They are not creative concepts. Elena develops the concept, the visual language, and the execution.*
 
----
+**Springboard 1 — The Wrong Ruler**
+Strategic opportunity: The "completion rates are lying to you" argument lands hardest when it's concrete and visual. There is a strategic opening to embody the idea that the tools being used were never designed for the job — you can't measure outcomes with a compliance instrument. The emotional register this should hit: the quiet, clarifying recognition of "of course — I've been using the wrong tool."
 
-### Springboard A — The Report That Looked Right
+**Springboard 2 — Peer Authority, Not Expert Advice**
+Strategic opportunity: Karen Vieth and Jennifer Hofmann's credibility in the Leadership Video is not credential-based — it is peer-based. They are people who have been in the same rooms as the audience. The creative direction for Week 2 should lean into this register: direct, human, unhurried. The emotional register: trust earned by shared experience, not asserted by expertise.
 
-**Strategic Opportunity:** A training report showing 94% completion looks like a success by every conventional measure. The creative opportunity is to sit inside that moment of looking at a number that technically represents success — and knowing something is wrong. Not because the number is false, but because the question it answers is the wrong question.
+**Springboard 3 — Before / After Contrast**
+Strategic opportunity: The brief's pain point framework is built around the contrast between activity metrics (what most teams measure) and outcome metrics (what InSync measures). There is a strong visual and structural opportunity to make this contrast legible — not as a feature comparison, but as a before/after of what the executive conversation looks like with each type of evidence. The emotional register: relief. The audience should see themselves in the "after" and want it.
 
-**Emotional Register:** The quiet cognitive dissonance of a professional who knows the report doesn't say what everyone is going to think it says. The specific discomfort of having an accurate number that nonetheless cannot do the job it is being asked to do.
-
----
-
-### Springboard B — Two Voices, One Pattern
-
-**Strategic Opportunity:** Karen and Jennifer come from different positions in the organizational structure — Karen from organizational dynamics, Jennifer from the measurement framework. The Leadership Video's creative power comes from the convergence: two people who approached this problem from different angles and arrived at the same observation. If the video is unavailable, this springboard can be adapted to contrast two stakeholder perspectives in written form.
-
-**Emotional Register:** Credibility through convergence. The relief of hearing a complicated problem explained by two people who lived it differently but reached the same conclusion.
+**Springboard 4 — Two Versions as a Feature, Not a Fallback**
+Strategic opportunity: The Video and Non-Video versions are not the same campaign with something missing — they are two legitimate entry points to the same argument. Elena should develop each as a coherent experience. The Non-Video version's authority anchor is the White Paper — it should feel as intentional and credible as the video-forward experience. The emotional register for both: confidence that InSync has done the work and the evidence is available.
 
 ---
 
-### Springboard C — Before the Metrics Existed
+**Document Status:** Complete — ready for Jeff Brown approval and handoff to Elena.
 
-**Strategic Opportunity:** Most learning measurement happens inside the session. The behavior change that constitutes actual performance impact happens weeks later, in the work itself. Draw the boundary between where current measurement stops and where actual learning impact begins. That gap is not a measurement failure — it is a design assumption that was never correct.
+**Recommended next step:** Jeff approves → save as 01-marcus-strategy.md → advance to Stage 2 and invoke Elena with this document as primary input alongside brand reference materials.
 
-**Emotional Register:** Clarity after confusion. The feeling of understanding why something has never worked — not because of effort or intelligence, but because the tool was pointed at the wrong thing.
-
----
-
-### Springboard D — The Shareable Proof
-
-**Strategic Opportunity:** The differentiator card is the week's most deployable piece of evidence. L&D leaders who save it will use it in internal conversations — to explain a different measurement approach, frame a budget conversation, or benchmark against what their own team tracks. Make this card feel like a tool the audience claims for themselves.
-
-**Emotional Register:** Ownership. The satisfaction of having a clear, shareable reference that makes a complicated argument legible.
+**Carry-forward dependency flag for Casey (Stage 5):** Blog 2 pre-publish edit (webinar reference removal), Leadership Video production readiness, Devon PNG export confirmation, consultation URL UTM tagging.
 
 ---
 
-*End of Strategic Springboards. All four are open for Elena's interpretation. None prescribe execution.*
-
----
-
-**Document Status:** Approved by Jeff Brown — 2026-05-28
-**Production Note:** Leadership Video flagged as optional/uncertain. Elena and downstream agents should plan deliverables with and without the video as the anchor asset.
-**Recommended Next Step:** Advance to Stage 2 — invoke Elena with this strategy document and the Week 2 brief.
+*Marcus, Senior Marketing Strategist — Addison & Clark*
+*July 2026 · Week 2 · Proof Over Promises*

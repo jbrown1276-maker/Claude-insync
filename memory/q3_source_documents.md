@@ -72,7 +72,7 @@ All logos: `/Users/jeffbrown2023/InSync Training LLC Dropbox/Marketing & Sales/2
 | Week | Folder | Blog | Status |
 |------|--------|------|--------|
 | Week 1 (Jul 6) | `2026-07-06_july-week1-proof-over-promises/` | Blog 1 — Jennifer Lindsey Finan | ✅ Full pipeline complete through Stage 5 |
-| Week 2 (Jul 13) | `2026-07-13_july-week2-proof-over-promises/` | Blog 2 — Karen Vieth | Blog extracted, pipeline not started |
+| Week 2 (Jul 13) | `2026-07-13_july-week2-proof-over-promises/` | Blog 2 — Karen Vieth | ✅ Full pipeline complete through Stage 6 |
 | Week 3 (Jul 20) | `2026-07-20_july-week3-proof-over-promises/` | Blog 3 — Jennifer Hofmann | Blog extracted, pipeline not started |
 | Week 4 (Jul 27) | `2026-07-27_july-week4-proof-over-promises/` | Blog 4 — Cindy Foster | Blog extracted, pipeline not started |
 

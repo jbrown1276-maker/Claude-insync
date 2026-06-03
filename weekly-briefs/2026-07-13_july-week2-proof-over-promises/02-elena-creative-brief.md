@@ -1,7 +1,8 @@
-# Creative Brief
+# Campaign Creative Brief — Week 2: Proof Over Promises
+
 **Campaign:** July 2026 · Week 2 — Proof Over Promises
 **Client:** InSync Training
-**Week:** July 13–17, 2026
+**Week:** July 13, 2026
 **Prepared by:** Elena, Creative Director
 **For:** Devon (Art Direction) and Sarah (Copywriting)
 
@@ -9,282 +10,270 @@
 
 ## A Note Before You Read
 
-Devon, your primary sections are 3 (Visual Direction) and 8 (Channel-Specific Creative Direction — visual notes). Read sections 1, 2, and 7 before you open a single file. The concept evolution from Week 1 is the single most important thing you need to understand. The motif changes this week. Golden Honey is gone. The gap is shrinking. Every visual decision you make should reflect that shift.
+Devon — your sections are 3, 8 (Visual Direction columns), and the motif notes throughout. Your north star this week: the gap is closing. Cool Blue is doing the work Golden Honey did last week, but with a different emotional charge. Where Week 1 named the wound, Week 2 shows the suture beginning. Every visual decision should carry that quiet momentum.
 
-Sarah, your primary sections are 4 (Tone of Voice), 6 (Key Messages in Creative Language), and 8 (Channel-Specific Creative Direction — copy notes). Before you write anything, read Blog 2 in full — not to rewrite it, but to absorb Karen Vieth's register. She is sharper and more direct than Jennifer Hofmann. That directness is the tone Week 2 needs. Read sections 1 and 7 before you write a single word. The concept determines what you say and what you hold back.
+Sarah — your sections are 4, 8 (Copy Direction columns), and the key messages in Section 6. Your north star: you are writing for someone who already feels the recognition. They don't need to be convinced the problem exists. They need language for what they've been living — and a peer-level case that the alternative is real. No em dashes. Short declarative sentences. Karen Vieth's blog voice is your tone calibration — direct, sharp, unhurried.
 
-The north star for this week: **Make the reader understand that the problem isn't what they're missing — it's what they've been trusting.**
-
-Week 1 made them feel the gap. Week 2 explains why the gap exists — and that explanation is harder to hear. The creative must deliver it without condescension. The flaw is in the tool. Never in the person.
+The north star for both of you: **does this make the reader feel the content was written for someone who works exactly like them?** If it feels like a vendor talking, start over.
 
 ---
 
 ## 1. Campaign Concept — The Big Idea
 
-**Concept Name:** The Wrong Tool for the Right Question
+**Concept Name:** The Wrong Ruler
 
-**The Territory:**
+The audience already knows they have a measurement problem. Week 2 lands the escalation: the metrics they're using aren't just insufficient — they were built for a different job entirely. Completion rates were designed for compliance reporting. They were never meant to tell you whether learning changed anything.
 
-Week 1 named the gap. The audience nodded. They recognized the moment — the 94% completion rate that satisfied no one, the CFO's silence in the review meeting, the measurement framework that tracked activity and stopped there. That recognition was Week 1's entire job. We did it.
+This week's creative occupies a specific emotional territory: **quiet, clarifying indictment**. Not accusation. Not shame. The feeling of someone finally naming the thing you've been half-articulating for years. "Of course. I've been measuring with the wrong instrument. That's why the numbers never matched what I was seeing."
 
-Week 2 explains why the gap exists. And the explanation is sharper than "your data is incomplete." The explanation is this: completion rates were never designed to prove performance. They were designed to prove compliance — that training happened, that people attended, that regulatory boxes were checked. The LMS inherited that design purpose. Most evaluation frameworks did too. They are doing exactly what they were built to do. They just weren't built to answer the question the CFO is asking.
+The Leadership Video (Video version) and the White Paper (Non-Video version) are the authority anchors that make this landing credible. Karen Vieth and Jennifer Hofmann are not experts delivering information — they are peers who've been in the same room with the same executives and made the same uncomfortable case. That peer authority is what earns the right to name InSync's three-measure framework in Tier 3.
 
-That distinction — between a tool that is broken and a tool that is pointed at the wrong thing — is everything. It removes blame from the individual. It locates the problem in infrastructure, not competence. And it opens the door to a different set of tools — the three metrics InSync measures instead.
+**What the creative must make the audience feel or recognize:**
+The frustration isn't their fault. The measurement infrastructure was wrong. There is a better framework — and it's specific enough to be real.
 
-This week introduces those three metrics for the first time: engagement quality, behavior change, performance outcomes. They were held back in Week 1 deliberately. This week, we name them. Not as a product claim. As a contrast. Most teams measure X. InSync measures Y. Side by side. Clean. Deployable.
-
-The differentiator card is the week's anchor asset. Not because it's the most beautiful thing Devon will design this quarter — but because it's the most useful thing we will put in front of this audience. L&D leaders will save it. They will send it to their teams. They will use it in the budget conversation we've been preparing them for since Week 1. Design it accordingly.
-
-**What the Creative Must Make the Audience Feel:**
-
-For L&D Leaders: The specific relief of understanding a systemic failure — not their own. The moment of: "It was never going to work with these tools. Not because I wasn't trying. Because the tools were pointed at the wrong question." That understanding moves them from stuck to agency. The White Paper is what they pick up when they're ready to act on that agency.
-
-For Practitioners: The intellectual click of a framework that names what they already intuitively know. Engagement quality. Behavior change. Performance outcomes. These are not new ideas — they are ideas practitioners have been circling in approximation. Week 2 gives them precise language.
-
-**The Emotional Journey:**
-
-Touchpoint 1 (LinkedIn Post 1, Newsletter opener) → Escalation: *The problem I recognized last week is worse than I thought. It's not incomplete. It's producing false confidence.*
-
-Touchpoint 2 (LinkedIn Post 2, Blog 2, Email #2) → Contrast: *Here is what better measurement looks like. Specific. Named. Deployable.*
-
-Touchpoint 3 (LinkedIn Post 3, White Paper CTA) → Conviction: *I have a framework now. I have something to take back.*
-
-**What This Week Is NOT Doing:**
-
-This week is not repeating Week 1's recognition work. Two sentences to anchor — then escalate. Any piece that spends its opening third re-establishing the measurement gap is wasting Week 1's audience. They felt it. We are not re-selling the problem.
-
-This week is not pitching InSync's services. The differentiator card names what InSync measures. That is a contrast, not a proposal. Hold that line in every piece.
-
-This week is not built around the Leadership Video. The video is uncertain. The brief is written without it. Sarah will produce a modular video blurb as a separate insertable asset (see Section 8i). The week stands on its own without it.
+**What the creative is NOT doing this week:**
+- Not introducing InQuire by name — that's Week 3
+- Not making the audience feel implicated or inadequate
+- Not overexplaining — the audience is sophisticated; trust them
+- Not leading with InSync's capabilities before earning it through Tiers 1 and 2
+- Not treating the Non-Video version as a lesser deliverable — it is a complete and intentional entry point with the White Paper as its anchor
 
 ---
 
 ## 2. Creative Pillars
 
-**Pillar 1: The Diagnostic, Not the Accusation**
+### Pillar 1: The Named Culprit
+**Definition:** The problem has a specific cause, not a vague one. The culprit is measurement infrastructure — the tools were designed for compliance, not outcomes. Naming this precisely removes shame from the audience and redirects it toward the instrument.
 
-The false confidence claim — that completion data produces the appearance of effectiveness where none has been measured — is the sharpest thing InSync will say all quarter. It will land as either a revelation or an indictment depending entirely on where we locate the fault. The fault lives in the tool's design history, not in the person using it. Every piece this week must follow the same structural rule: state the false confidence claim, then immediately explain the structural reason for it. "The LMS was designed for compliance tracking — that is what it is built to do. Using it to measure performance outcomes is like using an attendance sheet to measure learning."
+**How it shows up:**
+- Blog: Karen's opening (94% completion scenario) — the concrete example that makes the abstraction specific
+- Email: subject line and opening paragraph — name the culprit in the first sentence
+- LinkedIn: hook copy that names the specific metric (completion rate) not the general failure
+- Newsletter: lead with the indictment, not the solution
 
-How this shows up: Copy always follows the claim with the structural explanation. Devon's differentiator card frames the two columns as a design contrast, not a judgment. Neither column has negative visual weight — the left column (what most teams measure) should not look like failure; it should look like the wrong tool.
+### Pillar 2: Peer Authority
+**Definition:** The credibility comes from shared experience, not credential. Karen Vieth and Jennifer Hofmann have been in the same executive conversations the audience dreads. The White Paper makes the same case in documented form. Neither is prescribing — both are witnessing.
 
-**Pillar 2: The Named Alternative**
+**How it shows up:**
+- Video version: the video is the proof of peer authority — Devon's visual framing and Sarah's tease copy should position Karen and Jennifer as colleagues, not experts
+- Non-Video version: the White Paper carries this authority — Sarah writes about it as "the case made in full" not "a resource to download"
+- LinkedIn: conversational register throughout; no vendor cadence
+- Email: second-person address that assumes shared context ("You've been in this conversation")
 
-Week 1 deliberately withheld InSync's three differentiating metrics. Week 2 names them: engagement quality, behavior change, performance outcomes. These must land as concrete and specific — not as a new layer of jargon. Each metric needs a one-sentence definition that makes it real. Engagement quality: not whether people showed up, but whether they participated in ways that reveal thinking and decision-making. Behavior change: whether participants are doing something differently on the job after the program. Performance outcomes: whether business indicators moved in the direction the program was designed to influence.
+### Pillar 3: The Before / After Contrast
+**Definition:** The audience should be able to see the difference between reporting with activity metrics and reporting with outcome evidence. The contrast is not rhetorical — it is structural. Show both states. Let the reader locate themselves in the before and want the after.
 
-How this shows up: Blog 2 carries this most fully — Karen Vieth introduces all three with practitioner-level specificity. The differentiator card distills them visually. Every other channel references the three metrics but does not over-explain — the White Paper does the full work. Sarah: introduce them, don't over-define them in short-form content.
+**How it shows up:**
+- Newsletter: the two-column or two-beat structure that shows the before/after conversation
+- LinkedIn Posts: stat cards that visualize the contrast (40% proficiency rate vs. what better looks like)
+- Email: the pivot sentence that moves from Tier 2 evidence to Tier 3 framework
+- Devon's visual system: the gap closing — Cool Blue filling in where Golden Honey marked the break
 
-**Pillar 3: The Shareable Artifact**
+### Pillar 4: Specificity as Trust
+**Definition:** Every claim should be concrete enough to be checkable. Vague claims are vendor noise. Specific claims are peer testimony. The three measures — engagement quality, behavior change, performance outcomes — must be named and defined, not gestured at.
 
-The differentiator card is this week's highest-leverage asset. It is not designed to be read. It is designed to be saved, screenshotted, and sent to a team before an internal budget conversation. Devon: pass the screenshot test. If a VP photographed this card on a conference screen and texted it to their CLO, would it be readable and credible? That is the production standard. Not aesthetically interesting. Credible and readable.
-
-How this shows up: Devon's card design is the production priority. Sarah's Post 2 copy is the frame — it earns the card without overselling it. The copy names the contrast, the card delivers it. Neither should be doing the other's job.
-
-**Pillar 4: Evidence That Escalates**
-
-Week 2 introduces two new data points from Blog 2. Companies actively tracking training ROI are 52% more likely to see their learning budgets increase (Karen Vieth). Employees forget up to 70% of new training within 24 hours without reinforcement. These numbers do different jobs. The 52% figure is a leadership motivation point — it reframes measurement investment as budget protection. The 70% figure is a design-level urgency point — it explains why the behavior change metric matters. Use them purposefully. The 52% goes in Email #2 and potentially Post 3 (leadership register). The 70% goes in Blog 2 (already there) and the Video Script, where the pace allows it.
+**How it shows up:**
+- Sarah: name all three measures wherever InSync's differentiator appears; do not paraphrase to "better metrics"
+- Devon: stat cards should carry the exact numbers, not rounded approximations
+- Email and newsletter: the framework paragraph must name all three measures in sequence
+- LinkedIn: if a post references InSync's approach, the three measures appear by name
 
 ---
 
 ## 3. Visual Direction (for Devon)
 
-### Color Application — Week 2 Rules
+### Color Application
 
-| Color | Hex | Role in Week 2 |
-|---|---|---|
-| InSync Blue | `#032b43` | Primary background. All dark assets. Unchanged from Week 1. |
-| Medium Blue | `#044269` | Secondary containers, depth layering, divider column backgrounds. |
-| Cool Blue | `#0883cf` | The active side — the "what InSync measures" column on the differentiator card. CTAs. Active elements. This color represents the answer. |
-| Light Blue | `#00b9f5` | Accents only. One use per asset maximum. Column labels, highlighted phrases. Never fill, never background. |
-| Slate Grey | `#6e8699` | All body copy, captions, source attribution on graphics. |
-| **Golden Honey** | **`#eda113`** | **RETIRED. Do not use anywhere in Week 2. Not as an accent. Not as a gap marker. Not decoratively. It is gone.** |
-| Ivory Mist | `#d9d4c5` | Available for email body backgrounds where InSync Blue is too heavy. |
+**InSync Blue `#032b43`** — Primary structural color. All hero backgrounds, card backs, full-bleed sections. This is the foundation. Week 2 carries the same deep authority as Week 1.
 
-### The Structured Incompleteness Motif — Week 2 State
+**Medium Blue `#044269`** — Secondary container backgrounds. Use for mid-level hierarchy sections — sidebar panels, secondary cards, section dividers. Creates depth within the navy palette without competition.
 
-The motif evolves. The gap is shrinking.
+**Cool Blue `#0883cf`** — **This is your Week 2 signal color.** It replaces Golden Honey entirely and carries a different emotional charge. Where Golden Honey marked the break — the open wound of the gap — Cool Blue marks momentum: the gap beginning to close, the measurement alternative taking form. Use it for: CTAs, data visualization fill, the "after" state in any before/after contrast, the stat highlight color on cards. Do not scatter it — let it mean something each time it appears.
 
-In Week 1, the divider line had a gap marked in Golden Honey — open, visible, deliberate. That gap was the problem. The problem has now been named.
+**Light Blue `#00b9f5`** — Accent only. One use per asset maximum. Use as a secondary data line in charts, a thin border element on a featured stat, never as background.
 
-In Week 2, the gap shrinks. The line is closer to complete — but not there yet. The visual argument: contrast has been introduced. The gap is being addressed. It is not closed.
+**Slate Grey `#6e8699`** — Body text, captions, supporting copy on light backgrounds. This is the reading color, not the attention color.
 
-**Construction for Week 2:**
-- Left segment: White, opacity 0.25–0.35, weight 1–1.5px. Longer than in Week 1.
-- Gap segment: White, opacity 0.15, weight 1px. The gap exists but is visually quieter — it is no longer the focal point. No color. No Golden Honey. The gap is becoming structural, not emotional.
-- Right segment: White, same opacity as left. Also longer than Week 1.
-- No Golden Honey circles at gap endpoints. The gap markers from Week 1 are gone.
+**Golden Honey `#eda113`** — **RETIRED. Does not appear anywhere in Week 2 or beyond. If you find yourself reaching for it, stop.**
 
-The gap should be approximately 60–70% of its Week 1 size in the same asset type. The visual shift is subtle — Week 1 and Week 2 assets should feel related but not identical.
+### Typography
 
-### The Differentiator Card — Priority Asset
+**Montserrat Bold** — All headlines, stat numbers, the culprit phrase ("Completion rates were never designed to measure outcomes."). Maximum punch, minimum word count.
 
-**This is Devon's most important production task this week.** Everything else is secondary to getting this card right.
+**Montserrat Medium** — Subheads, pillar names, the three-measure framework labels. Holds the structural hierarchy between Bold and Regular.
 
-**Dimensions:** 1200×627px (LinkedIn feed)
+**Montserrat Regular** — Body copy, caption text, supporting context. Keep line length controlled — max 65 characters per line in any designed asset.
 
-**Concept:** Two columns. No visual hierarchy between them — neither column is the "good" column or the "bad" column at the design level. The contrast speaks for itself. Devon should resist the urge to make the left column look like failure — dark, greyed out, defeated. That is the accusatory visual. Instead: two clean columns, equal weight, professional register. The difference is in what they say, not in how they're dressed.
+**Hierarchy principle:** One Bold headline per asset. The eye should land on it first, every time. Everything else serves that landing.
 
-**Layout spec:**
-- Full InSync Blue background
-- Thin vertical divider line (Medium Blue, 1px, full height minus top and bottom margins) separating the two columns
-- Left column header: "What most teams measure" — Montserrat Medium, ~13px, Light Blue, letter-spacing 1.5px, all-caps label treatment
-- Right column header: "What InSync measures" — same treatment, Light Blue
-- Left column items (three): "Completion rates" / "Attendance" / "Satisfaction scores" — Montserrat Bold, ~24px, White
-- Right column items (three): "Engagement quality" / "Behavior change" / "Performance outcomes" — Montserrat Bold, ~24px, White
-- Brief descriptor line under each right-column item in Montserrat Regular ~13px, Slate Grey — one short phrase each:
-  - Engagement quality: "Are learners participating in ways that reveal thinking?"
-  - Behavior change: "Are participants doing something differently on the job?"
-  - Performance outcomes: "Are the business indicators the program was designed to move — moving?"
-- The structured incompleteness motif divider runs below the column headers, above the content rows — Week 2 state (gap shrinking, no Golden Honey)
-- InSync bug/mark logo, bottom right, BUG_white.svg, 36px
-- Bottom of card: "Why Go Live White Paper — insynctraining.com/why-go-live" in Montserrat Regular, Slate Grey, small — this is a reference, not a CTA button
+### Imagery
 
-**What the card must NOT look like:** A product comparison matrix. A sales one-pager. A slide from a vendor deck. Test: would a thoughtful L&D practitioner screenshot this and send it to a colleague? If the answer is "only if they want to share InSync's marketing," it has failed.
+**Scenario:** Data being acted on, not just observed. If a person appears, they are reviewing something — a document, a screen, a printed report — and their posture signals consideration, not distress. No stock "team celebration" or "light bulb moment" imagery.
 
-### Email Header — Week 2
+**Lighting:** Clean, slightly cool. Consistent with Week 1's authority tone. Avoid warm or soft-focus — this week has a clinical precision to it.
 
-**Dimensions:** 600×200px
-**Background:** InSync Blue (#032b43)
-**Headline:** "What if your metrics are measuring the wrong things?" — Montserrat Bold, ~22px, White, sentence case
-**Bottom accent bar:** Cool Blue (#0883cf), 4px
-**Logo:** Horizontal white (Horz_white.svg), 130px, bottom right
-**Motif:** No divider line at this scale — the accent bar continues to serve that structural role as in Week 1
+**Subject behavior:** Quiet focus. The "before" state can carry tension — a person presenting numbers that aren't landing. The "after" state carries relief — the same person presenting with a different frame.
 
-### LinkedIn Post 3 Asset — Pull Quote / Authority Card
+**What to never shoot:** Group training sessions (too literal), generic handshakes or smiles, any image that reads "corporate stock photo circa 2019." If it could illustrate any L&D vendor's homepage, it is wrong.
 
-Since the video is not available, Post 3 needs a pull quote card that delivers the conviction argument visually.
+**Preferred visual approach:** Abstract data visualization — gap-closing diagrams, before/after bar comparisons with Cool Blue filling in. The motif is structural, not photographic. Let Devon's graphic system carry the visual authority this week.
 
-**Dimensions:** 1200×627px
-**Background:** InSync Blue
-**Pull quote:** A single line from Karen Vieth's blog or from the conviction argument — something short enough to read in two seconds. Recommendation: *"Completion rates tell you what happened. They don't tell you whether it mattered."* — or Elena's preferred line: *"The tool was built for compliance. Not for this question."*
-**Treatment:** Montserrat Bold, ~42px, White, centered or left-aligned with generous margin
-**Decorative quote mark:** Medium Blue, large, behind the text — same treatment as Week 1 pull quote card
-**Attribution:** Montserrat Regular, ~15px, Slate Grey — "InSync Training · Why Go Live White Paper"
-**Motif:** Week 2 divider state below the quote text
-**Logo:** BUG_white.svg, 38px, bottom right
+### Iconography — The Gap Motif (Week 2 State)
 
-### Asset Inventory for Week 2
+The core motif from Week 1 evolves: the open gap begins to close from the right. The left side remains InSync Blue. The closing movement is Cool Blue. The gap is visibly smaller than Week 1 — present but diminishing.
 
-| File | Dimensions | Purpose |
-|---|---|---|
-| `differentiator-card.svg` → PNG | 1200×627px | LinkedIn Post 2 (Wednesday) — priority asset |
-| `email-header-week2.svg` → PNG | 600×200px | Email #2 header and Newsletter header |
-| `linkedin-post3-pullquote-week2.svg` → PNG | 1200×627px | LinkedIn Post 3 (Thursday) |
+**States this week:**
+- **Gap partially closed (primary state)** — used in newsletter header, LinkedIn posts, email banner
+- **Gap nearly closed (aspirational state)** — used in CTA sections, the White Paper promotion unit
 
-The Week 1 `webinar-promo-header.svg` can be reused for the 21-day webinar email — update the date/time text only. No new webinar header required unless Jamie flags a reason.
+**Usage rules:** The gap motif appears in hero positions and section headers. It does not appear as a decorative element at small sizes. It must be legible at the dimensions of use.
+
+### Layout Principles
+
+1. **White space is load-bearing.** Do not fill it. The argument lives in the contrast between what's said and what's left open.
+2. **Stat cards stand alone.** Each stat card is a self-contained social asset — InSync logo, stat, one line of context, Cool Blue accent. Designed for screen-capture sharing without cropping.
+3. **Before/after contrast is structural, not decorative.** When showing the two-state comparison, give each state equal real estate. Don't let the "after" crowd out the "before" — the recognition happens in the juxtaposition.
+4. **Left-align body text.** Centered body copy reads as marketing. Left-aligned reads as argument.
+5. **The CTA section earns its color.** Cool Blue backgrounds for CTA sections only — this trains the reader's eye across the campaign arc that Cool Blue = action available.
 
 ### What to Avoid
 
-- **No Golden Honey.** Not as an accent. Not as a gap marker. Not as a highlight. Retired.
-- **No "defeated" left column.** The differentiator card cannot visually imply that completion rates are shameful. The left column gets the same visual respect as the right.
-- **No progress bars used decoratively.** Same rule as Week 1.
-- **No stock photography** of any kind. Abstract data visualization only.
-- **No gradients** as background treatment.
-- **No red or warning colors.** This is a diagnostic, not an alarm.
+**Avoid gradient overuse.** One subtle gradient per asset maximum — and only between InSync Blue and Medium Blue. Cool Blue does not gradient.
+
+**Avoid illustration that softens the argument.** Friendly icons with rounded edges undercut the precision this week requires. If you use iconography beyond the gap motif, keep it sharp and geometric.
+
+**Avoid visual busy-ness in stat cards.** The number is the design. One stat, one supporting sentence, InSync logo, done.
+
+**Avoid symmetrical layouts that read as brochure.** This is an argument document, not a product sheet. Asymmetry creates movement — use it.
 
 ---
 
 ## 4. Tone of Voice (for Sarah)
 
-**Governing Principle:**
+### Governing Principle
 
-Write from a position of clarity, not complaint. Week 2 knows why the gap exists. The voice reflects that — it is calmer than the complaint register, more precise than the frustration register. It does not escalate emotionally. It escalates intellectually.
+Write as if you are Karen Vieth in a conversation with a peer who is smart, overworked, and tired of being sold to. You are not explaining. You are witnessing.
 
-**What It Sounds Like:**
+### What It Sounds Like
 
-*Example 1 — Email #2 opening:*
-"Most L&D teams aren't failing at measurement. They're using a measurement system that was designed for a different question. Completion data was built to prove compliance — that people attended, that training happened, that the box was checked. It does that job well. It just doesn't do the job being asked of it now."
+**Newsletter opening (Video version):**
+"Karen Vieth and Jennifer Hofmann didn't set out to critique L&D measurement. They set out to have a different conversation with executives. What they found is that the metrics most teams are carrying into those rooms were never built for the questions those executives are asking."
 
-*Example 2 — LinkedIn Post 1 (Tuesday):*
-"There's a particular kind of quiet that happens when you present a strong completion rate and watch the room stay unconvinced. The number isn't wrong. It's just not answering what was asked. That's not a reporting problem. It's a design problem — in the tools most of us were handed."
+**Newsletter opening (Non-Video version):**
+"The Why Go Live White Paper doesn't open with a solution. It opens with a number: 40% of talent development professionals rate themselves as proficient at evaluating impact. That's not a knowledge gap. That's a measurement infrastructure problem — and the paper makes the case for what the infrastructure should look like instead."
 
-*Example 3 — LinkedIn Post 2 caption (before the card):*
-"Most training dashboards track three things: completion, attendance, and satisfaction. InSync tracks three different things: engagement quality, behavior change, and performance outcomes. Neither set of numbers is wrong. One set answers whether training happened. The other answers whether it worked."
+**LinkedIn post hook:**
+"Completion rates were designed for compliance reporting. That's it. They were never meant to tell you whether learning changed performance."
 
-*Example 4 — Newsletter register:*
-"The question this week isn't whether your measurement approach is rigorous. It's whether it was designed to answer the question being asked of you. Most weren't. The Why Go Live White Paper lays out what a different measurement framework looks like — and why the distinction matters in a budget conversation."
+**Email opening:**
+"Last week we named the gap. This week: what's actually causing it. The problem isn't that L&D teams don't care about outcomes. It's that the metrics they're using were built for a different job."
 
-**What to Avoid:**
+### What to Avoid
 
-*Wrong:* "Your completion rates are lying to you." — This is Karen Vieth's blog title, and it works in that context. It does not work as a general-register claim in InSync's voice. The verb "lying" puts blame somewhere. Our voice locates blame in the tool's design, not in an active deception.
+**No em dashes.** This is a standing rule. Prefer a period. If a sentence needs an em dash to work, the sentence needs to be two sentences. **This is non-negotiable.**
 
-*Wrong:* "It's time to stop measuring the wrong things." — Prescriptive. Implies the reader chose wrong.
+**No passive voice on InSync's differentiator.** "InSync measures engagement quality, behavior change, and performance outcomes" — not "measurement can be improved by tracking engagement quality."
 
-*Wrong:* "In today's rapidly evolving learning landscape..." — Delete on sight.
+**No "holistic," "robust," "leverage," "value-add," "best-in-class," "innovative."** These are brand-voice violations. If one appears in a draft, it is an error.
 
-*Wrong:* "We're excited to share..." — Never.
+**No vendor register.** Phrases like "our comprehensive approach" or "InSync's proven methodology" are wrong. Say what the thing is. "InSync measures three things: engagement quality, behavior change, and performance outcomes."
 
-*Wrong:* "InSync's proven methodology delivers..." — Service pitch. Not this week.
+**Wrong:** "Finally, a solution that measures what matters."
+**Right:** "There are three measures that actually tell you whether training worked. Completion rate is not one of them."
 
-**The Right Version of Escalation:**
-
-Escalation in Week 2 is intellectual, not emotional. The register should feel like a knowledgeable colleague who has just been handed a clear explanation for something that's been frustrating them for a long time. Not angry. Not relieved in a dramatic way. Clarified. The voice is: "Here is why it happened. Here is what the alternative looks like."
+**Wrong:** "Our holistic measurement framework helps L&D leaders demonstrate ROI."
+**Right:** "Engagement quality. Behavior change. Performance outcomes. Those are the three measures that hold up in an executive conversation."
 
 ---
 
 ## 5. Creative Guardrails
 
-**What Fits:**
+### What Fits
 
-- Two-sentence openings that acknowledge Week 1's gap and immediately advance: "The measurement gap is real. Here's why the tools most teams use can't close it."
-- The false confidence claim, immediately followed by the structural explanation
-- The three InSync metrics introduced together, each with a one-sentence concrete definition
-- The White Paper framed as a tool to deploy upward — "worth having before the next executive conversation," not "worth reading"
-- Declarative sentences. Subject-verb-object. No dependent clauses that soften the claim before it lands.
-- Evidence stats with source attribution — never presented as decoration
+- Naming the specific metric that fails (completion rates, satisfaction scores) — specificity is the argument
+- The three-measure framework stated plainly: engagement quality, behavior change, performance outcomes — in that sequence
+- Peer register language: "you've been in this conversation," "most teams we work with," "the question executives are actually asking"
+- Before/after contrast structures — the two-state comparison is the emotional engine this week
+- White Paper positioned as "the case made in full" not "a free resource" — it is evidence, not a lead magnet
+- The consultation CTA language for Week 2: "Let's talk about your program" or "Talk with our team this week"
 
-**What Does Not Fit:**
+### What Does Not Fit
 
-- Re-establishing the measurement gap from scratch in the first third of any piece. Week 1 earned that territory. Reference it, don't re-sell it.
-- The false confidence framing as indictment. "Your dashboard has been misleading your leadership" is accusatory. "The dashboard was designed for a question it was never asked to answer" is diagnostic. Only one of those belongs in InSync's voice.
-- Naming all three metrics as a list without concrete definition. "Engagement quality, behavior change, and performance outcomes" is a slogan until each one has a sentence that makes it real.
-- Any mention of InSync's services, pricing, or engagement models.
-- Superlatives. "InSync's unique approach" or "the most effective measurement framework" — these are claims that require proof we aren't providing. Drop them.
+**"Most training doesn't work"** — implicates the audience personally. The culprit is the instrument, not the team. Never.
 
-**The CTA Rule:**
+**"Book a consultation today"** — reserved for Week 4. Using it now burns the escalation arc.
 
-The White Paper CTA appears after the argument has been made — not before. In every piece:
-- Short-form (LinkedIn posts): CTA appears in the first comment, not the caption. Post 1 has no CTA at all.
-- Medium-form (newsletter, teaser): CTA appears at the end, after two clear paragraphs of argument.
-- Long-form (email, blog): CTA appears in the body after the contrast has been named, and again at the close.
-- The webinar CTA is secondary — it appears only where it fits naturally and never competes with the White Paper ask in the same visual space.
+**InQuire Engagement Framework by name** — Week 3 asset. Do not introduce.
+
+**Webinar references of any kind** — the July webinar is canceled. No references anywhere.
+
+**Shame framing** — "if you're still using completion rates, you're behind." Wrong. The audience is sophisticated and self-aware. Naming their situation is an act of respect, not critique.
+
+**Expert lecturing** — "Here's what you should know about measurement science." Wrong register entirely. Peer witnessing, not instruction.
+
+### The CTA Rule
+
+The CTA appears only after the argument has been made. In every channel:
+1. Tier 1 (the culprit) — no CTA
+2. Tier 2 (the evidence) — no CTA; the stat validates the problem
+3. Tier 3 (the InSync differentiator) — White Paper CTA appears here as the natural next step
+4. Tier 4 (the path forward) — consultation CTA appears for those ready to move
+
+Do not front-load the CTA. Earn it.
 
 ---
 
 ## 6. Key Messages in Creative Language
 
-**Tier 1 — The Escalated Claim**
-Strategic message: Completion rates produce false confidence — the appearance of effectiveness where none has been measured.
-Creative approach: This tier lands as diagnostic clarity, not accusation. The creative move is the structural explanation — the LMS was built for compliance tracking. That is a fact, not an indictment. The reader should feel: "Now I understand why the data never satisfied the CFO." Not: "I've been using bad tools." The distinction: bad tools implies a choice. Wrong-purpose tools implies an inheritance. Inheritance removes blame. That is the creative job.
+### Tier 1 — The Named Culprit
+**Strategic message:** Completion rates tell you what happened. Not whether it mattered.
 
-**Tier 2 — The Credibility Source**
-Strategic message: Jennifer Hofmann's authority and industry data validate that this is not an isolated problem.
-Creative approach: Jennifer's presence this week is supporting, not lead. Week 1 established her authority — Week 2 lets the argument carry on that foundation. The 70%/48% statistics from LEO Learning remain the solidarity signal. The new 52% figure from Karen Vieth's blog adds a leadership-motivation layer: measurement investment protects budgets. Sarah: when citing statistics, source them every time — this is load-bearing for credibility, not optional.
+**Creative approach:** This should feel like a quiet revelation, not an attack. The best version of this lands as "of course — that's exactly the problem I couldn't name." The form is a declarative statement followed immediately by a second sentence that specifies why. Do not editorialize after that. Let the recognition do its work.
 
-**Tier 3 — The Named Alternative**
-Strategic message: Engagement quality, behavior change, and performance outcomes are the three things that tell you whether the learning worked — not whether the session ran.
-Creative approach: This tier is being introduced for the first time. Give it room. Do not treat the three metrics as a list — treat each one as a specific idea that becomes real when it's defined. The differentiator card does this visually. The blog does it in full. In short-form content (posts, newsletter), name them and give one sentence of context — let the White Paper do the rest. The creative register should feel like: "Here is the vocabulary for the thing you've been trying to say." Not: "Here is InSync's product feature."
+Devon: this is the gap-open state. The visual should name the division between what's being measured and what matters — without Golden Honey, the break reads as structural, not urgent.
 
-**Tier 4 — The Next Step**
-Strategic message: The White Paper is the complete framework — worth deploying in the next executive conversation.
-Creative approach: "Worth deploying" is the distinction. Week 1 positioned the White Paper as something worth reading before a budget conversation. Week 2 can advance that: it is a document worth sharing upward, worth having in the room. The creative language frames it as a tool the reader claims for a purpose — not a resource they passively consume. "The kind of document your CFO will take seriously" is specific and deployable. "Download our white paper" is not.
+Sarah: two sentences maximum. The first names the metric. The second names what it was designed for. Full stop.
+
+### Tier 2 — The Evidence Layer
+**Strategic message:** 40% of talent development professionals rate themselves as proficient at evaluating impact. This is not a knowledge failure — it is a measurement infrastructure failure.
+
+**Creative approach:** The stat does the emotional work. Sarah's job is to frame it so it removes shame rather than adding it. The audience should recognize themselves in the 60% who don't feel proficient — and feel validated that the gap is documented and shared. The move from "this is my problem" to "this is our industry's problem" is the emotional pivot that opens the door to InSync.
+
+Devon: stat card. The number is large. One line of context below. Cool Blue accent mark. InSync logo. Nothing else. This is a sharing asset — design for the screenshot.
+
+Sarah: the framing sentence before and after the stat matters more than the stat itself. What does the number mean about who's at fault? That's the copy.
+
+### Tier 3 — The InSync Differentiator
+**Strategic message:** InSync measures engagement quality, behavior change, and performance outcomes.
+
+**Creative approach:** Name all three. Always in that sequence. Do not paraphrase to "better metrics" or "outcome-based measurement." The specificity is the differentiator. The audience can walk into an executive conversation with these three terms and have a different conversation than they've been having. That's the value.
+
+Devon: the three measures can be visualized as three points on the gap-closing arc — engagement quality at the beginning of the close, behavior change in the middle, performance outcomes at the destination. This is optional, not mandatory — but if you use it, it should feel like a diagram, not a marketing graphic.
+
+Sarah: introduce the three measures only after Tiers 1 and 2 have been established. The sequence earns the right to name InSync's approach.
+
+### Tier 4 — The Path Forward
+**Strategic message:** The Why Go Live White Paper makes the case for what better measurement looks like.
+
+**Creative approach:** Position the White Paper as the next logical step for someone who has just had the Tier 1–3 argument land. It is not "download this free guide." It is "here is where the full case is made." The consultation CTA follows for those already convinced and ready to act.
+
+Devon: the White Paper promotion unit should feel authoritative. This is a document with a point of view, not a gated PDF. Give it weight.
+
+Sarah: "Read the White Paper" or "Start with the evidence." The CTA copy should match the Tier 4 positioning — logical next step, not reward for reading.
 
 ---
 
 ## 7. Audience Insight — The North Star
 
-**The Insight:**
+**The insight:** This audience is not unsophisticated about measurement. They know completion rates are insufficient. What they lack is a specific, defensible alternative they can walk into an executive conversation with. The gap between knowing the problem and having a solution is the exact space Week 2 occupies.
 
-L&D leaders are not failing at measurement because they lack rigor. They are failing because they were handed tools designed to answer a different question — and the accountability landscape shifted under their feet without the tools changing. They are being held responsible for demonstrating performance impact with infrastructure built to demonstrate compliance. That gap is not their creation. Understanding that is the emotional pivot of Week 2.
+**The creative opportunity:** The recognition moment this week is not "I have a measurement problem" (that was Week 1). It is "I've been using the wrong instrument, and here are three instruments that would actually work." That shift — from named problem to named solution — is the emotional movement Week 2 creates.
 
-**The Creative Opportunity:**
+**The north star question Devon and Sarah ask before finalizing any decision:**
 
-The recognition moment Week 2 creates is different from Week 1's. Week 1 was: "Yes, that is my situation." Week 2 is: "Now I understand why that is my situation — and why trying harder with the same tools wouldn't have fixed it." That understanding is relieving. It is also activating. It creates the right conditions for the White Paper CTA — not as a marketing asset, but as an answer to a newly understood question.
+*Does this give the reader something specific they can take into an executive conversation — or does it leave them with a general feeling?*
 
-**The North Star Question:**
-
-Before Devon finalizes any visual and before Sarah finalizes any copy: *Does this make the reader feel equipped, or does it make them feel indicted?*
-
-Equipped is the goal. Indicted kills the week. The line is thinner in Week 2 than it was in Week 1 — because the claim is sharper. Hold the line.
+If it leaves them with a feeling but no framework, revise until the framework is legible.
 
 ---
 
@@ -292,228 +281,225 @@ Equipped is the goal. Indicted kills the week. The line is thinner in Week 2 tha
 
 ---
 
-### a. Blog 2 — Karen Vieth (Pre-Written)
+### Blog 2 — "Completion Rates Are Lying to You — Here's What to Track Instead"
+*Author: Karen Vieth | Pre-written | Tone calibration only*
 
-**Creative Role:** Practitioner-facing anchor content. Long-form argument vehicle. The most explicit treatment this week of the "completion rates are insufficient" claim, written directly in the practitioner's professional register.
+**Creative role:** Cornerstone practitioner content. Karen's voice is sharp, direct, and credentialed by experience. This blog opens with a specific failure scenario and builds to the three-measure framework.
 
-**Direction for Sarah:**
-- Blog 2 is pre-written by Karen Vieth. Do NOT rewrite it.
-- Read it in full before writing anything else this week. Karen's register is sharper and more direct than Jennifer Hofmann's. That directness should calibrate your voice for the week.
-- Confirm that the White Paper CTA at the end of the blog points to `insynctraining.com/why-go-live` and is UTM-tagged for blog traffic attribution. Suggested UTM: `?utm_source=blog&utm_medium=organic&utm_campaign=july-week2&utm_content=blog2`
-- Confirm the webinar secondary CTA is present and accurate (date, time, registration URL)
-- No copy changes. UTM tagging only.
+**Sarah — tone calibration notes only:**
+Read the full blog before writing anything else this week. Karen's register is your Week 2 calibration: she names the metric, names its designed purpose, and names its failure — in that order. She does not soften. She does not qualify. She trusts the reader's intelligence. Hold that register across every deliverable.
 
-**Direction for Devon:**
-- Blog 2 may need a featured image for CMS upload. If so: InSync Blue background, the structured incompleteness motif in Week 2 state, a single data visualization element or abstract measurement graphic. 1200×630px. No photography.
-- This asset is lower priority than the differentiator card — produce it only after the differentiator card is complete.
+**Do not rewrite a single word.** The final line references the July webinar — this is a web team pre-publish edit. Flag it in your handoff notes.
+
+**Devon — featured image (1200 × 630 px):** Gap-closing motif in its primary state. "Completion Rates Are Lying to You" in Montserrat Bold. Karen Vieth byline in Montserrat Regular. InSync logo bottom right.
 
 ---
 
-### b. Weekly Newsletter
+### Leadership Video — Karen Vieth & Jennifer Hofmann
+*(Video version only — this asset does not exist in Non-Video deliverables)*
 
-**Creative Role:** Consolidation and credibility vehicle for the existing subscriber list. Introduces the week's content with editorial framing — not a promotional digest.
+**Creative role:** The peer authority anchor. This is not a produced InSync video — it is a credible, buyer-level conversation between two people who have been in the rooms the audience dreads. The video's job is to make the before/after contrast human and specific.
 
-**Hook Direction:** Open with the anchor line as the first sentence: "What if your metrics are measuring the wrong things?" Do not build to it — it is the opener.
+**Devon — visual framing for thumbnail and companion assets:**
+Two-person conversation format. Cool Blue as the accent color on any graphic elements. The thumbnail should read as professional without reading as corporate. If there's a title card or lower-third, keep it typographically clean: name and title in Montserrat Medium, no decorative elements.
 
-**Copy Direction for Sarah:**
-- Anchor line as opener — one sentence, stands alone as a paragraph
-- Second paragraph: acknowledge Week 1's gap in one sentence, then escalate to the false confidence claim. Example: "Last week, we named the gap. This week, the argument gets sharper: the measurement approach most L&D teams use doesn't just fall short — it produces the appearance of success where none has been measured."
-- Third paragraph: introduce the three InSync metrics briefly. One sentence per metric is enough. End with the White Paper framed as the complete framework.
-- Two links maximum: Blog 2 and the White Paper download. Webinar registration as a P.S. line if appropriate, but not as a second embedded CTA.
-- 350–450 words total. Editorial register throughout. Not a content roundup — a considered note.
-- Subject line: "What if your metrics are measuring the wrong things?" (same as anchor line — it earns the open because it sounds like a question the reader has been asking quietly)
-- Preheader: Should complete the anchor line's implied thought. Direction: "Most measurement frameworks were built for a different question."
+Companion stat card for the video post: one stat from the video, designed for standalone sharing.
 
-**Direction for Devon:**
-- Reuse the email header asset from Week 2 (`email-header-week2.svg` → PNG) — same asset as Email #2 header.
-- No additional newsletter-specific visual required.
+**Sarah — teaser and promotion copy (Video version):**
+Your job is to make someone who has not watched the video feel that Karen and Jennifer are peers who have been in their exact situation. Do not summarize the video. Do not tell the reader what they'll learn. Name the conversation:
+
+*"Karen Vieth and Jennifer Hofmann didn't set out to critique how L&D measures impact. They set out to have a different conversation with executives — and what they found changed how they report. This is that conversation."*
+
+CTA: "Watch the conversation" — not "Watch the video," not "Learn more."
 
 ---
 
-### c. LinkedIn Newsletter Teaser
+### Weekly Newsletter — TWO VERSIONS
 
-**Title:** The Three Things L&D Teams Should Be Measuring Instead
+**Creative role:** The week's primary long-form delivery. In the Video version, it leads with the Karen/Jennifer conversation as the evidence anchor. In the Non-Video version, it leads with the White Paper as the evidence anchor. Both versions carry the full Tier 1–4 argument.
 
-**Creative Role:** Drives LinkedIn Newsletter subscribers to the full article. Previews the three-metric alternative without delivering the full framework — the full article does that.
+**Devon — header:**
+Gap-closing motif in its primary state. Full-width at the newsletter's max container width. InSync Blue background. White headline text. No photography.
 
-**Copy Direction for Sarah:**
-- Open with the false confidence claim in one sharp sentence. No preamble.
-- Second paragraph: the three InSync metrics named, with one-phrase definition each. Do not over-explain — the full article delivers the argument.
-- Third paragraph: "This week's newsletter goes deeper." Clear CTA: "Read the full newsletter."
-- 90–120 words. Punchy. No wind-up. This is the opening of a talk, not an email.
-- Do not duplicate LinkedIn Post 2 or Post 3 verbatim.
-- No hashtags on LinkedIn Newsletter teasers.
+Video version: include a video thumbnail unit below the header — Cool Blue border, "Watch the conversation" CTA button in Cool Blue.
 
----
+Non-Video version: White Paper promotion unit in its place — authority positioning, not a download prompt.
 
-### d. LinkedIn Post 1 — Tuesday, July 15
+**Sarah — structure (both versions):**
 
-**Creative Role:** Opens the week on LinkedIn in the emotional resonance register. No CTA, no link, no pitch. Pure recognition — but escalated from Week 1. The emotional territory shifts from "you have a gap" to "the tool you've been using was never designed to close it."
+*Opening (Tier 1):* Name the culprit. Two to three sentences. The completion rate indictment. No hedging.
 
-**Hook Direction:** Open with the physical experience of a moment — not the statistic, not the argument. A specific, recognizable scenario. The quiet that follows a strong completion number that still doesn't satisfy.
+*Evidence beat (Tier 2):* The 40% stat with framing that removes shame. Two to three sentences. "This isn't a knowledge gap. It's an infrastructure problem."
 
-**Copy Direction for Sarah:**
-- 150–200 words
-- Opens with a scene or a felt experience — something specific enough that practitioners have lived it
-- Names the structural reality briefly — not "your data is wrong" but "the tool was built for a different question"
-- Closes with an open question that cannot be dismissed. Not a rhetorical question — a genuine one that invites a specific answer.
-- No link in caption. No link in first comment. No CTA anywhere on this post.
-- 2–3 hashtags maximum. Recommend: #LDLeadership #LearningMeasurement #TrainingImpact
+*Video/White Paper anchor:*
+- Video: "Karen Vieth and Jennifer Hofmann have been in this conversation. [Two-sentence description of what they discuss.] Watch the conversation."
+- Non-Video: "The Why Go Live White Paper makes the full case. [One sentence on what the paper establishes.] Start with the evidence."
 
-**Direction for Devon:** Text-native post. No graphic required.
+*The framework (Tier 3):* "There are three measures that hold up in an executive conversation: engagement quality, behavior change, and performance outcomes." Name all three. Brief definition of each — one sentence per measure.
+
+*Path forward (Tier 4):* White Paper CTA primary. Consultation CTA secondary. Week 2 language: "Let's talk about your program."
+
+**Em dash check:** Before submitting, search-replace every em dash. None should remain.
 
 ---
 
-### e. LinkedIn Post 2 — Wednesday, July 16 — PRIORITY ASSET
+### LinkedIn Newsletter Teaser — TWO VERSIONS
 
-**Creative Role:** The week's highest-amplification asset. The differentiator card is designed to be saved and shared — a reference tool that gives L&D leaders language for an internal conversation they've been trying to have.
+**Creative role:** Drives traffic from LinkedIn feed to the newsletter. Short. Punchy. Earns the click.
 
-**Hook Direction:** Open with the contrast stated plainly — no preamble. "Most training dashboards track three things. InSync tracks three different things." Lead with the frame, not with the emotion.
+**Devon:**
+Video version: use a frame from the video or the video companion stat card as the image.
+Non-Video version: use the White Paper authority visual or the 40% stat card.
+Both versions: 1200 × 627 px. Clean. One strong visual element.
 
-**Copy Direction for Sarah:**
-- 100–150 words in the caption
-- Open with the contrast plainly stated — what most teams measure vs. what InSync measures. Two sentences.
-- One brief sentence about why the distinction matters: "One set answers whether training happened. The other answers whether it worked."
-- The card carries the argument. The caption earns the card. Do not re-explain what the card already shows.
-- Close without over-asking. Something that signals: this is a reference worth keeping.
-- Link to White Paper in first comment — post within 60 seconds of publishing.
-- First comment copy: write something that feels like a natural continuation of the post, not a redirect. Direction: "The Why Go Live White Paper is the full framework — the evidence for why these three measures tell a different story than completion data. Worth reading before the next leadership conversation: [insynctraining.com/why-go-live]"
-- 2–3 hashtags: #LDLeadership #TrainingImpact #LearningMeasurement
+**Sarah — Video version:**
+Hook: "You're measuring completion. Executives are asking about performance. Those are different conversations — and most teams are walking in with the wrong data."
+Body: Two to three sentences on what Karen and Jennifer get into.
+CTA: "Read this week's newsletter →"
 
-**Direction for Devon:** The differentiator card (`differentiator-card.svg` → `differentiator-card.png`). See full spec in Section 3. This is the production priority for the week. Attach as a native LinkedIn image. Alt text for accessibility: "Differentiator card: What most teams measure — Completion rates, Attendance, Satisfaction scores. What InSync measures — Engagement quality, Behavior change, Performance outcomes."
-
-**Production Note:** Do not include a link in the caption. Link in first comment only. Post the first comment within 60 seconds of the post going live.
-
----
-
-### f. LinkedIn Post 3 — Thursday, July 17
-
-**Creative Role:** Authority and conviction close for the week's LinkedIn cadence. No video. The White Paper is the featured asset. Jennifer Hofmann's credibility is the authority anchor.
-
-**Hook Direction:** Open with the conviction argument — the thing the week has been building to. Not the gap (Week 1). Not just the false confidence (Post 1). The resolution: there is a framework, there are three measures, and the White Paper is where you get them.
-
-**Copy Direction for Sarah:**
-- 100–150 words
-- Open with the conviction register — "If you've been sitting with the question of why completion data never satisfies the CFO, the White Paper is worth reading before your next leadership conversation."
-- Reference Jennifer Hofmann briefly — her name adds authority. Frame her as a practitioner who has worked on this problem from the inside.
-- Close with the White Paper framed as something worth deploying, not just consuming. "The kind of document worth sharing with your CLO."
-- Link in first comment. Tag Jennifer Hofmann if her LinkedIn handle is confirmed.
-- 2–3 hashtags: #LDLeadership #LearningDesign #LiveLearning
-
-**Direction for Devon:** LinkedIn Post 3 pull quote card (`linkedin-post3-pullquote-week2.svg` → PNG). See Section 3 for spec. Attach as native LinkedIn image.
-
-**First comment copy direction for Sarah:** Both the White Paper link and the webinar link can go here — they share the comment. Write it as a natural extension of the post, not a list of links.
+**Sarah — Non-Video version:**
+Hook: "40% of talent development professionals rate themselves as proficient at evaluating impact. The other 60% aren't behind — they're working with the wrong instruments."
+Body: One to two sentences on what the newsletter covers this week.
+CTA: "Read this week's newsletter →"
 
 ---
 
-### g. Email #2
+### LinkedIn Posts 1–3 (Tuesday / Wednesday / Thursday) — TWO VERSIONS
 
-**Subject line:** What your completion data isn't telling you
-**Preheader:** It's not just incomplete. It was built to answer a different question.
-
-**Creative Role:** Primary conversion vehicle for Week 2. Direct outreach to L&D leadership. White Paper as the featured asset. The email should feel like a natural continuation of Email #1 — same sender, deeper argument, more specific ask.
-
-**Copy Direction for Sarah:**
-- 250 words maximum body copy
-- Open with the false confidence claim, immediately followed by the structural explanation. Two sentences. No preamble.
-  Example: "Most L&D measurement systems weren't designed to prove performance. They were designed to prove compliance — that training happened, that people attended. They do that job well. They just weren't designed for the question being asked of them now."
-- Second paragraph: introduce the three InSync metrics with one concrete sentence each. Frame them as what better measurement looks like — not as what InSync sells.
-- Third paragraph: the White Paper framed as a tool to deploy. "The Why Go Live White Paper lays out the full measurement framework — with case study evidence from Cisco, Mars, and Kohler. It's the kind of document worth having before your next executive conversation."
-- Single primary CTA: "Read the White Paper" — same label as Week 1. Consistent.
-- P.S. line for webinar: "Also — if you're wrestling with this question in your organization right now, our July 30th session is the conversation to be in. [Register here]" — casual register, single sentence, not a second CTA block.
-- No video thumbnail or video reference in the main body (video is uncertain — see Section 8i for the modular insert if video becomes available).
-
-**Direction for Devon:**
-- Email header: `email-header-week2.svg` → `email-header-week2.png` — 600×200px. Same asset as the newsletter.
-- No additional email-specific visual required.
+**Creative role:** Each post drives a single emotional beat from the Tier 1–4 sequence. Standalone arguments, not summaries.
 
 ---
 
-### h. Video Script (30-sec)
+**Post 1 (Tuesday) — The Culprit**
+*Same for both versions*
 
-**Creative Role:** Short-form conviction asset. Hook-driven. Three beats: false confidence named, three better metrics introduced briefly, White Paper CTA.
+**Devon:** Stat card. InSync Blue background. Large Montserrat Bold type. One supporting sentence in Montserrat Regular. Cool Blue accent. InSync logo. Shareable standalone.
 
-**Copy Direction for Sarah:**
-- 75–90 words spoken
-- Hook (given): "If your learning report says 94% completion — but nothing changed — what did you actually prove?"
-- Beat 2: The structural explanation in one sentence. "Completion data was built to prove compliance — not to prove that learning changed anything."
-- Beat 3: The alternative, fast. "What if you measured engagement quality, behavior change, and performance outcomes instead?"
-- Soft close: "The Why Go Live White Paper makes the case. It's worth reading before your next budget conversation." No hard sell. No exclamation.
-- Write it to be spoken aloud — read it out loud before submitting. If it sounds like it was written rather than said, revise.
-- No jargon. No hedging. Direct throughout.
+**Sarah — hook:** "Completion rates were designed for compliance reporting. That's it. They were never built to tell you whether learning changed performance."
+
+**Sarah — body:** Three to four sentences maximum. Name what completion rates do tell you (compliance). Name what they don't (outcomes). Name the gap as a design problem, not a team failure.
+
+**Sarah — CTA:** "Read this week's newsletter" with link. No secondary CTA.
 
 ---
 
-### i. Modular Video Blurb (Insertable if Leadership Video Becomes Available)
+**Post 2 (Wednesday) — The Evidence**
+*Same for both versions*
 
-**What this is:** A set of self-contained insert blocks Sarah writes as a separate asset. If the Karen Vieth and Jennifer Hofmann Leadership Video becomes available before launch, these blocks are dropped into the designated placement in each deliverable. Nothing else changes. The rest of the brief remains as written.
+**Devon:** The 40% stat card. Primary social sharing asset for the week. Number large. "ATD 2025" attribution in Slate Grey. One framing line. Cool Blue accent. InSync logo. Design to be screenshotted and re-shared.
 
-**Direction for Sarah:** Write each blurb as a self-contained paragraph that can be inserted at a marked placeholder. Each must introduce the video, name the speakers and the question they address, and include a "Watch the video" CTA. Tone: warm, specific, no overselling.
+**Sarah — hook:** "Only 40% of talent development professionals rate themselves as proficient at evaluating impact. Not because they don't care. Because the instruments they're working with weren't built for the job."
 
-**Placement A — Email #2**
-Insert location: After the second paragraph (after the three metrics are introduced), before the White Paper CTA paragraph.
-Length: 3–4 sentences.
-Must accomplish: Introduce Karen Vieth and Jennifer Hofmann by name and role. Name the specific question the video addresses — "why most L&D teams can't prove impact, and what to do about it." CTA: "Watch the Leadership Video" with a linked button label. Transition naturally into the White Paper paragraph that follows.
+**Sarah — body:** Validation move. This stat is documentation of a shared industry condition. Two to three sentences. Write it that way.
 
-**Placement B — Weekly Newsletter**
-Insert location: After the opening two paragraphs, before the White Paper link.
-Length: 2–3 sentences.
-Must accomplish: Feature the video as the week's anchor asset. Name both speakers. One-sentence description of what they discuss. CTA: "Watch now" as inline link. Remain in editorial register — not promotional.
-
-**Placement C — LinkedIn Post 3**
-Insert location: Replace the post's opening paragraph if the video is available. The video becomes the hook.
-Length: 2 sentences.
-Must accomplish: Name Karen and Jennifer. Frame the video as a candid conversation about the question the week has been building toward. The rest of Post 3's copy follows unchanged. Do not make this sound like an announcement — "Karen Vieth and Jennifer Hofmann sat down to talk about why most L&D teams can't prove impact. It's worth watching." That is the register.
-
-**Production note:** Sarah delivers the modular blurbs as a separate file — `02b-video-blurbs-if-available.md` — so they are ready to insert without disrupting the approved copy file.
+Video version: "Karen Vieth and Jennifer Hofmann talk about this directly. Watch the conversation." with link.
+Non-Video version: "The Why Go Live White Paper makes the full case." with White Paper link.
 
 ---
 
-## Jennifer Hofmann Voice Notes (for Sarah)
+**Post 3 (Thursday) — The Framework**
+*Different by version*
 
-Jennifer may appear in Week 2 assets — referenced in Post 3 and possibly in the newsletter. When Sarah writes about Jennifer (not as her, but referencing her work and credibility):
+**Devon:** Three-item visual. The three measures — engagement quality, behavior change, performance outcomes — as a clean sequential list or three-point diagram. Cool Blue for the active/closing element. InSync Blue background. Montserrat Bold for the measure names.
 
-- Refer to her as a practitioner-authority, not a company representative. "Jennifer Hofmann has written about this from the inside of the problem" — not "InSync founder Jennifer Hofmann says."
-- Her work speaks for itself. Do not over-introduce her. One sentence establishing her authority is enough. The audience who read Week 1's article already knows who she is.
-- If Sarah writes any content in Jennifer's voice this week (which is unlikely but possible), the same rules from Week 1 apply: first-person authority, no hedging, conclusions she is willing to defend, practitioner field experience over research summary.
-- Jennifer is not the webinar host unless Jeff confirms this. Do not name her as hosting the July 30 session. Use "our team" or "an InSync facilitator."
+**Sarah — hook:** "There are three measures that hold up in an executive conversation about whether training worked. Completion rate is not one of them."
 
----
+**Sarah — body:** Name all three. One sentence of definition per measure.
 
-## Q3 Arc Notes for Devon and Sarah
+Video version CTA: "Karen and Jennifer make the case in full. Watch the conversation." with link.
+Non-Video version CTA: "The White Paper makes the case. Start with the evidence." with link.
 
-**The Quarter's Creative Spine:**
-July's four weeks move from gap → contrast → proof → invitation. Week 1 named the structural problem. Week 2 introduces the contrast and the alternative. Week 3 builds the proof with case evidence. Week 4 is the crescendo — the webinar, the investment case, the ask.
-
-**What Week 2 Establishes That Later Weeks Build On:**
-- The three InSync metrics are named — Weeks 3 and 4 can reference them as understood vocabulary
-- The differentiator card establishes the visual language for the contrast — Week 3 builds on it with proof
-- The false confidence claim is made and explained — it does not need to be re-established
-- The White Paper is now positioned as a tool to deploy, not just download — this framing should persist
-
-**Consistency Requirements:**
-
-Devon: the structured incompleteness motif is evolving, not disappearing. Week 2 = gap shrinking, no Golden Honey. Week 3 = gap filling with Cool Blue. Week 4 = line complete. The InSync Blue foundation, Montserrat Bold for stats, and the divider motif are the visual thread across all four weeks. Do not let any asset in Week 2 feel like a reset.
-
-Sarah: the voice does not change. The register shifts from recognition to conviction, but the voice — grounded, direct, peer-to-peer, evidence-based — is constant. Read Week 1's copy before writing Week 2. If a piece sounds like it comes from a different writer, it does not belong in this campaign.
+Consultation CTA secondary for both: "Let's talk about your program." with consultation link.
 
 ---
 
-## Open Items and Flags
+### Video Script — 30-Second
+*(Video version only)*
 
-1. **Leadership Video production status** — The entire brief is written for video-absent. If the video becomes available before Monday July 13, the modular blurbs in Section 8i are the only required change. Notify Sarah immediately so she can prepare the inserts before the launch schedule begins.
+**Creative role:** Short-form companion to the leadership video. Designed for LinkedIn native video or pre-roll.
 
-2. **Karen Vieth biography and LinkedIn presence** — If Post 3 or other assets reference Karen Vieth by name, her title and organizational context should be confirmed. Is she an InSync team member? An external contributor? That distinction affects how she is introduced.
+**Devon — visual notes:**
+Opening frame: the gap motif in its open state (visual callback to Week 1).
+Closing frame: the gap beginning to close, Cool Blue filling in.
+On-screen text for the three measures — appears as each is spoken.
+InSync logo lockup on final frame with CTA.
 
-3. **Webinar registration URL** — The 21-day webinar email (not in scope for Devon and Sarah this week, handled separately) and the P.S. lines in Email #2 require a confirmed, live registration URL. If the URL is not live by Monday July 13, remove the P.S. line from Email #2 and flag to Casey.
+**Sarah — script:**
 
-4. **Jennifer Hofmann LinkedIn handle** — Required if Post 3 tags her. Same dependency as Week 1. If the handle is still unconfirmed, Sarah writes Post 3 without the tag and notes it as a publishing-time insertion.
+*[0–5 sec]* "Your measurement data is accurate. The problem is what it was designed to measure."
 
-5. **UTM framework for Week 2** — All White Paper links in Week 2 should use a consistent UTM structure differentiating Week 2 traffic from Week 1. Recommended convention: `?utm_source=[channel]&utm_medium=[type]&utm_campaign=july-week2&utm_content=[asset]`. Casey or marketing ops should confirm the UTM structure before any link goes live.
+*[5–15 sec]* "Completion rates tell you who finished. They don't tell you whether anything changed. There are three measures that do: engagement quality, behavior change, and performance outcomes."
 
-6. **Devon's SVG assets and PNG export** — As in Week 1, all SVG source files require PNG export before social scheduling or email deployment. Casey: add PNG export to the Week 2 production checklist as a pre-launch step. SVGs cannot be uploaded directly to LinkedIn or email platforms.
+*[15–25 sec]* "Karen Vieth and Jennifer Hofmann lay out what measuring those three things actually looks like. The conversation is worth your time."
+
+*[25–30 sec]* "Watch it. Link in the comments."
+
+**Notes:** Do not name InSync in the script — the logo on the final frame carries the attribution. Do not add a formal CTA beyond "link in the comments" — this is social-native video, not an ad.
 
 ---
 
-*Status: Complete — ready for Jeff review and approval.*
-*Recommended next step: Jeff reviews and approves this brief. Orchestrator then invokes Devon and Sarah simultaneously with this document as their primary input. Devon proceeds to design system and asset specifications, prioritizing the differentiator card. Sarah proceeds to all copy deliverables and the separate modular video blurb file. Both outputs return for Jeff approval before Stage 4 begins.*
+### Email #2 — TWO VERSIONS
+
+**Creative role:** Direct inbox delivery of the week's core argument. 200–250 words maximum.
+
+**Devon — header banner (600 × 200 px):**
+Gap-closing motif. InSync Blue background. White headline in Montserrat Bold.
+
+Video version: include a thumbnail link block for the Karen/Jennifer video below the header — image with play button graphic, "Watch the conversation" as linked caption.
+
+Non-Video version: White Paper authority block in its place — White Paper title, one line of positioning, "Start with the evidence" as linked CTA.
+
+**Sarah — subject lines (A/B options):**
+
+Video — Option A: "The conversation Karen Vieth and Jennifer Hofmann had about your measurement data"
+Video — Option B: "Completion rates were designed for compliance. Not for this."
+
+Non-Video — Option A: "40% of L&D leaders rate themselves as proficient at measuring impact. Here's what they're missing."
+Non-Video — Option B: "The wrong ruler"
+
+**Sarah — body structure:**
+
+*Opening:* One sentence. The culprit named. "The metrics most L&D teams bring into executive conversations were designed for compliance reporting — not performance evidence."
+
+*Evidence beat:* The 40% stat, framed as validation. Remove shame. "That's not a knowledge gap. That's an infrastructure problem."
+
+*Video/White Paper anchor:*
+Video: "Karen Vieth and Jennifer Hofmann have been in those executive conversations. [One specific thing they address.] Watch the conversation: [link]"
+Non-Video: "The Why Go Live White Paper makes the case in full — what better measurement infrastructure looks like, and what it produces. Start with the evidence: [insynctraining.com/why-go-live]"
+
+*The framework:* "There are three measures that hold up: engagement quality, behavior change, and performance outcomes. Those are the measures InSync tracks — because those are the measures executives can act on."
+
+*CTA sequence:*
+Primary: White Paper link (both versions)
+Secondary: "Let's talk about your program" with consultation link (`https://info.insynctraining.com/insync-training`)
+
+**Em dash check:** Non-negotiable. Zero em dashes in final copy.
+
+---
+
+## 9. Strategy Flags for Jeff
+
+**Flag 1 — Video thumbnail and companion assets**
+Devon needs access to the Karen Vieth / Jennifer Hofmann video or at minimum a still frame to produce the thumbnail and companion visual for Video version deliverables. If the video is not yet delivered, Devon can produce a placeholder thumbnail design, with the image swap before publish.
+*Recommendation:* Confirm whether the video is in hand and provide Devon with a still frame or file path.
+
+**Flag 2 — White Paper UTM tagging**
+All White Paper links should point to `insynctraining.com/why-go-live` and be UTM-tagged per Alex's framework before publish. Casey should confirm all UTM parameters are set before scheduling.
+*Recommendation:* Build into Casey's Week 2 production checklist as a blocking item.
+
+**Flag 3 — Blog 2 webinar reference**
+The final line of Karen Vieth's blog references the July webinar. Web team pre-publish edit — not Sarah's responsibility.
+*Recommendation:* Flag to Casey to ensure the web team removes or replaces this line before Blog 2 goes live.
+
+**Flag 4 — Karen Vieth attribution on social assets**
+Blog 2 carries Karen Vieth's byline. Confirm whether stat cards and LinkedIn posts drawing from her blog should carry her attribution or InSync attribution only.
+*Recommendation:* InSync attribution on social assets is standard practice — but if Karen and Jennifer are promoted by name in the Video version, their names on companion assets reads as consistent. Confirm your preference.
+
+**Flag 5 — Consultation CTA URL confirmation**
+The Week 2 secondary CTA points to `https://info.insynctraining.com/insync-training`. Confirm this URL is live and the landing page is appropriate for a "Let's talk about your program" CTA before Sarah finalizes copy.
+*Recommendation:* Casey confirms URL is live as a pre-publish checklist item.
+
+---
+
+*Elena, Creative Director — Addison & Clark*
+*Week 2 brief complete. Devon and Sarah: you have what you need. Make the argument specific. Make the reader feel seen. The gap is closing.*
