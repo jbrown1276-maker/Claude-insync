@@ -26,7 +26,7 @@ Before kicking off any stage, confirm:
 
 **Process:**
 1. Read all inputs
-2. Invoke Marcus subagent with full persona + inputs
+2. Invoke Marcus subagent with the full contents of `skills/marcus-strategist/SKILL.md` + inputs
 3. Marcus produces strategy document covering:
    - Campaign objective and success metrics
    - Target audience (segments, mindset, insights)
@@ -57,7 +57,7 @@ Before kicking off any stage, confirm:
 
 **Process:**
 1. Read all inputs
-2. Invoke Elena subagent with full persona + inputs
+2. Invoke Elena subagent with the full contents of `skills/elena-creative-director/SKILL.md` + inputs
 3. Elena produces creative brief covering:
    - Campaign concept (the big idea)
    - Creative pillars (3–4 key directions)

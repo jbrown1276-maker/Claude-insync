@@ -20,9 +20,6 @@ Named following the convention:
 ## Output
 A delivery summary listing every .docx created, its full path, file size, and timestamp. This summary is the Stage 6 confirmation — no Jeff approval gate required.
 
-## Agent Persona File
-`/agents/morgan-document-publisher.md`
-
 ## Technical Notes
 - Uses Python `python-docx` for conversion
 - Preserves headings, tables, and structure from .md source files

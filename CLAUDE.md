@@ -176,12 +176,13 @@ When asked for a status update, report:
 
 | Path | Purpose |
 |------|---------|
-| `/agents/` | Agent persona files |
+| `/skills/` | **Agent definitions — the authoritative source.** One `SKILL.md` per agent. This is what the orchestrator loads. |
 | `/brand-reference/` | Permanent brand assets (Jeff maintains) |
-| `/config/` | System configuration and defaults |
+| `/config/` | System configuration, defaults, and `connector-inventory.md` (which data source each agent has vs. needs) |
 | `/orchestration/` | Pipeline workflow documentation |
 | `/weekly-briefs/` | All campaign briefs and outputs |
 | `/memory/` | Persistent session memory across conversations |
+| `/seo/` | Keyword architecture files by campaign quarter |
 
 ---
 
