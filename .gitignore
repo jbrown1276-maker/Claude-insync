@@ -1,0 +1,16 @@
+# macOS
+.DS_Store
+**/.DS_Store
+
+# Machine-local Claude Code settings — permissions and paths that should not travel
+.claude/settings.local.json
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Temp / scratch
+*.tmp
+*~
