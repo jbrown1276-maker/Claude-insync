@@ -48,8 +48,8 @@ Everything a new session needs to run Week 3 without re-deriving context. Read t
 
 ## What Week 3 Introduces
 
-### InQuire Engagement Framework — UNLOCKED
-This has been withheld for two weeks. Week 3 is the right moment. It answers "how do you actually do this?" Brief Elena and Sarah to introduce InQuire as the practical application of the three-measure framework — not as a named product, but as a working method. Elena should explain the context for Devon and Sarah in the creative brief.
+### InQuire Engagement Framework
+InQuire is InSync's established engagement framework — it has existed for years. Do NOT frame it as a new introduction, a first reveal, or something "unlocked" this week. ⚠️ Correction confirmed by Jeff (June 4, 2026): InQuire is not new. Present it as the method InSync uses — established, confident, matter-of-fact. "The InQuire Engagement Framework is InSync's method for measuring the engagement conditions that convert live learning into performance." That framing is correct. "We're introducing the InQuire Engagement Framework" is not.
 
 ### The Live Learning Formula — full context
 The Live Learning Formula (Design & Development + Delivery & Facilitation + Support & Learning Continuity) was mentioned in Blog 2 but not developed. Week 3's Jennifer Hofmann blog makes the full systems argument. Brief Sarah to develop this connection in copy.
@@ -58,8 +58,11 @@ The Live Learning Formula (Design & Development + Delivery & Facilitation + Supp
 The Why Go Live White Paper (Part 5) contains the Cisco, Mars, and Kohler case studies. These are confirmed real. Week 3 is the right moment to surface these as evidence that the methodology works at scale. Sarah should reference them — not summarize them — and route readers to the White Paper for the full story.
 
 ### Stats available for Week 3 (not yet used)
-- **3.4x** — performance-driven organizations are 3.4x more likely to see measurable improvements with evaluation investment (ATD 2025) — HELD from Weeks 1 and 2, ready for Week 3
-- **40%** proficiency stat (ATD 2025) — available but rested; use as supporting evidence only, not as lead hook
+- ~~**3.4x ATD 2025**~~ — **RETIRED. Source does not exist.** Verified June 4, 2026 — no ATD publication contains this figure. The attribution appears fabricated. Do not use in any week, any agent, any deliverable.
+- **Docebo 2025 (NEW — verified):** Active learners outperform passive learners by more than 50% on knowledge assessments
+- **ATD / Zensai 2025 (NEW — verified):** Only 30% of organizations are good at using learning data for business decisions
+- **70% LEO Learning / Watershed 2019 (confirmed):** 70% of L&D leaders feel increasing pressure to prove impact
+- **"About half" LEO Learning / Watershed (confirmed):** Only about half of L&D teams measure anything beyond completion (do not cite as 48% — that figure is unconfirmed)
 - Any stats from Jennifer Hofmann's blog (confirm sources before Sarah uses them)
 
 ---
