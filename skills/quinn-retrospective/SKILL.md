@@ -34,18 +34,34 @@ a rule.
 reads it before writing anything, because her most important finding is usually
 "this rule already exists and was broken again."
 
-**CARRIED FORWARD LEDGER** (required)
-The closed ledger from `05-casey-production-plan.md`, or the merged Stage 3 ledger if
-the campaign ran in Small Team Mode. Unresolved rows are the campaign's debt.
+**CARRIED FORWARD LEDGER** (when one exists)
+The closed ledger from `05-casey-production-plan.md`, or `04-ledger-merged.md`, or
+`03-ledger-merged.md` in Small Team Mode. Unresolved rows are the campaign's debt.
+
+**No campaign archived before the ledger convention existed has one.** For those weeks
+the `ledger` and `open_p0` metrics read 0 because the section is genuinely absent, not
+because the campaign was clean. Reconstruct the equivalent from Casey's open-items and
+gate sections, and say in Section 6 that you did. Do not report a reconstructed ledger
+as if it were a real one, and do not report 0 open risks for a week that never tracked
+any — that is the metric's silence, not an achievement.
+
+**AGENT DEFINITIONS** (required)
+`CLAUDE.md` and every `skills/*/SKILL.md`. Section 3 requires naming the file each
+proposed rule belongs in, and Section 7 proposes exact changes. Proposing an edit to a
+file you have not read produces a change that conflicts with text already there.
 
 ## Quinn's Output — Retrospective
 
 ### 1. Run Facts
-The metrics table for this week, with the historical median beside each number so a
-reader can see what is normal. No interpretation yet — facts first, in their own
+The metrics table for this week, with the historical comparison beside each value so a
+reader can see what is normal. Use the median for counts. For non-numeric columns —
+`stages`, `elena_rev`, `gate` — a median is meaningless; give the mode and the range
+instead, and say which you used. No interpretation yet: facts first, in their own
 section, so the analysis that follows can be checked against them.
 
-State plainly anything the metrics could not measure, and why.
+State plainly anything the metrics could not measure, and why. A metric reading 0
+because the thing it counts did not exist yet is not the same as a metric reading 0
+because nothing went wrong, and conflating the two invents a clean week.
 
 ### 2. What The Numbers Say
 For each metric that deviated meaningfully from this campaign's own history, name the
@@ -74,7 +90,17 @@ For each rule in `memory/pipeline-lessons.md` tagged as active, state:
 - Did the condition it guards against occur again this week?
 - If it did, the rule failed. Say so, and say why — was it not read, not specific
   enough, in the wrong file, or read and overridden?
-- Update the recurrence count.
+- Update the recurrence count — **but check first whether the stored count already
+  includes the campaign you are reviewing.** On a retro-active run against an archived
+  week, it usually does. Incrementing then double-counts and inflates a lesson toward
+  Structural on evidence that was already tallied. If the count already covers this
+  week, report it as confirmed-and-unchanged and say that is what you did.
+
+**When a rule's guard was authored out of the campaign you are reviewing, that campaign
+cannot test it.** The guard did not exist while the week ran. Test it against every
+*subsequent* week in the historical metrics instead — a guard written in July that was
+already broken again in September is the single most valuable thing a retrospective can
+surface, and it is invisible if you only look at the week in front of you.
 
 **A rule that recurs three times is not a rule problem, it is a design problem.**
 Escalate it: the pipeline needs a structural change, not another sentence in a memory
@@ -87,8 +113,15 @@ level up: without it, a retrospective reads as a list of problems and the next r
 overcorrects away from something that was working.
 
 ### 6. Ledger Debt Carried Out
-Every row still Open or Accepted at close, with its owner, its age in weeks, and
-whether it has now outlived the campaign that created it.
+Every row still Open or Accepted at close, with its owner and the campaign week it
+originated in.
+
+**Age is only reportable if the row records where it came from.** The ledger format
+carries no campaign-of-origin field, so age cannot be derived from the row itself.
+Where the originating week is recoverable by reading prior campaigns, give the age and
+say how you established it. Where it is not, say the age is unknown rather than
+estimating — an invented age drives the three-campaign escalation below, and that
+escalation should not fire on a guess.
 
 A row carried for three consecutive campaigns is not a risk being managed. It is a
 decision nobody is making. Flag it as such and propose closing it one way or the other.
@@ -114,6 +147,12 @@ question about the close" is.
 rule after a single incident is how instruction files become long enough that nobody
 reads them, which is itself a failure mode. Hold first occurrences in Watch.
 
+**This threshold governs additions to instruction files only** — CLAUDE.md, a SKILL.md,
+this lessons file. It does not govern guards that are scripts or control flow. A check
+that runs automatically costs no reader attention, so a first occurrence is enough to
+justify one. When you adopt a first-occurrence guard on those grounds, say so explicitly
+rather than appearing to break your own rule.
+
 **Look upstream.** The stage where a problem surfaces is rarely the stage that caused
 it. Copy that missed the brief usually means the brief was ambiguous. Assets that were
 never built usually means the spec was approved without an artifact check. Name the
@@ -121,6 +160,14 @@ origin, not the symptom.
 
 **A rule that failed is a finding, not an embarrassment.** The prior-lesson audit is
 the most valuable section Quinn produces. Report failures plainly and count them.
+
+**A stage that claims completion without an artifact is its own failure mode, and it is
+worse than a stage that was skipped.** A skipped stage is visible. A claimed one reads as
+covered and silently disarms every rule that depends on it. Check claims against evidence:
+if a deliverable's header or footer asserts a review, a verification, or a clearance, find
+the artifact that review produced and the change it caused. A version that announces a
+review and alters nothing but its own title did not have one. Report it as a distinct
+finding, not as a missed stage.
 
 **Protect what worked.** A retrospective that only lists problems teaches the next run
 to avoid things, not to repeat successes.

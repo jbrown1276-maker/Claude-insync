@@ -145,7 +145,7 @@ Each agent is defined by a `SKILL.md` file in this repo. **Do not use the Skill 
 | Alex | `alex-ads-manager` | Strategy + Elena's brief + Sarah's copy + **Devon's specs** + budget |
 | Casey | `casey-production-manager` | All approved stage outputs + `/seo/[campaign-slug]-keyword-architecture.md` |
 | Morgan | `morgan-document-publisher` | Campaign folder path + campaign label (e.g., "June 2026 - Week 3 - Proof & Credibility") + **an explicit list of files to convert** |
-| Quinn | `quinn-retrospective` | Campaign folder path + `./scripts/campaign-metrics.sh <folder>` output + `./scripts/campaign-metrics.sh --all` output + `memory/pipeline-lessons.md` + the closed ledger |
+| Quinn | `quinn-retrospective` | Campaign folder path + `./scripts/campaign-metrics.sh <folder>` output + `./scripts/campaign-metrics.sh --all` output + `memory/pipeline-lessons.md` + the closed ledger (if one exists) + **`CLAUDE.md` and every `skills/*/SKILL.md`** — she proposes edits to these and cannot do it blind |
 | Elena (review mode) | `elena-creative-director` | Her own brief + Devon's design system + Sarah's copy, labeled "REVIEW MODE — COMPLETED CREATIVE FOR REVIEW" |
 
 **For parallel stages (3 and 4):** send both `Agent` tool calls in a single message. Present both outputs to Jeff together, and merge their two ledgers before Stage 4 is invoked (see Carried Forward Ledger below).

@@ -24,7 +24,7 @@ not a reason to restate the rule more firmly.
 
 ## L-1 · Design specs approved without the assets existing
 
-**Occurrences:** 3 (July weeks 2, 3, 4) · **Status:** Active
+**Occurrences:** 4 (July weeks 2, 3, 4; September week 3) · **Status:** Active — escalation pending
 **Evidence:** `2026-07-27.../00-lessons-learned.md` — "Devon's design system approval
 gates were approving the SPEC document, not actual built files. Weeks 2, 3, and 4 all
 had approved design systems with zero rendered assets on disk."
@@ -36,6 +36,16 @@ Caught only when Jeff asked directly whether assets existed.
 **Guard:** Devon runs twice — once for the spec, once for asset production. Casey's
 go/no-go gate carries an asset-existence criterion whose evidence source is a file
 listing, not an approval.
+
+**The guard has already failed once.** Quinn's first run surfaced a fourth occurrence
+*after* this guard was written: `2026-09-14_september-week3-conviction-month/` contains an
+approved `03-devon-design-system.md` and no `assets/` directory at all. Verified
+independently by directory listing.
+
+A guard that fails on its first test is a design problem, not a wording problem. Quinn
+proposes escalating this to `Structural`. That escalation is Jeff's decision and has not
+been applied — the occurrence count above is corrected because it is a counted fact, the
+status is not, because it is a policy call.
 
 ## L-2 · PNG exports never produced from SVG sources
 

@@ -96,12 +96,15 @@ Casey inherits the complete ledger — opened by Marcus, updated by every agent 
 
 **On output:** the production plan carries the reconciled ledger, with every row assigned a production-timeline date.
 
-| # | Item | Type | Severity | Owner | Expires | Status | Fallback if unresolved |
-|---|------|------|----------|-------|---------|--------|------------------------|
+| # | Item | Type | Severity | Owner | Origin | Expires | Status | Fallback if unresolved |
+|---|------|------|----------|-------|--------|---------|--------|------------------------|
 
 - **Type** — Risk / Gap / Open Question / Blocker
 - **Severity** — P0 (blocks launch) / P1 (blocks a channel) / P2 (degrades quality) / P3 (note)
 - **Owner** — the named person or agent who resolves it. Never "TBD" and never "the team."
+- **Origin** — the campaign week the row was first opened, e.g. `2026-09-21 wk4`. Set once
+  when the row is created and never changed as it is carried forward. Without it a row's age
+  cannot be derived, and the retrospective's three-campaign escalation fires on a guess.
 - **Expires** — the date the item must be resolved by, derived from the production timeline. An item with no expiration date is not being tracked. Assign one or close the row.
 - **Status** — Open / In progress / Resolved / Accepted (with documented limitation)
 - **Fallback** — what happens if the date passes unresolved
