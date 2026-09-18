@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1200 627">
+  <!-- Generator: Adobe Illustrator 30.5.1, SVG Export Plug-In . SVG Version: 2.1.4 Build 3)  -->
+  <defs>
+    <style>
+      .st0, .st1, .st2 {
+        isolation: isolate;
+      }
+
+      .st0, .st1, .st3 {
+        font-family: Montserrat-Medium, Montserrat;
+        font-weight: 500;
+      }
+
+      .st0, .st3 {
+        font-size: 24.7px;
+      }
+
+      .st0, .st3, .st4 {
+        fill: #6e8699;
+      }
+
+      .st1 {
+        font-size: 28px;
+      }
+
+      .st1, .st5 {
+        fill: #fff;
+      }
+
+      .st6 {
+        fill: none;
+        stroke: #6e8699;
+      }
+
+      .st5 {
+        font-family: Montserrat-Bold, Montserrat;
+        font-size: 126.8px;
+        font-weight: 700;
+      }
+
+      .st4 {
+        font-family: Montserrat-Regular, Montserrat;
+        font-size: 21.1px;
+      }
+
+      .st7 {
+        fill: #032b43;
+      }
+    </style>
+  </defs>
+  <rect class="st7" width="1200" height="627"/>
+  <line class="st6" x1="382.6" y1="148.5" x2="382.6" y2="478.5"/>
+  <line class="st6" x1="797.5" y1="148.5" x2="797.5" y2="478.5"/>
+  <g>
+    <text class="st0" transform="translate(67.4 221.1)"><tspan x="0" y="0">Years of Partnership</tspan></text>
+    <g class="st2">
+      <text class="st5" transform="translate(127.9 368.5)"><tspan x="0" y="0">16</tspan></text>
+    </g>
+    <g class="st2">
+      <text class="st4" transform="translate(67 439)"><tspan x="0" y="0">Tech Company × InSync</tspan></text>
+    </g>
+  </g>
+  <g>
+    <g class="st2">
+      <text class="st3" transform="translate(472.8 212)"><tspan x="0" y="0">Employees Trained</tspan></text>
+    </g>
+    <g class="st2">
+      <text class="st5" transform="translate(429 368.5)"><tspan x="0" y="0">24K+</tspan></text>
+    </g>
+    <g class="st2">
+      <text class="st4" transform="translate(465.9 441.4)"><tspan x="0" y="0">Tech Company × InSync</tspan></text>
+    </g>
+  </g>
+  <g>
+    <g class="st2">
+      <text class="st3" transform="translate(840.7 212)"><tspan x="0" y="0">Exceeding Expectations</tspan></text>
+    </g>
+    <g class="st2">
+      <text class="st5" transform="translate(857.3 368.5)"><tspan x="0" y="0">92%</tspan></text>
+    </g>
+    <g class="st2">
+      <text class="st4" transform="translate(856.3 441.4)"><tspan x="0" y="0">Post-training assessment</tspan></text>
+    </g>
+  </g>
+  <text class="st1" transform="translate(163.7 95.9)"><tspan x="0" y="0">This is what a delivery system built to this standard produces.</tspan></text>
+</svg>

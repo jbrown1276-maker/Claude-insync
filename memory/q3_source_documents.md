@@ -20,19 +20,44 @@ All four July blogs are in:
 
 ---
 
-## Why Go Live White Paper
+## August White Paper — Proving Impact in Live Learning
+
+**Title:** Proving Impact in Live Learning: Five Shifts That Earn Executive Trust
+**Author:** Jennifer Hofmann, Founder & Chief Strategist, InSync Training
+**Status:** Draft 3 — NOT yet publish-ready (production note re: Blanchard logo must be removed before publishing)
 
 | Version | Path |
 |---------|------|
-| Full draft (has Cisco/Mars/Kohler case studies in Part 5) | `/Users/jeffbrown2023/Downloads/LiveLearningFormula_WhitePaper_Draft5.docx` |
+| Draft 3 source (.docx) | `/Users/jeffbrown2023/Downloads/Proving_Impact_in_Live_Learning_DRAFT 3.docx` |
+| Extracted .md | `/weekly-briefs/2026-08-03_august-week1-confidence-month/00-white-paper-source.md` |
+
+**Key facts:**
+- Structure: Five Shifts (not the Live Learning Formula)
+- Primary stat: Training spend dropped 33% ($1,254 → $846); 2/3 of L&D leaders can't demonstrate program impact
+- Primary case study: Fortune 100 tech company (unnamed) — $85M first-year revenue, 10% sales lift, satisfaction 3.9 → 4.65
+- Secondary case: Land O'Lakes / Blanchard — 91% skill application, 23% isolated performance improvement
+- Diagnostic tool URL: `https://info.insynctraining.com/live-learning-impact-diagnostic` (separate from White Paper download)
+- White Paper download URL: `insynctraining.com/proving-impact` (confirmed by Jeff, August 2026)
+- Old title "From Activity to Impact" is RETIRED. All copy updated to new title.
+
+**Production flag before publish:**
+- Remove internal note: "delete before publishing: Place the Blanchard partner logo adjacent to this attribution line"
+- Apply `https://info.insynctraining.com/live-learning-impact-diagnostic` to all Week 2 and Week 3 CTA placeholders
+
+---
+
+## Why Go Live White Paper (July — separate asset, still active)
+
+| Version | Path |
+|---------|------|
+| Full draft (Cisco/Mars/Kohler case studies in Part 5) | `/Users/jeffbrown2023/Downloads/LiveLearningFormula_WhitePaper_Draft5.docx` |
 | PDF version | `/Users/jeffbrown2023/Desktop/LiveLearningFormula_WhitePaper.pdf` |
-| Lead magnet (short version, no case studies) | `/Users/jeffbrown2023/Downloads/LiveLearningFormula_LM.docx` |
+| Lead magnet (short version) | `/Users/jeffbrown2023/Downloads/LiveLearningFormula_LM.docx` |
 | Processed .md (Week 1 working copy) | `/Users/jeffbrown2023/CLAUDE CODE/proof-over-promises/week-1/why-go-live-white-paper.md` |
 
-**Key facts about the White Paper:**
-- Cisco, Mars, and Kohler case studies are in Part 5 of Draft 5 — confirmed real
-- Live Learning Formula: Design & Development + Delivery & Facilitation + Support & Learning Continuity
-- Primary CTA destination: insynctraining.com/why-go-live
+**Key facts:**
+- CTA destination: insynctraining.com/why-go-live
+- July asset — still active and linked from July blog CTAs
 
 ---
 
@@ -73,7 +98,7 @@ All logos: `/Users/jeffbrown2023/InSync Training LLC Dropbox/Marketing & Sales/2
 |------|--------|------|--------|
 | Week 1 (Jul 6) | `2026-07-06_july-week1-proof-over-promises/` | Blog 1 — Jennifer Lindsey Finan | ✅ Full pipeline complete through Stage 5 |
 | Week 2 (Jul 13) | `2026-07-13_july-week2-proof-over-promises/` | Blog 2 — Karen Vieth | ✅ Full pipeline complete through Stage 6 |
-| Week 3 (Jul 20) | `2026-07-20_july-week3-proof-over-promises/` | Blog 3 — Jennifer Hofmann | Blog extracted, pipeline not started |
+| Week 3 (Jul 20) | `2026-07-20_july-week3-proof-over-promises/` | Blog 3 — Jennifer Hofmann | ✅ Full pipeline complete through Stage 6 |
 | Week 4 (Jul 27) | `2026-07-27_july-week4-proof-over-promises/` | Blog 4 — Cindy Foster | Blog extracted, pipeline not started |
 
 ---

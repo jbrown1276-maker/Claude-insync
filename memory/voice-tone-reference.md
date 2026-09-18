@@ -9,13 +9,29 @@ This is a living document. It grows from real approved content — not theory. R
 
 ## Foundation — Brand Voice and Messaging House
 
-**All writing must honor these.** The documents below are authoritative. This voice guide adds specificity on top of them, not instead of them.
+**All writing must honor these.** The Messaging House is the authoritative brand document. This voice guide adds campaign-specific specificity on top of it.
 
-- **Brand voice:** `/brand-reference/brand-voice.md` — Human. Clear. Confident. Five voice principles. What InSync always and never sounds like.
-- **Messaging pillars:** `/brand-reference/messaging-pillars.md` — Four pillars. The positioning statement. Things we never say.
-- **Brand guidelines:** `/brand-reference/brand-guidelines.md` — Visual identity, colors, typography.
+**Full Messaging House:** `/memory/insync-messaging-house.md` — Read this before every Sarah or Elena invocation.
 
-**The non-negotiables from the brand house (memorize these):**
+### Messaging House — Quick Reference
+
+**North Star:** InSync Training is the proven industry leader in outcome-based, human-centric live learning at scale.
+
+**Three Pillars:**
+- **Pillar 1 — Human-First Partnership (We Listen):** Bespoke programs built around each client's people, culture, and goals. True partner — not a vendor. Embeds into the client team.
+- **Pillar 2 — Unmatched Flexibility (We Adapt):** Scalable across regions, formats, languages, complexity. 2M+ employees trained. 5,000+ hours/month. 20+ languages.
+- **Pillar 3 — Research-Backed Methodology (We Lead the Way):** Pioneer since 2000. IQF grounded in neuroscience. Live Learning Formula. Proven, repeatable, trusted.
+
+**Brand Personality:** Thoughtful · Confident · Proven
+
+**Five Tone Principles:**
+1. Human, Not Corporate — conversational, real-world, partner-grade authority
+2. Clear, Not Complex — lead with clarity, be direct, no jargon-as-credibility
+3. Confident, Not Boastful — results speak, specifics over superlatives
+4. Flexible, Not One-Size-Fits-All — emphasize customization and responsiveness
+5. Practical, Not Theoretical — tie ideas to tangible results, outcomes over philosophy
+
+**The non-negotiables:**
 - Never say: "best-in-class," "synergy," "leverage" (as verb), "value-add," "holistic solutions," "innovative" without specifics
 - Never sound like a vendor brochure
 - Always tie ideas to tangible outcomes
@@ -177,6 +193,8 @@ Karen is the Learning Leadership Series author. Her register is practitioner-aut
 **Stat as solidarity (LinkedIn Post 2):**
 > "Seventy percent of L&D leaders are under increasing pressure to prove the impact of their programs. Only 48% measure anything beyond completion. That gap isn't a coincidence. It's a description of what most evaluation frameworks were built to do — and what they weren't."
 
+> ⚠️ **Stat correction (verified June 4, 2026):** The 70% figure is confirmed (LEO Learning/Watershed, 2019). The 48% figure is unconfirmed — no published year matches it exactly. When Sarah uses this stat pair going forward, write "only about half measure anything beyond completion." Do not write "48%."
+
 **Email opener:**
 > "There's a version of this you've probably lived through: the program ran well, the evaluation report was solid, and then someone in a leadership meeting asked a question the data couldn't answer. Not because the data was wrong. Because the measurement framework was built to track activity — completion, attendance, satisfaction — and the question being asked was about impact."
 
@@ -192,7 +210,7 @@ Karen is the Learning Leadership Series author. Her register is practitioner-aut
 - **Source attribution on every stat.** Never present a number without its source.
 - **Short paragraphs in email and social.** One idea per paragraph. Three sentences maximum in email before a break.
 - **The hook earns everything.** If the first sentence could apply to any campaign, it has failed.
-- **Never say:** best-in-class · synergy · leverage (as verb) · value-add · holistic · innovative (without specifics) · transform · world-class · exciting · game-changing
+- **Never say:** best-in-class · synergy · leverage (as verb) · value-add · holistic · innovative (without specifics) · transform · world-class · exciting · game-changing · **vendor** (InSync is a partner, not a vendor — do not use this word to describe InSync in any context, including when rebutting the perception) · **campaign** (internal marketing language — readers are not in a campaign, they are in a conversation; use "this month," "July," "these weeks," or "this conversation" instead)
 
 ---
 
@@ -204,6 +222,41 @@ Karen is the Learning Leadership Series author. Her register is practitioner-aut
 | Week 2 | Contrast — "Here's what different looks like" | Evidence, comparison, specificity | "Let's talk about your program" |
 | Week 3 | Proof — "Here's how we know it works" | Case study, credibility, precision | "Talk with our team this week" |
 | Week 4 | Invitation — "Let's look at your program together" | Direct, warm, specific ask | "Book a consultation today" |
+
+---
+
+---
+
+## Verified Research — Week 4 Approved Stats and Concepts
+
+**Rater Drift — VERIFIED, use with attribution**
+Without a shared observation framework, evaluator scores can fall from the 84th to the 43rd percentile over time, even when actual performance has not changed.
+- Source: Casabianca, Lockwood & McCaffrey (2015), "Trends in Classroom Observation Scores"
+- Cited in: Frontline Education, "5 Tips to Understanding and Avoiding Bias in Teacher Performance Evaluations" — https://www.frontlineeducation.com/blog/avoid-bias-in-teacher-performance-evaluations/
+- How to use: Attribution required. "Casabianca, Lockwood & McCaffrey, 2015" inline. Supports the case for InQuire as a shared calibration lens. Do not use as a headline. Belongs in carousel or supporting copy, not as a lead stat.
+
+**Phillips ROI Model — CONCEPT ONLY, no specific decimal**
+The Phillips ROI Model documents significant returns when training is built to measure correctly from the start. A specific figure (23.457%) has appeared in secondary sources (MAP Consulting) but the underlying primary study is not independently verified.
+- Source cited in: MAP Consulting, "7 Steps for Tracking and Evaluating Training Effectiveness" — https://mapconsulting.com/7-steps-for-tracking-and-evaluating-training-effectiveness/
+- How to use: Reference the Phillips ROI Model by name for credibility. Do not use the 23.457% figure or any specific decimal. Use as concept: "Programs that measure correctly see returns that satisfaction scores and completion rates never account for."
+
+**False Confidence / Distorted Dashboard — CONCEPT, no stat needed**
+"Inflated scores give leadership a distorted view of organizational capability that is never reflected in actual business results." Organizations make program decisions based on satisfaction scores that reflect how learners felt, not whether anything changed.
+- Source: NotebookLM report, "Beyond the Five-Star Rating: 5 Counter-Intuitive Truths for Measuring Real Learning Impact"
+- How to use: One sentence anywhere the problem statement needs sharpening. "Most organizations are reading dashboards that say the program worked. The business outcomes often tell a different story."
+
+---
+
+## Partnership Framing — Week 4 Approved Language
+
+Jeff's direction (approved Week 4): InSync is a partner, not a service provider. The consultation CTA should feel like the beginning of an ongoing relationship, not a one-time diagnostic transaction.
+
+**Approved language (from v8 copy):**
+- "That is how InSync works: alongside your team, not in front of it."
+- "This is what working with InSync looks like: your program, your questions, our framework. A partnership from the first conversation."
+- "That is what working with InSync looks like." (Thursday LinkedIn close)
+
+**What this replaces:** "No pitch. No agenda other than your measurement questions" is still correct — it removes the fear of a sales call. Partnership language names what the relationship IS, not just what it isn't. Both are needed.
 
 ---
 
