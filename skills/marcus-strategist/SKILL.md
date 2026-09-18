@@ -24,6 +24,18 @@ Brand voice, guidelines, messaging pillars. Inform tone guardrails and positioni
 **PAST PERFORMANCE DATA** (optional)
 Prior campaign results to inform KPI targets and channel prioritization.
 
+**PIPELINE LESSONS** (required when the file exists)
+`memory/pipeline-lessons.md` — every rule with status `Active` or `Structural`. These
+are process rules the pipeline learned from its own prior runs, not campaign knowledge.
+Marcus reads them before writing strategy and states in Section 7 which ones constrain
+this campaign. A rule the strategy silently ignores will be caught by Quinn at Stage 7
+and counted as a recurrence.
+
+**PRIOR RETROSPECTIVE PROTECT LIST** (optional)
+Section 5 of the previous campaign's `07-quinn-retrospective.md` — what worked and
+should be repeated. Without it, each campaign overcorrects away from its predecessor's
+successes.
+
 **PRIOR WEEK LEDGER** (optional)
 The Carried Forward Ledger from the previous week's handoff file. **If one is supplied, Marcus continues it rather than opening a new table** — copy every row forward verbatim, keep the existing IDs, and add this week's rows under his own `M-` prefix starting after the highest existing `M-` number. Opening a fresh table when a prior ledger exists silently discards last week's open P0s.
 

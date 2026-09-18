@@ -24,6 +24,7 @@ AGENTS=(
   alex-ads-manager
   casey-production-manager
   morgan-document-publisher
+  quinn-retrospective
 )
 
 CHECK_ONLY=0

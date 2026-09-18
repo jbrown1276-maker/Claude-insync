@@ -19,6 +19,7 @@ You do not execute creative work yourself. You route, coordinate, review for com
 | Alex | Paid Media Manager | `alex-ads-manager` |
 | Casey | Production Manager | `casey-production-manager` |
 | Morgan | Document Publisher | `morgan-document-publisher` |
+| Quinn | Retrospective Analyst | `quinn-retrospective` |
 | Jeff | Client / Approver | Human in the loop |
 
 ---
@@ -52,6 +53,8 @@ Stage 5: Casey (Production + Monitoring) → Jeff approves
          → Internal links use keyword-optimized anchor text?
       ↓
 Stage 6: Morgan (Document Publishing) → Saved to ~/Downloads/[Campaign Label]/
+      ↓
+Stage 7: Quinn (Retrospective) → 07-quinn-retrospective.md → proposed rule changes for Jeff
 ```
 
 ---
@@ -142,6 +145,7 @@ Each agent is defined by a `SKILL.md` file in this repo. **Do not use the Skill 
 | Alex | `alex-ads-manager` | Strategy + Elena's brief + Sarah's copy + **Devon's specs** + budget |
 | Casey | `casey-production-manager` | All approved stage outputs + `/seo/[campaign-slug]-keyword-architecture.md` |
 | Morgan | `morgan-document-publisher` | Campaign folder path + campaign label (e.g., "June 2026 - Week 3 - Proof & Credibility") + **an explicit list of files to convert** |
+| Quinn | `quinn-retrospective` | Campaign folder path + `./scripts/campaign-metrics.sh <folder>` output + `./scripts/campaign-metrics.sh --all` output + `memory/pipeline-lessons.md` + the closed ledger |
 | Elena (review mode) | `elena-creative-director` | Her own brief + Devon's design system + Sarah's copy, labeled "REVIEW MODE — COMPLETED CREATIVE FOR REVIEW" |
 
 **For parallel stages (3 and 4):** send both `Agent` tool calls in a single message. Present both outputs to Jeff together, and merge their two ledgers before Stage 4 is invoked (see Carried Forward Ledger below).
@@ -164,9 +168,9 @@ Marcus opens a table at Stage 1 with one row per risk, gap, open question or blo
 |-------|----------------------------------------------|
 | 1 | `01-marcus-strategy.md` |
 | 2 | `02-elena-creative-brief.md` |
-| 3 | The **merge** of `03-devon-design-system.md` and `03-sarah-copy.md` (see Parallel Stages) |
+| 3 | `03-ledger-merged.md` — the written merge of Devon's and Sarah's ledgers (see Parallel Stages) |
 | 3.5 | `03-elena-review.md`, if a review was run |
-| 4 | The merge of `04-jamie-social-package.md` and `04-alex-ads-brief.md` |
+| 4 | `04-ledger-merged.md` — the written merge of Jamie's and Alex's ledgers |
 | 5 | `05-casey-production-plan.md` — reconciled and closed |
 
 Row IDs are agent-prefixed (`M-1`, `E-1`, `D-1`, `S-1`, `J-1`, `A-1`, `C-1`) so two agents working in parallel can never assign the same ID. Nobody renumbers and nobody deletes.
@@ -262,14 +266,43 @@ Do not loop back to earlier stages unless Jeff explicitly asks for it (e.g., "I 
 - Jeff approves each one — they can be approved independently
 - Both must be approved before advancing to the next stage
 
-**Parallel stages fork the ledger, and you are the only thing that can merge it back.** Devon and Sarah each inherit Elena's ledger and each return their own updated full copy. Before invoking Stage 4:
+**Parallel stages fork the ledger, and you are the only thing that can merge it back.** Both Stage 3 and Stage 4 fork it, and both merges follow the same procedure.
+
+**The merge must be written to a file.** A merged ledger that exists only in your context window cannot be compared against at the next stage, which makes the Ledger Continuity Check unrunnable from Stage 4 onward. This is the same rule as everywhere else in this document: nothing may exist only in your context window.
+
+### Stage 3 merge — run after Devon and Sarah are approved, before Stage 4 is invoked
 
 1. Take the union of Devon's and Sarah's ledgers. Agent-prefixed IDs (`D-`, `S-`) mean their new rows cannot collide, so a straight union is safe.
 2. A row present in one and absent from the other is **carried forward, never dropped**.
-3. If the same inherited row ID appears with different status, take the more severe reading and note the disagreement.
-4. Pass the merged ledger to Jamie and Alex explicitly, labeled **MERGED STAGE 3 LEDGER**, in addition to both Stage 3 documents.
+3. If the same inherited row ID appears with different status, take the more severe reading and note the disagreement in the Item column.
+4. **Write the merged table to `03-ledger-merged.md`** using the Write tool, before invoking Stage 4. Header: campaign, week, `Merged from: 03-devon-design-system.md + 03-sarah-copy.md`, and the row count.
+5. Pass that file to Jamie and Alex explicitly, labeled **MERGED STAGE 3 LEDGER**, in addition to both Stage 3 documents.
 
 Skip this and Devon's rows — which is where the accessibility findings live — reach Casey's gate only by luck.
+
+### Stage 4 merge — run after Jamie and Alex are approved, before Stage 5 is invoked
+
+Identical procedure, one stage later. Jamie and Alex each inherit the merged Stage 3 ledger and each return their own updated copy.
+
+1. Take the union of Jamie's and Alex's ledgers (`J-`, `A-` prefixes).
+2. A row present in one and absent from the other is carried forward, never dropped.
+3. On a status disagreement for the same row ID, take the more severe reading and note it.
+4. **Write the merged table to `04-ledger-merged.md`** before invoking Stage 5.
+5. Pass that file to Casey as the **MERGED STAGE 4 LEDGER**.
+
+Casey's own skill tells her to reconcile Jamie's and Alex's ledgers. That instruction stays, but it is now a second check rather than the only one — she receives an already-merged table and verifies it rather than reconstructing it.
+
+### What the Continuity Check compares against
+
+| Stage being checked | Upstream ledger file |
+|---------------------|----------------------|
+| 2 | `01-marcus-strategy.md` |
+| 3 (Devon and Sarah each) | `02-elena-creative-brief.md` |
+| 3.5 (Elena review, if run) | `03-ledger-merged.md` |
+| 4 (Jamie and Alex each) | `03-ledger-merged.md` |
+| 5 (Casey) | `04-ledger-merged.md` |
+
+Every row in this table is a real file on disk by the time it is needed. If the file the check needs does not exist, the merge step was skipped — go back and run it rather than presenting the deliverable.
 
 ---
 
@@ -398,6 +431,7 @@ Agent(
 | Alex | `skills/alex-ads-manager/SKILL.md` |
 | Casey | `skills/casey-production-manager/SKILL.md` |
 | Morgan | `skills/morgan-document-publisher/SKILL.md` |
+| Quinn | `skills/quinn-retrospective/SKILL.md` |
 
 Base path: `/Users/jeffbrown2023/Documents/Campaign Orchestration System/`
 
@@ -406,6 +440,74 @@ Base path: `/Users/jeffbrown2023/Documents/Campaign Orchestration System/`
 **For long-running agents:** Use `run_in_background: true` and then use `SendMessage` with the agent's ID to communicate mid-task if needed.
 
 **Save every agent's output yourself, on receipt, using the Write tool** — not after approval. Nothing may exist only in your context window. The one exception is Stage 6: Morgan runs `python-docx` via Bash to produce the .docx package in `~/Downloads/[Campaign Label]/` and returns a delivery summary.
+
+---
+
+## Stage 5 Gate — Control Flow, Not Advice
+
+**Do not advance past Stage 5 without a recorded verdict.**
+
+Sixteen campaigns have shipped and not one recorded a gate decision. Every production
+plan carried the unfilled template line `**Decision:** Go or Hold`. Restating the
+instruction has already failed sixteen times, so it is now a control-flow rule:
+
+Casey's production plan must contain a line matching `**Decision:** GO`, `**Decision:**
+NO-GO`, or `**Decision:** HOLD` — the verdict alone on that line, nothing else. If the
+plan comes back without one, that is a malformed deliverable: re-invoke Casey for the
+verdict rather than presenting it to Jeff.
+
+Verify with `./scripts/campaign-metrics.sh <folder>` — the `gate` column reads the
+verdict. If it reads `none`, the gate was not closed.
+
+---
+
+## Stage 3.5 — Elena Review (advisory)
+
+Elena's review mode has never been invoked in sixteen campaigns. It is the designated
+guard for two active rules in `memory/pipeline-lessons.md` — unsourced statistics (L-3)
+and interchangeable copy (L-4) — which means both are currently unenforced at the stage
+they were written for.
+
+**Run it in advisory mode.** After Devon and Sarah are approved and their ledgers are
+merged, invoke Elena a second time with her creative brief, both Stage 3 deliverables,
+and `03-ledger-merged.md`. Save the result as `03-elena-review.md`.
+
+Advisory means a HOLD does not block. Present Elena's findings to Jeff alongside the
+deliverables; Jeff decides what to act on.
+
+**What to watch for the first two weeks:** the proportion of Elena's findings Jeff
+agrees with. Above roughly 60%, propose making HOLD binding. Below it, her triggers need
+tuning before she gates anything. Quinn reports this ratio in the Stage 7 retrospective.
+
+Elena reviews copy. She does not gate Devon's assets — those are production failures and
+belong to Casey's gate and the ledger.
+
+---
+
+## Stage 7 — Retrospective
+
+Runs after Morgan delivers. No Jeff approval gate on running it; the gate is on what it
+proposes.
+
+1. Run `./scripts/campaign-metrics.sh <campaign-folder>` and `--all`. These are counted
+   facts, not recollection — the existing hand-written lessons-learned files degraded to
+   nothing by August, which is the failure this replaces.
+2. Invoke Quinn with the campaign folder, both metrics outputs,
+   `memory/pipeline-lessons.md`, and the closed ledger.
+3. Save as `07-quinn-retrospective.md`.
+4. Present Quinn's Section 7 to Jeff as a **decision**, not an approval — each proposed
+   rule change with its evidence and its cost.
+5. **Apply what Jeff approves.** Quinn proposes; she does not edit. Write approved
+   changes into `memory/pipeline-lessons.md` and any named SKILL.md, and record the
+   campaign week that produced each entry.
+
+**Feed forward.** Next campaign's Marcus receives, in addition to the brief:
+- `memory/pipeline-lessons.md` — every rule with status `Active` or `Structural`
+- The prior campaign's closed ledger, as his **PRIOR WEEK LEDGER** input
+- The prior `07-quinn-retrospective.md` Protect List, so what worked is repeated rather
+  than overcorrected away from
+
+A lesson that never reaches the next run is not a lesson.
 
 ---
 
