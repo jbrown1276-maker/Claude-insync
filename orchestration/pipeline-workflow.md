@@ -1,6 +1,7 @@
 # Campaign Pipeline — Full Workflow Reference
 
-> This document details every step the orchestrator follows from brief intake through production. CLAUDE.md is the high-level guide; this is the detailed protocol.
+> **CLAUDE.md is authoritative. This file is a secondary reference.**
+> Where the two disagree on stages, gates, inputs, file paths, revision limits or the Carried Forward Ledger, **CLAUDE.md wins** and this document is wrong and should be corrected. Do not run a campaign from this file alone — it does not restate the ledger rules, the three-pass revision cap, or the Stage 3 ledger merge, all of which are mandatory and live in CLAUDE.md.
 
 ---
 
@@ -26,7 +27,7 @@ Before kicking off any stage, confirm:
 
 **Process:**
 1. Read all inputs
-2. Invoke Marcus subagent with full persona + inputs
+2. Invoke Marcus subagent with the full contents of `skills/marcus-strategist/SKILL.md` + inputs
 3. Marcus produces strategy document covering:
    - Campaign objective and success metrics
    - Target audience (segments, mindset, insights)
@@ -57,7 +58,7 @@ Before kicking off any stage, confirm:
 
 **Process:**
 1. Read all inputs
-2. Invoke Elena subagent with full persona + inputs
+2. Invoke Elena subagent with the full contents of `skills/elena-creative-director/SKILL.md` + inputs
 3. Elena produces creative brief covering:
    - Campaign concept (the big idea)
    - Creative pillars (3–4 key directions)
@@ -107,7 +108,7 @@ Sarah produces:
 - Copy notes and tone guidance
 
 **Process:**
-1. Invoke Devon and Sarah subagents simultaneously (two Agent tool calls in one message)
+1. Invoke Devon and Sarah subagents simultaneously (two Agent tool calls in one message), each with the full contents of `skills/devon-art-director/SKILL.md` / `skills/sarah-copywriter/SKILL.md` + inputs
 2. Present both outputs to Jeff together
 3. Jeff may approve each independently or request revisions on one or both
 4. Both must be fully approved before Stage 4 begins
@@ -142,7 +143,7 @@ Jamie produces:
 - Engagement tactics and community management notes
 - Stories/Reels/short-form video direction
 
-### Alex — Google Ads Manager
+### Alex — Paid Media Manager
 
 Alex produces:
 - Keyword strategy (search terms, intent mapping, keyword groups)
@@ -156,7 +157,7 @@ Alex produces:
 - Competitive analysis
 
 **Process:**
-1. Invoke Jamie and Alex subagents simultaneously
+1. Invoke Jamie and Alex subagents simultaneously, each with the full contents of `skills/jamie-social-manager/SKILL.md` / `skills/alex-ads-manager/SKILL.md` + inputs (both agents get Devon's design system and the merged Stage 3 ledger)
 2. Present both outputs to Jeff together
 3. Jeff approves each independently
 4. Both must be approved before Stage 5 begins
@@ -173,7 +174,8 @@ Alex produces:
 **Goal:** Casey coordinates actual execution — assets produced, scheduled, launched, tracked, and optimized.
 
 **Inputs:**
-- All approved Stage 3 and Stage 4 outputs
+- All approved Stage 1, 2, 3 and 4 outputs (Casey's skill requires Marcus's strategy and Elena's brief, not just Stage 3–4)
+- `/seo/[campaign-slug]-keyword-architecture.md` (evidence source for the SEO gate rows)
 - `00-brief.md` (campaign dates, budget, deadlines)
 - All brand reference files
 
@@ -186,13 +188,33 @@ Alex produces:
 - Optimization recommendations based on live data
 
 **Process:**
-1. Invoke Casey subagent with all inputs
+1. Invoke Casey subagent with the full contents of `skills/casey-production-manager/SKILL.md` + all inputs
 2. Casey's initial output is the production plan — present to Jeff
 3. Once live, Casey provides periodic performance reports
 4. Save initial plan as `05-casey-production-plan.md`
 5. Save each performance report as `05-casey-performance-report-[date].md`
 
-**Casey is the final stage — no Jeff approval gate before production begins (Jeff approved everything upstream). Casey reports to Jeff during and after execution.**
+**Casey's production plan requires a Jeff approval gate** (CLAUDE.md, Pipeline Overview). Do not begin production or advance to Stage 6 without it. Casey then reports to Jeff during and after execution.
+
+Casey's plan closes the Carried Forward Ledger and converts every still-open P0 into a go/no-go gate criterion. That gate, and the accessibility / SEO / ledger-closed rows that are mandatory on every campaign, are specified in `skills/casey-production-manager/SKILL.md`.
+
+---
+
+## Stage 6 — Document Publishing (Morgan)
+
+**Goal:** Package every approved campaign output as formatted .docx files for Jeff.
+
+**Inputs:**
+- Campaign folder path (absolute)
+- Campaign label, e.g. `July 2026 - Week 1 - Proof Over Promises`
+- **An explicit list of files to convert.** Required, not inferred — campaign folders hold superseded drafts (`03-sarah-copy.md`, `-v2`, `-v3`). Only the highest-version approved file per stage is included.
+
+**Process:**
+1. Invoke Morgan subagent with the full contents of `skills/morgan-document-publisher/SKILL.md` + inputs
+2. Morgan converts each file with `python-docx` and writes to `~/Downloads/[Campaign Label]/`
+3. Morgan returns a delivery summary — every .docx created, full path, file size, timestamp
+
+**No Jeff approval gate.** The delivery summary is the confirmation signal. If no delivery summary comes back, Stage 6 did not complete — say so rather than reporting the campaign finished.
 
 ---
 
@@ -208,7 +230,9 @@ Alex produces:
 | 4 | Alex | `04-alex-ads-brief-v2.md` |
 | 5 | Casey | `05-casey-production-plan-v2.md` |
 
-Increment version number for each additional revision (v3, v4, etc.).
+Increment the version number for each additional revision (`-v2`, `-v3`, `-v4`), matching the `Version N` line in the document header. Never overwrite a prior version.
+
+**Revisions are capped at three passes.** Devon, Sarah, Jamie and Alex return an **Escalation Report** instead of a fourth pass. Save it as `0N-[agent]-escalation.md` and present it to Jeff as a decision, not an approval. Do not re-invoke the agent for a fourth pass.
 
 ---
 

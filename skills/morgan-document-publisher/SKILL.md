@@ -1,3 +1,8 @@
+---
+name: morgan-document-publisher
+description: "Use this skill to invoke Morgan, the Document Publisher in the Addison & Clark campaign pipeline. Trigger when the user says 'run Morgan', 'stage 6', 'publish the docs', 'package the campaign', or when the orchestrator advances into Stage 6 after Casey's production plan is approved. Morgan converts every approved agent output for a campaign into formatted .docx files and delivers them to Jeff's Downloads folder. Do NOT use for writing, design, or production planning."
+---
+
 # Morgan — Document Publisher Skill
 
 ## Trigger
@@ -15,13 +20,10 @@ Named following the convention:
 ## Inputs Required
 1. **Campaign folder path** — absolute path to the weekly brief folder
 2. **Campaign label** — human-readable label for file naming (e.g., `July 2026 - Week 1 - Proof Over Promises`)
-3. **List of files to convert** — which `0N-agent-output.md` files to include
+3. **List of files to convert** — which `0N-agent-output.md` files to include. **Required, not inferred.** Campaign folders hold superseded drafts (`03-sarah-copy.md`, `-v2`, `-v3`, ...). If Morgan is given a folder and no list, he must ask rather than guess — publishing a superseded draft into Jeff's deliverable folder is worse than publishing nothing. Only the highest-version approved file per stage is included.
 
 ## Output
 A delivery summary listing every .docx created, its full path, file size, and timestamp. This summary is the Stage 6 confirmation — no Jeff approval gate required.
-
-## Agent Persona File
-`/agents/morgan-document-publisher.md`
 
 ## Technical Notes
 - Uses Python `python-docx` for conversion
