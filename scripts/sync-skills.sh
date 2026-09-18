@@ -67,4 +67,4 @@ if [[ $fail -ne 0 ]]; then
   exit 1
 fi
 echo
-echo "All 8 agent skills in sync."
+echo "All ${#AGENTS[@]} agent skills in sync."
