@@ -1,0 +1,48 @@
+<!-- n1 email CTA button. HubSpot strips <style> blocks: inline styles, literal hex only.
+     Devon design system S6.5. Light path + dark-mode path. 360x64, 8px radius, 48px clear. -->
+<!--[if !mso]><!-->
+<meta name="color-scheme" content="light">
+<meta name="supported-color-schemes" content="light">
+<!--<![endif]-->
+
+<!-- LIGHT PATH -->
+<table role="presentation" cellpadding="0" cellspacing="0" border="0" align="center"
+       bgcolor="#F3F4F6" style="background-color:#F3F4F6; margin:48px auto;">
+  <tr>
+    <td height="48" style="height:48px; line-height:48px; font-size:0;">&nbsp;</td>
+  </tr>
+  <tr>
+    <td align="center" bgcolor="#032B43"
+        style="background-color:#032B43; border:1px solid #032B43;
+               border-radius:8px; padding:0; mso-padding-alt:0;">
+      <a href="https://blog.insynctraining.com/ai-producer-superpower"
+         style="display:block; width:360px; height:64px; line-height:64px;
+                font-family:Inter,Archivo,'Helvetica Neue',Helvetica,Arial,sans-serif;
+                font-size:22px; font-weight:600; color:#FFFFFF; text-decoration:none;
+                text-align:center; letter-spacing:0.2px;">Read the blog</a>
+    </td>
+  </tr>
+  <tr>
+    <td height="48" style="height:48px; line-height:48px; font-size:0;">&nbsp;</td>
+  </tr>
+</table>
+
+<!-- DARK-MODE PATH (S6.5 / ledger D-8).
+     The 1px #032B43 border is the guard: if Outlook.com drops the detected-dark fill,
+     the border preserves the button shape and the inline label colour survives a
+     cell-level recolour. Gold hairlines vanish under inversion by design. -->
+<!--[if !mso]><!-->
+<style type="text/css">
+  @media (prefers-color-scheme: dark) {
+    .n1-btn-cell { background-color:#032B43 !important; border-color:#FFFFFF !important; }
+    .n1-btn-a    { color:#FFFFFF !important; }
+    .n1-plate-light { display:none !important; mso-hide:all; }
+    .n1-plate-dark  { display:block !important; }
+  }
+</style>
+<!--<![endif]-->
+
+<!-- PNG fallbacks, both non-transparent (no alpha channel in any email asset):
+     light  n1-email-cta-button-v1@2x.png          720x128 on #F3F4F6
+     dark   n1-email-cta-button-darkmode-v1@2x.png 720x128 on #032B43
+     Logo plates: n1-logo-plate-light-v1.svg / n1-logo-plate-dark-v1.svg -->
